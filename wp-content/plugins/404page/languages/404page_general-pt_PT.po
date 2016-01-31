@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 404page\n"
+"POT-Creation-Date: 2014-05-02 14:12+0100\n"
+"PO-Revision-Date: 2015-06-23 17:03-0000\n"
+"Last-Translator: gaston999 <gaston_ferbari@hotmail.com>\n"
+"Language-Team: Pedro Pina <lagentprovocateur@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Like this Plugin?"
+msgstr "Como avalia este plugin?"
+
+msgid "Please rate the plugin"
+msgstr "Por favor, classifique este plugin"
+
+msgid "Plugin homepage"
+msgstr "Página do plugin"
+
+msgid "Author homepage"
+msgstr "Homepage do autor"
+
+msgid "Authors Google+ Page"
+msgstr "Google + - página do autor"
+
+msgid "Authors facebook Page"
+msgstr "Página no Facebook do autor"
+
+msgid "Need help?"
+msgstr "Precisa de ajuda?"
+
+msgid "Take a look at the FAQ section"
+msgstr "Veja a secção de Perguntas Frequentes do plugin (FAQ)"
+
+msgid "Take a look at the Support section"
+msgstr "Veja a secção de Suporte do plugin"
+
+msgid "Feel free to contact the Author"
+msgstr "Contactar o autor"

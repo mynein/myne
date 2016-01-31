@@ -1,0 +1,2 @@
+<?php global $post;?>
+<p><label>Homepage Hot News  </label><input type="checkbox" value="1" name="showbreakingnews" <?php if(get_post_meta($post->ID,THEME_SLUG.'showbreakingnews',true)==1) echo "checked='checked'";?>/></p>

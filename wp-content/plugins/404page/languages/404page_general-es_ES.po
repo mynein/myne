@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 404page\n"
+"POT-Creation-Date: 2014-05-02 14:12+0100\n"
+"PO-Revision-Date: 2014-12-30 19:39-0300\n"
+"Last-Translator: gaston999 <gaston_ferbari@hotmail.com>\n"
+"Language-Team: CosaDeMandinga.com.ar <sw@smartware.cc>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Like this Plugin?"
+msgstr "&iquest;Le gusta este Plugin?"
+
+msgid "Please rate the plugin"
+msgstr "Por favor califique nuestro plugin"
+
+msgid "Plugin homepage"
+msgstr "P&aacute;gina principal del Plugin"
+
+msgid "Author homepage"
+msgstr "P&aacute;gina principal de los Autores"
+
+msgid "Authors Google+ Page"
+msgstr "P&aacute;gina Google+ de los Autores"
+
+msgid "Authors facebook Page"
+msgstr "P&aacute;gina en Facebook de los Autores"
+
+msgid "Need help?"
+msgstr "&iquest;Necesita ayuda?"
+
+msgid "Take a look at the FAQ section"
+msgstr "Eche un vistazo a la sección de Preguntas Frecuentes"
+
+msgid "Take a look at the Support section"
+msgstr "Eche un vistazo a la sección de Soporte"
+
+msgid "Feel free to contact the Author"
+msgstr "No dude contactar con el Autor del plugin"

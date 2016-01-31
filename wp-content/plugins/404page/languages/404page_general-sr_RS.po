@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 404page\n"
+"POT-Creation-Date: 2014-05-02 14:12+0100\n"
+"PO-Revision-Date: 2015-01-08 10:49+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: smartware.cc <sw@smartware.cc>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Like this Plugin?"
+msgstr "Da li vam se dopada ovaj plugin?"
+
+msgid "Please rate the plugin"
+msgstr "Molimo vas da ocenite ovaj plugin"
+
+msgid "Plugin homepage"
+msgstr "Početna stranica plugin-a"
+
+msgid "Author homepage"
+msgstr "Početna stranica autora"
+
+msgid "Authors Google+ Page"
+msgstr "Google+ stranica autora"
+
+msgid "Authors facebook Page"
+msgstr "Facebook stranica autora "
+
+msgid "Need help?"
+msgstr "Treba vam pomoć?"
+
+msgid "Take a look at the FAQ section"
+msgstr "Pogledajte odeljak za često postavljana pitanja"
+
+msgid "Take a look at the Support section"
+msgstr "Pogledajte odeljak za podršku"
+
+msgid "Feel free to contact the Author"
+msgstr "Pišite autoru"

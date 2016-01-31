@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 404page\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "404 Error Page"
+msgstr ""
+
+msgid "Page to be displayed as 404 page"
+msgstr ""
+
+msgid "&mdash; NONE (WP default 404 page) &mdash;"
+msgstr ""
+
+msgid ""
+"The page you have selected as 404 page does not exist anymore. Please choose "
+"another page."
+msgstr ""
+
+msgid "Edit Page"
+msgstr ""

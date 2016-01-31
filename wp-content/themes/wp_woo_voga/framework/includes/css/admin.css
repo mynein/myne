@@ -1,0 +1,96 @@
+
+/* ------------------------------------------------------------ */
+/*                           MENU CONFIG                        */
+/* ------------------------------------------------------------ */
+
+#nav-menus-frame *{box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;}
+.menu-item-bar dt.menu-item-handle {width:100%;transition:all 0.3s ease-in-out 0s;-moz-transition:all 0.3s ease-in-out 0s;-webkit-transition:all 0.3s ease-in-out 0s;}
+.menu-item-edit-active dt.menu-item-handle {background:#2ea2cc;border-color:#2ea2cc;color:#fff;}
+.menu-item-edit-active dt.menu-item-handle .item-type {color:#fff;} 
+.menu-item-edit-active dt.menu-item-handle .item-edit:before {color:#fff;}
+.menu-item-edit-active .menu-item-settings {border-color:#2ea2cc;}
+.menu-item-bar .menu-item-handle:hover {border-color:#2ea2cc;background:#2ea2cc;color:#fff;}
+.menu-item-bar .menu-item-handle:hover .item-type,
+.menu-item-bar .menu-item-handle:hover .item-edit:before {color:#fff;}
+.menu-item-settings > br {display:none;}
+
+.menu-item-settings {width:100%;padding:10px;}
+.description-wide,
+.menu-item-settings .description-thin,
+.menu-item-settings .colorpicker-menu {width:33.3%;padding:3px 10px 7px;margin:0!important;}
+.menu-item-actions {width:100%;}
+.menu-item-settings .description-thin,
+.menu-item-settings textarea {height:150px;}
+.menu-item-handle .item-title {}
+
+#menu-to-edit .menu-item-settings > p{height:auto;float:left;overflow:hidden;display:inline-block;}
+#menu-to-edit .menu-item-settings > div.colorpicker-menu {overflow:hidden;}
+#menu-to-edit .menu-item-settings > div.colorpicker-menu input {width:80px;float:left;}
+#menu-to-edit .menu-item-settings > div.colorpicker-menu .add-on {padding:2px;background:#fff;border:1px solid #DFDFDF;float:left;margin-left:3px;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px;}
+#menu-to-edit .menu-item-settings > p.hidden-field {display:none;}
+#menu-to-edit .input-append.color .add-on i, #menu-to-edit .input-prepend.color .add-on i {width:20px;height:20px;}
+
+.wp-editor-wrap.wd-custom-menu {clear:both;padding:3px 10px 7px;}
+#menu-to-edit .menu-item-settings > p.field-static-html {width:100%;}
+
+#menu-to-edit .wp-editor-wrap {clear:both;}
+
+/* ------------------------------------------------------------- */
+/*                       PAGE CONFIG                             */
+/* ------------------------------------------------------------- */
+
+ul.page_config_list li label {vertical-align:top;min-width:190px;display:inline-block;}
+ul.page_config_list li select, ul.page_config_list li input[type="text"]{min-width: 220px;}
+ul.page_config_list li input.upload_field{width: 300px;}
+ul.page_config_list li img.preview_image{display: block; margin-left: 192px;margin-top: 5px;max-width:150px;}
+
+/* ------------------------------------------------------------- */
+/*                       POST CONFIG                             */
+/* ------------------------------------------------------------- */
+
+.wd-metabox-layout .area-content label {vertical-align:top;min-width:160px;display:inline-block;}
+.wd-metabox-layout .area-content select, .wd-metabox-layout .area-content input{min-width: 220px;}
+.wd-metabox-layout .area-content .bg-input{display: inline-block;}
+
+/* ------------------------------------------------------------- */
+/*                       EDIT COLOR PICKER                       */
+/* ------------------------------------------------------------- */
+
+.colorpicker {display:none;position:absolute!important;width:120px!important;z-index:1000;background-color:#dcdcdc;box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;}
+.colorpicker:after {border-bottom-color:#ebebeb!important}
+#config-custom-interface .toggle-enable .bg-input {float:none;margin-bottom:20px;}
+#config-custom-interface .toggle-enable .bg-input-inner {width:165px;}
+#config-custom-interface .toggle-enable select {box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;background:#f7f7f7}
+#config-custom-interface .toggle-enable select option {background:#f7f7f7}
+#config-custom-interface .color-picker-wrapper {float:left;width:30%;margin-right:3%;margin-bottom:10px;}
+#config-custom-interface .bg-input-inner {float:left;position:relative;}
+#config-custom-interface .color-picker-inner input {box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;}
+#config-custom-interface .add-on {position:absolute;right:-30px;top:4px;z-index:1000;padding:3px;background:#f3f3f3;border:1px solid #dcdcdc}
+#config-custom-interface .add-on:hover {background:#fff;border-color:#b0b0b0;}
+#config-custom-interface .select-box-content-sort .bg-input-inner  {width:136px;}
+
+/* ------------------------------------------------------------- */
+/*                  EDIT SHORTCODE AWESOME ICON                  */
+/* ------------------------------------------------------------- */
+
+.wd-select-icon i {cursor:pointer;}
+.wd-select-icon i:hover {color:red;}
+.wd-select-icon.selected i {color:red;cursor:default;}
+.wd-icon-selector > span {width:10%;display:inline-block;}
+select .fa-lg,select .fa-1x,select .fa-2x,select .fa-3x,select .fa-4x,select .fa-5x {font-size:13px!important;line-height:18px!important;}
+
+/* ------------------------------------------------------------- */
+/*                         ICON SHORTCODE                        */
+/* ------------------------------------------------------------- */
+.vc_element-icon.icon-wpb-wpdance,
+.vc_element-icon.icon-wpb-woo{
+	background:url(../images/wpdance.png) center no-repeat !important;
+	width:17px;height:17px;display:inline-block;
+}
+
+/* ------------------------------------------------------------- */
+/*               RESET SELECT BOX FONTAWESOME                    */
+/* ------------------------------------------------------------- */
+
+select.icon_style,
+select option.icon-no-border,select option.icon-square-border,select option.icon-circle-border {font-family:"Open Sans",sans-serif!important;font-size:13px;}   

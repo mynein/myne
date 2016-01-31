@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 404page\n"
+"POT-Creation-Date: 2014-05-02 14:12+0100\n"
+"PO-Revision-Date: 2015-08-05 17:19+0100\n"
+"Last-Translator: smartware.cc <sw@smartware.cc>\n"
+"Language-Team: smartware.cc <sw@smartware.cc>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Like this Plugin?"
+msgstr "Du magst dieses Plugin?"
+
+msgid "Please rate the plugin"
+msgstr "Bitte bewerte das Plugin"
+
+msgid "Plugin homepage"
+msgstr "Plugin Homepage"
+
+msgid "Author homepage"
+msgstr "Homepage des Autors"
+
+msgid "Authors Google+ Page"
+msgstr "Google+ Seite des Autors"
+
+msgid "Authors facebook Page"
+msgstr "Facebook Seite des Autors"
+
+msgid "Need help?"
+msgstr "Du benötigst Hilfe?"
+
+msgid "Take a look at the Plugin Doc"
+msgstr "Sieh Dir die Plugin Doku an"
+
+msgid "Take a look at the FAQ section"
+msgstr "Sieh Dir den FAQ Bereich an"
+
+msgid "Take a look at the Support section"
+msgstr "Sieh Dir den Support Bereich an"
+
+msgid "Feel free to contact the Author"
+msgstr "Kontaktiere den Autor"

@@ -1,0 +1,4916 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Voga v1.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-13 08:37:54+0000\n"
+"Last-Translator: admin <duy.nguyen@dev.codespot.vn>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:12
+#@ wpdance
+msgid "You may have stumbled here by accident or the post you are looking for is no longer here."
+msgstr ""
+
+#: 404.php:13
+#@ wpdance
+msgid "Please try one of the following:"
+msgstr ""
+
+#: 404.php:16
+#@ wpdance
+msgid "Return to the Usability."
+msgstr ""
+
+#: 404.php:17
+#@ wpdance
+msgid "Use the navigation menu at the top of the page"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:599
+#@ wpdance
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/front-end/options.php:47
+#: admin/front-end/options.php:71
+#@ wpdance
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:72
+#@ wpdance
+msgid "Options Reset"
+msgstr ""
+
+#: admin/functions/functions.options.php:891
+#@ wpdance
+msgid "YOU MAY ALSO LIKE"
+msgstr ""
+
+#: admin/functions/functions.options.php:907
+#@ wpdance
+msgid "Share this"
+msgstr ""
+
+#: admin/functions/functions.options.php:1255
+#: single-portfolio.php:149
+#@ wpdance
+msgid "Related Posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:1281
+#@ wpdance
+msgid "Comment(s)"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+#@ wpdance
+msgid "Category : %s"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+#@ wpdance
+msgid "Search Results for : %s"
+msgstr ""
+
+#: archive.php:41
+#, php-format
+#@ wpdance
+msgid "Day : %s"
+msgstr ""
+
+#: archive.php:45
+#, php-format
+#@ wpdance
+msgid "Month : %s"
+msgstr ""
+
+#: archive.php:45
+#@ wpdance
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:50
+#, php-format
+#@ wpdance
+msgid "Year : %s"
+msgstr ""
+
+#: archive.php:50
+#@ wpdance
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:72
+#, php-format
+#@ wpdance
+msgid "Tag : %s"
+msgstr ""
+
+#: archive.php:80
+#, php-format
+#@ wpdance
+msgid "Author : %s"
+msgstr ""
+
+#: archive.php:85
+#@ wpdance
+msgid "OOPS! FILE NOT FOUND"
+msgstr ""
+
+#: archive.php:89
+#@ wpdance
+msgid "Archive"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+#@ wpdance
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+#: bbpress/loop-topics.php:19
+#@ wpdance
+msgid "Topic"
+msgstr ""
+
+#: bbpress/content-statistics.php:17
+#@ wpdance
+msgid "Registered Users"
+msgstr ""
+
+#: bbpress/content-statistics.php:22
+#@ wpdance
+msgid "Forums"
+msgstr ""
+
+#: bbpress/content-statistics.php:27
+#: bbpress/loop-forums.php:20
+#@ wpdance
+msgid "Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:32
+#: bbpress/loop-forums.php:21
+#: bbpress/loop-replies.php:32
+#: bbpress/loop-replies.php:70
+#: bbpress/loop-topics.php:21
+#@ wpdance
+msgid "Replies"
+msgstr ""
+
+#: bbpress/content-statistics.php:37
+#@ wpdance
+msgid "Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:44
+#@ wpdance
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:53
+#@ wpdance
+msgid "Hidden Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:64
+#@ wpdance
+msgid "Hidden Replies"
+msgstr ""
+
+#: bbpress/feedback-logged-in.php:13
+#@ wpdance
+msgid "You are already logged in."
+msgstr ""
+
+#: bbpress/feedback-no-access.php:13
+#@ wpdance
+msgid "Private"
+msgstr ""
+
+#: bbpress/feedback-no-access.php:16
+#@ wpdance
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: bbpress/feedback-no-forums.php:13
+#@ wpdance
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-replies.php:13
+#@ wpdance
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-search.php:13
+#@ wpdance
+msgid "Oh bother! No search results were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-topics.php:13
+#@ wpdance
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+#@ wpdance
+msgid "Author Information"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+#@ wpdance
+msgid "Your information:"
+msgstr ""
+
+#: bbpress/form-anonymous.php:22
+#@ wpdance
+msgid "Name (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:27
+#@ wpdance
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:32
+#@ wpdance
+msgid "Website:"
+msgstr ""
+
+#: bbpress/form-forum.php:35
+#: bbpress/form-topic.php:41
+#, php-format
+#@ wpdance
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+#, php-format
+#@ wpdance
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+#@ wpdance
+msgid "Create New Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:47
+#@ wpdance
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr ""
+
+#: bbpress/form-forum.php:55
+#: bbpress/form-reply.php:44
+#: bbpress/form-topic.php:61
+#@ wpdance
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: bbpress/form-forum.php:67
+#, php-format
+#@ wpdance
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-forum.php:82
+#: bbpress/form-reply.php:64
+#: bbpress/form-topic.php:90
+#@ wpdance
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+#: bbpress/form-forum.php:91
+#@ wpdance
+msgid "Forum Type:"
+msgstr ""
+
+#: bbpress/form-forum.php:100
+#@ wpdance
+msgid "Status:"
+msgstr ""
+
+#: bbpress/form-forum.php:109
+#@ wpdance
+msgid "Visibility:"
+msgstr ""
+
+#: bbpress/form-forum.php:118
+#@ wpdance
+msgid "Parent Forum:"
+msgstr ""
+
+#: bbpress/form-forum.php:123
+#@ wpdance
+msgid "(No Parent)"
+msgstr ""
+
+#: bbpress/form-forum.php:138
+#: bbpress/form-reply-move.php:72
+#: bbpress/form-reply.php:135
+#: bbpress/form-topic-merge.php:93
+#: bbpress/form-topic-split.php:97
+#: bbpress/form-topic.php:203
+#: framework/functions/comment.php:46
+#: framework/importer/wordpress-importer.php:286
+#@ wpdance
+#@ wordpress-importer
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-forum.php:161
+#, php-format
+#@ wpdance
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+#@ wpdance
+msgid "You cannot create new forums."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+#@ wpdance
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: bbpress/form-protected.php:14
+#@ wpdance
+msgid "Protected"
+msgstr ""
+
+#: bbpress/form-reply-move.php:24
+#, php-format
+#@ wpdance
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: bbpress/form-reply-move.php:29
+#@ wpdance
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr ""
+
+#: bbpress/form-reply-move.php:33
+#@ wpdance
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr ""
+
+#: bbpress/form-reply-move.php:37
+#@ wpdance
+msgid "Move Method"
+msgstr ""
+
+#: bbpress/form-reply-move.php:41
+#: bbpress/form-topic-split.php:41
+#, php-format
+#@ wpdance
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:42
+#, php-format
+#@ wpdance
+msgid "Moved: %s"
+msgstr ""
+
+#: bbpress/form-reply-move.php:49
+#: bbpress/form-topic-split.php:49
+#@ wpdance
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:68
+#: bbpress/form-topic-merge.php:89
+#: bbpress/form-topic-split.php:93
+#@ wpdance
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: bbpress/form-reply-move.php:85
+#@ wpdance
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:85
+#@ wpdance
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: bbpress/form-reply.php:29
+#, php-format
+#@ wpdance
+msgid "Reply To: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:36
+#@ wpdance
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-reply.php:75
+#: framework/functions/woo-hook.php:417
+#@ wpdance
+msgid "Tags:"
+msgstr ""
+
+#: bbpress/form-reply.php:93
+#: bbpress/form-topic.php:164
+#@ wpdance
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:97
+#: bbpress/form-topic.php:168
+#@ wpdance
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:114
+#: bbpress/form-topic.php:184
+#@ wpdance
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-reply.php:118
+#: bbpress/form-topic.php:188
+#@ wpdance
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-reply.php:158
+#, php-format
+#@ wpdance
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/form-reply.php:166
+#: bbpress/form-topic.php:226
+#, php-format
+#@ wpdance
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-reply.php:174
+#@ wpdance
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:174
+#@ wpdance
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-search.php:14
+#: searchform.php:4
+#@ wpdance
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/form-search.php:17
+#: searchform.php:6
+#@ wpdance
+msgid "Search"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:24
+#, php-format
+#@ wpdance
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:29
+#@ wpdance
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:30
+#@ wpdance
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:34
+#@ wpdance
+msgid "All replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted. If the destination topic was created after this one, it's post date will be updated to second earlier than this one."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:38
+#@ wpdance
+msgid "Destination"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:42
+#@ wpdance
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:56
+#@ wpdance
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:64
+#: bbpress/form-topic-split.php:68
+#@ wpdance
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:71
+#@ wpdance
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:76
+#@ wpdance
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:81
+#@ wpdance
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:106
+#: bbpress/form-topic-split.php:110
+#@ wpdance
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:106
+#: bbpress/form-topic-split.php:110
+#@ wpdance
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:24
+#, php-format
+#@ wpdance
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:29
+#@ wpdance
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:33
+#@ wpdance
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr ""
+
+#: bbpress/form-topic-split.php:37
+#@ wpdance
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:42
+#, php-format
+#@ wpdance
+msgid "Split: %s"
+msgstr ""
+
+#: bbpress/form-topic-split.php:75
+#@ wpdance
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:80
+#@ wpdance
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:85
+#@ wpdance
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+#@ wpdance
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22
+#@ wpdance
+msgid "Rename"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25
+#@ wpdance
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29
+#@ wpdance
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35
+#@ wpdance
+msgid "Name:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40
+#@ wpdance
+msgid "Slug:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:45
+#@ wpdance
+msgid "Update"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59
+#: bbpress/form-topic-tag.php:73
+#@ wpdance
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62
+#@ wpdance
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68
+#@ wpdance
+msgid "Existing tag:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+#@ wpdance
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88
+#: bbpress/form-topic-tag.php:101
+#@ wpdance
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91
+#@ wpdance
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94
+#@ wpdance
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95
+#@ wpdance
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+#@ wpdance
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic.php:43
+#, php-format
+#@ wpdance
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:43
+#@ wpdance
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:53
+#@ wpdance
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:75
+#, php-format
+#@ wpdance
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:101
+#@ wpdance
+msgid "Topic Tags:"
+msgstr ""
+
+#: bbpress/form-topic.php:114
+#@ wpdance
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:117
+#@ wpdance
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-topic.php:133
+#@ wpdance
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:145
+#@ wpdance
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/form-topic.php:234
+#@ wpdance
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-topic.php:234
+#@ wpdance
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/form-user-edit.php:14
+#: bbpress/form-user-edit.php:19
+#: woocommerce/single-product-reviews.php:91
+#@ wpdance
+msgid "Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:24
+#@ wpdance
+msgid "First Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:29
+#@ wpdance
+msgid "Last Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:34
+#@ wpdance
+msgid "Nickname"
+msgstr ""
+
+#: bbpress/form-user-edit.php:39
+#@ wpdance
+msgid "Display Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:49
+#: bbpress/form-user-edit.php:52
+#@ wpdance
+msgid "Contact Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:57
+#: framework/functions/comment.php:17
+#@ wpdance
+msgid "Website"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74
+#: bbpress/form-user-edit.php:77
+#@ wpdance
+msgid "About Yourself"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74
+#: bbpress/form-user-edit.php:77
+#@ wpdance
+msgid "About the user"
+msgstr ""
+
+#: bbpress/form-user-edit.php:82
+#@ wpdance
+msgid "Biographical Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:90
+#: bbpress/form-user-edit.php:93
+#@ wpdance
+msgid "Account"
+msgstr ""
+
+#: bbpress/form-user-edit.php:98
+#: bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+#@ wpdance
+msgid "Username"
+msgstr ""
+
+#: bbpress/form-user-edit.php:103
+#: bbpress/form-user-register.php:28
+#: woocommerce/single-product/share.php:27
+#: woocommerce/single-product-reviews.php:93
+#@ wpdance
+msgid "Email"
+msgstr ""
+
+#: bbpress/form-user-edit.php:115
+#, php-format
+#@ wpdance
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr ""
+
+#: bbpress/form-user-edit.php:124
+#@ wpdance
+msgid "New Password"
+msgstr ""
+
+#: bbpress/form-user-edit.php:127
+#@ wpdance
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr ""
+
+#: bbpress/form-user-edit.php:130
+#@ wpdance
+msgid "Type your new password again."
+msgstr ""
+
+#: bbpress/form-user-edit.php:133
+#@ wpdance
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: bbpress/form-user-edit.php:143
+#: bbpress/form-user-edit.php:146
+#@ wpdance
+msgid "User Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:153
+#@ wpdance
+msgid "Network Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:156
+#@ wpdance
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: bbpress/form-user-edit.php:173
+#@ wpdance
+msgid "Save Changes"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+#@ wpdance
+msgid "Update Profile"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+#@ wpdance
+msgid "Update User"
+msgstr ""
+
+#: bbpress/form-user-login.php:14
+#: bbpress/form-user-login.php:35
+#@ wpdance
+msgid "Log In"
+msgstr ""
+
+#: bbpress/form-user-login.php:22
+#: framework/functions/woo-account.php:61
+#: framework/functions/woo-account.php:152
+#: woocommerce/global/form-login.php:26
+#@ wpdance
+msgid "Password"
+msgstr ""
+
+#: bbpress/form-user-login.php:28
+#@ wpdance
+msgid "Keep me signed in"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:14
+#@ wpdance
+msgid "Lost Password"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:18
+#@ wpdance
+msgid "Username or Email"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:27
+#@ wpdance
+msgid "Reset My Password"
+msgstr ""
+
+#: bbpress/form-user-register.php:14
+#@ wpdance
+msgid "Create an Account"
+msgstr ""
+
+#: bbpress/form-user-register.php:17
+#@ wpdance
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: bbpress/form-user-register.php:18
+#@ wpdance
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr ""
+
+#: bbpress/form-user-register.php:36
+#: woocommerce/myaccount/form-login.php:117
+#@ wpdance
+msgid "Register"
+msgstr ""
+
+#: bbpress/form-user-roles.php:13
+#@ wpdance
+msgid "Blog Role"
+msgstr ""
+
+#: bbpress/form-user-roles.php:20
+#@ wpdance
+msgid "Forum Role"
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+#@ wpdance
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:21
+#: bbpress/loop-replies.php:24
+#: bbpress/loop-replies.php:66
+#: bbpress/loop-topics.php:21
+#@ wpdance
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:22
+#: bbpress/loop-topics.php:22
+#@ wpdance
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/loop-replies.php:18
+#: bbpress/loop-replies.php:60
+#: bbpress/loop-search.php:18
+#: bbpress/loop-search.php:40
+#@ wpdance
+msgid "Author"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:16
+#, php-format
+#@ wpdance
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:26
+#@ wpdance
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-reply.php:24
+#@ wpdance
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:26
+#@ wpdance
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:33
+#@ wpdance
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:37
+#@ wpdance
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-search.php:22
+#: bbpress/loop-search.php:44
+#@ wpdance
+msgid "Search Results"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:21
+#@ wpdance
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:60
+#, php-format
+#@ wpdance
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:68
+#, php-format
+#@ wpdance
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+#@ wpdance
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:29
+#, php-format
+#@ wpdance
+msgid "%s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:29
+#: bbpress/user-profile.php:15
+#@ wpdance
+msgid "Profile"
+msgstr ""
+
+#: bbpress/user-details.php:35
+#, php-format
+#@ wpdance
+msgid "%s's Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:35
+#@ wpdance
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:41
+#, php-format
+#@ wpdance
+msgid "%s's Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:41
+#@ wpdance
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:48
+#, php-format
+#@ wpdance
+msgid "%s's Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:48
+#@ wpdance
+msgid "Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:58
+#, php-format
+#@ wpdance
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:58
+#@ wpdance
+msgid "Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:65
+#, php-format
+#@ wpdance
+msgid "Edit %s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:65
+#: content.php:44
+#: single-portfolio.php:58
+#: single.php:40
+#: woocommerce/myaccount/my-address.php:68
+#@ wpdance
+msgid "Edit"
+msgstr ""
+
+#: bbpress/user-favorites.php:15
+#@ wpdance
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+#@ wpdance
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+#@ wpdance
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: bbpress/user-profile.php:24
+#, php-format
+#@ wpdance
+msgid "Forum Role: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:25
+#, php-format
+#@ wpdance
+msgid "Topics Started: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:26
+#, php-format
+#@ wpdance
+msgid "Replies Created: %s"
+msgstr ""
+
+#: bbpress/user-replies-created.php:15
+#@ wpdance
+msgid "Forum Replies Created"
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+#@ wpdance
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+#@ wpdance
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:19
+#@ wpdance
+msgid "Subscribed Forums"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+#@ wpdance
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+#@ wpdance
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:34
+#@ wpdance
+msgid "Subscribed Topics"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+#@ wpdance
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+#@ wpdance
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:15
+#@ wpdance
+msgid "Forum Topics Started"
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+#@ wpdance
+msgid "You have not created any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+#@ wpdance
+msgid "This user has not created any topics."
+msgstr ""
+
+#: bbpress.php:30
+#@ wpdance
+msgid "Forums:"
+msgstr ""
+
+#: comments.php:17
+#: comments.php:36
+#@ wpdance
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:18
+#: comments.php:37
+#@ wpdance
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:19
+#: comments.php:38
+#@ wpdance
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:43
+#@ wpdance
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:6
+#: page-templates/contact-template.php:22
+#@ wpdance
+msgid "Pages:"
+msgstr ""
+
+#: framework/widgets/customrecent.php:56
+#@ wpdance
+msgid " comment(s)"
+msgstr ""
+
+#: framework/abstract.php:109
+#@ wpdance
+msgid "Primary Navigation"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:18
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:34
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:34
+#: framework/extension/extendvc/vc_generate/recent_product.php:18
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:18
+#: framework/extension/extendvc/vc_generate/sale_product.php:18
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:18
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:18
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:18
+#@ wpdance
+msgid "Heading"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:49
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:29
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:45
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:45
+#: framework/extension/extendvc/vc_generate/feature_wpdance.php:38
+#: framework/extension/extendvc/vc_generate/recent_product.php:29
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:29
+#: framework/extension/extendvc/vc_generate/sale_product.php:29
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:29
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:29
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:29
+#: framework/functions/wdmenus-admin.php:215
+#: framework/functions/woo-hook.php:368
+#@ wpdance
+msgid "Description"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:40
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:56
+#: framework/extension/extendvc/vc_generate/feature-slider.php:32
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:56
+#: framework/extension/extendvc/vc_generate/portfolio.php:28
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:40
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:40
+#: framework/extension/extendvc/vc_generate/recent_product.php:40
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:40
+#: framework/extension/extendvc/vc_generate/sale_product.php:40
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:40
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:40
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:40
+#: framework/functions/wdmenus-admin.php:240
+#@ wpdance
+msgid "Columns"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:67
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:67
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:51
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:51
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:51
+#@ wpdance
+msgid "Row"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:75
+#@ wpdance
+msgid "Big Product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:247
+#: framework/extension/extendvc/vc_generate/feature-slider.php:87
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:246
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:139
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:243
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:243
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:243
+#@ wpdance
+msgid "Show Nav"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:261
+#: framework/extension/extendvc/vc_generate/feature-slider.php:101
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:260
+#: framework/extension/extendvc/vc_generate/portfolio.php:106
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:153
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:257
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:257
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:257
+#@ wpdance
+msgid "Show Pagination"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:26
+#@ wpdance
+msgid "Font size"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:30
+#@ wpdance
+msgid "In Pixels. Text font size"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:35
+#@ wpdance
+msgid "Text Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:44
+#@ wpdance
+msgid "Text Color On Hover"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:53
+#@ wpdance
+msgid "Background Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:62
+#@ wpdance
+msgid "Background Color On Hover"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:72
+#@ wpdance
+msgid "Border Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:81
+#@ wpdance
+msgid "Border Color On Hover"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:90
+#@ wpdance
+msgid "Border Width"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:100
+#@ wpdance
+msgid "Margin"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:109
+#@ wpdance
+msgid "Padding"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:76
+#: framework/extension/extendvc/vc_generate/button.php:118
+#: framework/extension/extendvc/vc_generate/feature_wpdance.php:57
+#: framework/extension/extendvc/vc_generate/pricing_table.php:49
+#@ wpdance
+msgid "Link"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:122
+#@ wpdance
+msgid "Input URL you want it to link to"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:128
+#@ wpdance
+msgid "Opacity"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:132
+#@ wpdance
+msgid "Input Opacity Number. Min: 0, Max: 100"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:139
+#: framework/extension/extendvc/vc_generate/pricing_table.php:71
+#@ wpdance
+msgid "Button Text"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/button.php:149
+#@ wpdance
+msgid "Custom Class"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/countdown.php:24
+#@ wpdance
+msgid "Day"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/countdown.php:33
+#@ wpdance
+msgid "Month"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/countdown.php:42
+#@ wpdance
+msgid "Year"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:30
+#: framework/extension/extendvc/vc_generate/feature.php:38
+#@ wpdance
+msgid "Feature"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature-slider.php:50
+#: framework/extension/extendvc/vc_generate/feature.php:93
+#: framework/extension/extendvc/vc_generate/portfolio.php:73
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:82
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:82
+#@ wpdance
+msgid "Show Title"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature-slider.php:62
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:70
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:70
+#@ wpdance
+msgid "Show Thumbnail"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature-slider.php:74
+#: framework/extension/extendvc/vc_generate/feature.php:105
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:118
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:118
+#@ wpdance
+msgid "Show Excerpt"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:76
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:79
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:79
+#: framework/extension/extendvc/vc_generate/recent_product.php:76
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:97
+#: framework/extension/extendvc/vc_generate/sale_product.php:76
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:97
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:76
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:97
+#@ wpdance
+msgid "Category Slug"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:51
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:89
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:89
+#: framework/extension/extendvc/vc_generate/recent_product.php:51
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:62
+#: framework/extension/extendvc/vc_generate/sale_product.php:51
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:62
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:51
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:62
+#@ wpdance
+msgid "Show type"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:64
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:113
+#: framework/extension/extendvc/vc_generate/feature-slider.php:41
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:113
+#: framework/extension/extendvc/vc_generate/portfolio.php:97
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:49
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:49
+#: framework/extension/extendvc/vc_generate/recent_product.php:64
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:85
+#: framework/extension/extendvc/vc_generate/sale_product.php:64
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:85
+#: framework/extension/extendvc/vc_generate/testimonial.php:93
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:64
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:85
+#: framework/widgets/customrecent.php:125
+#@ wpdance
+msgid "Limit"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:117
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:117
+#@ wpdance
+msgid "Limit number of product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feedbuner.php:16
+#@ wpdance
+msgid "Feedburner ID"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feedbuner.php:25
+#: framework/extension/extendvc/vc_generate/heading.php:57
+#: framework/extension/extendvc/vc_generate/pricing_table.php:100
+#: framework/extension/extendvc/vc_generate/quote.php:36
+#: framework/extension/extendvc/vc_generate/tabs.php:50
+#: framework/includes/metaboxes/custom_ads_sidebar.php:39
+#@ wpdance
+msgid "Content"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/heading.php:26
+#@ wpdance
+msgid "Size"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:40
+#: framework/extension/extendvc/vc_generate/feature_wpdance.php:27
+#: framework/extension/extendvc/vc_generate/pricing_table.php:16
+#: framework/includes/metaboxes/custom_ads_sidebar.php:35
+#: framework/widgets/custompages.php:60
+#: framework/widgets/customrecent.php:112
+#: framework/widgets/recent_comments_custom.php:103
+#@ wpdance
+msgid "Title"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:50
+#: framework/lib/class-tgm-plugin-activation.php:1390
+#: framework/widgets/customrecent.php:117
+#@ wpdance
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:57
+#@ wpdance
+msgid "Target"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:16
+#@ wpdance
+msgid "Row Type"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:27
+#@ wpdance
+msgid "Layout"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:40
+#@ wpdance
+msgid "Hidden on Phones"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:63
+#@ wpdance
+msgid "Content In Grid"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:75
+#@ wpdance
+msgid "Enable parallax"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:85
+#@ wpdance
+msgid "Fixed image"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/params.php:95
+#@ wpdance
+msgid "Parallax speed"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:56
+#: framework/functions/breadcrumbs.php:76
+#@ wpdance
+msgid "Portfolio"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/portfolio.php:49
+#@ wpdance
+msgid "Show Filter"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/portfolio.php:85
+#@ wpdance
+msgid "Show Description"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:25
+#: woocommerce/cart/cart.php:26
+#@ wpdance
+msgid "Price"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:33
+#@ wpdance
+msgid "Currency"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:41
+#@ wpdance
+msgid "Price Period"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:79
+#@ wpdance
+msgid "Active"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/progress_bar.php:25
+#@ wpdance
+msgid "Animation"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/progress_bar.php:37
+#@ wpdance
+msgid "Strip"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/quote.php:26
+#@ wpdance
+msgid "Custom class"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:31
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:31
+#@ wpdance
+msgid "Category"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:58
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:58
+#@ wpdance
+msgid "Show Type"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:106
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:106
+#@ wpdance
+msgid "Show Post Meta"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:130
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:130
+#@ wpdance
+msgid "Limit Excerpt Words"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:44
+#: framework/extension/extendvc/vc_generate/recent_product.php:44
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:44
+#: framework/extension/extendvc/vc_generate/sale_product.php:44
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:44
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:44
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:44
+#@ wpdance
+msgid "product number visible on slider"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:68
+#: framework/extension/extendvc/vc_generate/recent_product.php:68
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:89
+#: framework/extension/extendvc/vc_generate/sale_product.php:68
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:89
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:68
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:89
+#@ wpdance
+msgid "Limit number of products"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:56
+#: framework/extension/extendvc/vc_generate/heading.php:35
+#: framework/extension/extendvc/vc_generate/portfolio.php:37
+#: framework/extension/extendvc/vc_generate/tabs.php:26
+#: framework/extension/extendvc/vc_generate/testimonial.php:38
+#: framework/extension/extendvc/vc_generate/testimonial.php:81
+#@ wpdance
+msgid "Style"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/tabs.php:40
+#@ wpdance
+msgid "Color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:23
+#@ wpdance
+msgid "Appearance"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:36
+#@ wpdance
+msgid "Slug"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:39
+#@ wpdance
+msgid "Slug of Team member item"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:54
+#@ wpdance
+msgid "Width"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:63
+#: framework/extension/extendvc/vc_generate/video.php:60
+#@ wpdance
+msgid "Height"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/testimonial.php:50
+#@ wpdance
+msgid "Testimonial"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:19
+#: woocommerce/order/order-details.php:21
+#@ wpdance
+msgid "Product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_includes/vc_functions.php:324
+#@ wpdance
+msgid "Facebook"
+msgstr ""
+
+#: framework/extension/extendvc/vc_includes/vc_functions.php:325
+#@ wpdance
+msgid "Twitter"
+msgstr ""
+
+#: framework/extension/extendvc/vc_includes/vc_functions.php:326
+#@ wpdance
+msgid "Google+"
+msgstr ""
+
+#: framework/extension/extendvc/vc_includes/vc_functions.php:327
+#@ wpdance
+msgid "Pinterest"
+msgstr ""
+
+#: framework/widgets/customrecent.php:52
+#: framework/widgets/customrecent.php:68
+#, php-format
+#@ wpdance
+msgid "Permalink to %s"
+msgstr ""
+
+#: framework/functions/pagination.php:111
+#@ wpdance
+msgid "Previous"
+msgstr ""
+
+#: framework/functions/pagination.php:129
+#@ wpdance
+msgid "Next"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:12
+#@ wpdance
+msgid "Home"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:36
+#@ wpdance
+msgid "Search results for \""
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:79
+#: framework/functions/breadcrumbs.php:133
+#@ wpdance
+msgid "Tagged \""
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:138
+#@ wpdance
+msgid "Articles posted by "
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:141
+#@ wpdance
+msgid "Error 404"
+msgstr ""
+
+#: framework/functions/breadcrumbs.php:146
+#: framework/functions/breadcrumbs.php:152
+#@ wpdance
+msgid "Page"
+msgstr ""
+
+#: framework/functions/comment.php:15
+#@ wpdance
+msgid "Name*"
+msgstr ""
+
+#: framework/functions/comment.php:16
+#@ wpdance
+msgid "Email*"
+msgstr ""
+
+#: framework/functions/comment.php:33
+#, php-format
+#@ wpdance
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: framework/functions/comment.php:37
+#, php-format
+#@ wpdance
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: framework/functions/comment.php:38
+#, php-format
+#@ wpdance
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: framework/functions/comment.php:43
+#@ wpdance
+msgid "write your comment"
+msgstr ""
+
+#: framework/functions/comment.php:44
+#: woocommerce/single-product-reviews.php:87
+#, php-format
+#@ wpdance
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: framework/functions/comment.php:45
+#@ wpdance
+msgid "Cancel reply"
+msgstr ""
+
+#: framework/functions/comment.php:51
+#@ wpdance
+msgid "be first to comment"
+msgstr ""
+
+#: framework/functions/custom_term.php:13
+#: framework/functions/custom_term.php:67
+#@ wpdance
+msgid "Product Columns"
+msgstr ""
+
+#: framework/functions/custom_term.php:24
+#: framework/functions/custom_term.php:80
+#@ wpdance
+msgid "Category Layout"
+msgstr ""
+
+#: framework/functions/custom_term.php:36
+#: framework/functions/custom_term.php:125
+#@ wpdance
+msgid "Custom Informations"
+msgstr ""
+
+#: framework/functions/custom_term.php:93
+#@ wpdance
+msgid "Left SideBar"
+msgstr ""
+
+#: framework/functions/custom_term.php:109
+#: framework/includes/metaboxes/page_configuration.php:117
+#@ wpdance
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/functions/filter_theme.php:97
+#@ wpdance
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/functions/filter_theme.php:119
+#@ wpdance
+msgid "(Edit)"
+msgstr ""
+
+#: framework/functions/filter_theme.php:119
+#@ wpdance
+msgid "Pingback:"
+msgstr ""
+
+#: framework/functions/header_function.php:91
+#: framework/functions/woo-account.php:36
+#: framework/functions/woo-account.php:38
+#: framework/functions/woo-account.php:83
+#: framework/functions/woo-account.php:129
+#: framework/functions/woo-account.php:131
+#: framework/functions/woo-account.php:171
+#: woocommerce/checkout/thankyou.php:28
+#@ wpdance
+msgid "My Account"
+msgstr ""
+
+#: framework/functions/header_function.php:94
+#: framework/functions/woo-account.php:40
+#: framework/functions/woo-account.php:133
+#@ wpdance
+msgid "Login / Register"
+msgstr ""
+
+#: framework/functions/header_function.php:105
+#: woocommerce/cart/mini-cart.php:68
+#@ wpdance
+msgid "View Cart"
+msgstr ""
+
+#: framework/functions/main.php:208
+#@ wpdance
+msgid "Back to Top"
+msgstr ""
+
+#: framework/functions/pagination.php:110
+#@ wpdance
+msgid "First"
+msgstr ""
+
+#: framework/functions/pagination.php:130
+#@ wpdance
+msgid "Last"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:7
+#@ wpdance
+msgid "Primary Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:16
+#@ wpdance
+msgid "Category Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:25
+#@ wpdance
+msgid "Product Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:128
+#, php-format
+#@ wpdance
+msgid "%s Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:130
+#, php-format
+#@ wpdance
+msgid "%s sidebar widget area"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: framework/functions/wdmenus-admin.php:107
+#, php-format
+#@ wpdance
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: framework/functions/wdmenus-admin.php:111
+#, php-format
+#@ wpdance
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:137
+#@ wpdance
+msgid "Move up"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:152
+#@ wpdance
+msgid "Move down"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:154
+#: framework/functions/wdmenus-admin.php:156
+#@ wpdance
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:165
+#@ wpdance
+msgid "URL"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:172
+#@ wpdance
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:178
+#@ wpdance
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:184
+#@ wpdance
+msgid "Sup Label"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:190
+#@ wpdance
+msgid "Sup Label Background Color"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:198
+#@ wpdance
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:203
+#@ wpdance
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:209
+#@ wpdance
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:217
+#@ wpdance
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:228
+#@ wpdance
+msgid "Mega Menu"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:262
+#@ wpdance
+msgid "Sub Columns"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:284
+#@ wpdance
+msgid "Display a Widget Area"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:296
+#@ wpdance
+msgid "Set Image"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:316
+#@ wpdance
+msgid "Align Right"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:327
+#@ wpdance
+msgid "Static HTML"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:340
+#, php-format
+#@ wpdance
+msgid "Original: %s"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:355
+#: framework/includes/metaboxes/custom_ads_sidebar.php:31
+#@ wpdance
+msgid "Remove"
+msgstr ""
+
+#: framework/functions/wdmenus-admin.php:356
+#: woocommerce/myaccount/my-orders.php:80
+#@ wpdance
+msgid "Cancel"
+msgstr ""
+
+#: framework/functions/wdmenus-init.php:21
+#@ wpdance
+msgid "shop by departments"
+msgstr ""
+
+#: framework/functions/woo-account.php:57
+#@ wpdance
+msgid "User or Email"
+msgstr ""
+
+#: framework/functions/woo-account.php:70
+#: framework/functions/woo-account.php:159
+#: woocommerce/checkout/form-checkout.php:63
+#: woocommerce/global/form-login.php:34
+#: woocommerce/myaccount/form-login.php:25
+#: woocommerce/myaccount/form-login.php:51
+#@ wpdance
+msgid "Login"
+msgstr ""
+
+#: framework/functions/woo-account.php:78
+#: framework/functions/woo-account.php:166
+#: woocommerce/myaccount/form-login.php:56
+#@ wpdance
+msgid "Forgot password?"
+msgstr ""
+
+#: framework/functions/woo-account.php:79
+#: framework/functions/woo-account.php:167
+#@ wpdance
+msgid "Register new account"
+msgstr ""
+
+#: framework/functions/woo-account.php:84
+#: framework/functions/woo-account.php:172
+#@ wpdance
+msgid "Logout"
+msgstr ""
+
+#: framework/functions/woo-cart.php:30
+#: framework/functions/woo-cart.php:133
+#@ wpdance
+msgid "View your shopping bag"
+msgstr ""
+
+#: framework/functions/woo-cart.php:31
+#: framework/functions/woo-cart.php:134
+#@ wpdance
+msgid "shopping cart"
+msgstr ""
+
+#: framework/functions/woo-cart.php:76
+#: woocommerce/cart/cart.php:111
+#@ wpdance
+msgid "Remove this item"
+msgstr ""
+
+#: framework/functions/woo-cart.php:88
+#: framework/functions/woo-cart.php:173
+#@ wpdance
+msgid "You have no items in your shopping cart."
+msgstr ""
+
+#: framework/functions/woo-cart.php:93
+#: framework/functions/woo-cart.php:178
+#: woocommerce/cart/cart-totals.php:26
+#: woocommerce/cart/mini-cart.php:63
+#: woocommerce/checkout/review-order.php:48
+#@ wpdance
+msgid "Subtotal"
+msgstr ""
+
+#: framework/functions/woo-cart.php:98
+#: framework/functions/woo-cart.php:181
+#@ wpdance
+msgid "checkout"
+msgstr ""
+
+#: framework/functions/woo-cart.php:99
+#: framework/functions/woo-cart.php:182
+#@ wpdance
+msgid "go to cart"
+msgstr ""
+
+#: framework/functions/woo-hook.php:193
+#: framework/functions/woo-hook.php:195
+#: woocommerce/myaccount/form-change-password.php:29
+#: woocommerce/myaccount/form-lost-password.php:49
+#@ wpdance
+msgid "Save"
+msgstr ""
+
+#: framework/functions/woo-hook.php:377
+#, php-format
+#@ wpdance
+msgid "Reviews (%d)"
+msgstr ""
+
+#: framework/functions/woo-hook.php:384
+#: framework/includes/metaboxes/custom_ads_sidebar.php:12
+#: framework/includes/metaboxes/custom_ads_sidebar.php:13
+#: woocommerce/checkout/form-shipping.php:58
+#: woocommerce/single-product/tabs/additional-information.php:14
+#@ wpdance
+msgid "Additional Information"
+msgstr ""
+
+#: framework/functions/woo-hook.php:395
+#: framework/functions/woo-hook.php:485
+#: framework/widgets/multitab.php:159
+#: woocommerce/cart/shipping-calculator.php:58
+#: woocommerce/single-product/related.php:44
+#: woocommerce/single-product/share.php:21
+#: woocommerce/single-product/up-sells.php:42
+#, php-format
+#@ wpdance
+msgid "%s"
+msgstr ""
+
+#: framework/functions/woo-hook.php:445
+#@ wpdance
+msgid "Review(s)"
+msgstr ""
+
+#: framework/functions/woo-hook.php:588
+#@ wpdance
+msgid "sku: "
+msgstr ""
+
+#: framework/functions/woo-hook.php:613
+#: woocommerce/single-product/add-to-cart/simple.php:43
+#@ wpdance
+msgid "Add to cart"
+msgstr ""
+
+#: framework/functions/woo-hook.php:654
+#@ wpdance
+msgid "Account username"
+msgstr ""
+
+#: framework/functions/woo-hook.php:655
+#@ wpdance
+msgctxt "placeholder"
+msgid "Username"
+msgstr ""
+
+#: framework/functions/woo-hook.php:659
+#: framework/functions/woo-hook.php:665
+#@ wpdance
+msgid "Account password"
+msgstr ""
+
+#: framework/functions/woo-hook.php:660
+#@ wpdance
+msgctxt "placeholder"
+msgid "Password"
+msgstr ""
+
+#: framework/functions/woo-hook.php:666
+#@ wpdance
+msgctxt "placeholder"
+msgid "Comfirm Password"
+msgstr ""
+
+#: framework/functions/woo-hook.php:676
+#@ wpdance
+msgid "Add to Cart"
+msgstr ""
+
+#: framework/includes/functions/tooltip.php:2
+#@ wpdance
+msgid "Help"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_ads_sidebar.php:13
+#@ wpdance
+msgid "This content show on top of left/right sidebar. Product must have a sidebar."
+msgstr ""
+
+#: framework/includes/metaboxes/custom_ads_sidebar.php:43
+#@ wpdance
+msgid "Position"
+msgstr ""
+
+#: framework/includes/metaboxes/custom_ads_sidebar.php:58
+#@ wpdance
+msgid "Add"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:28
+#@ wpdance
+msgid "Layout Style"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:63
+#@ wpdance
+msgid "Page Layout"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:74
+#@ wpdance
+msgid "Hide Breadcrumb"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:83
+#@ wpdance
+msgid "Hide Page Title"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:103
+#@ wpdance
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:132
+#@ wpdance
+msgid "Page Slider"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:147
+#@ wpdance
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:166
+#@ wpdance
+msgid "LayerSlider"
+msgstr ""
+
+#: framework/includes/metaboxes.php:46
+#@ wpdance
+msgid "Content - No Sidebar"
+msgstr ""
+
+#: framework/includes/metaboxes.php:47
+#@ wpdance
+msgid "Content - Left Sidebar"
+msgstr ""
+
+#: framework/includes/metaboxes.php:48
+#@ wpdance
+msgid "Content - Right Sidebar"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:21
+#@ wpdance
+msgid "Click here to enter code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:155
+#: woocommerce/checkout/form-coupon.php:23
+#@ wpdance
+msgid "Coupon code"
+msgstr ""
+
+#: framework/widgets/custompages.php:5
+#@ wpdance
+msgid "This widget show pages you select"
+msgstr ""
+
+#: framework/widgets/custompages.php:6
+#@ wpdance
+msgid "WD - Custom Pages"
+msgstr ""
+
+#: framework/widgets/custompages.php:12
+#: framework/widgets/productaz.php:35
+#: page-templates/sitemap-template.php:25
+#@ wpdance
+msgid "Pages"
+msgstr ""
+
+#: framework/widgets/custompages.php:62
+#@ wpdance
+msgid "Sort by"
+msgstr ""
+
+#: framework/widgets/custompages.php:64
+#@ wpdance
+msgid "Page title"
+msgstr ""
+
+#: framework/widgets/custompages.php:65
+#@ wpdance
+msgid "Page order"
+msgstr ""
+
+#: framework/widgets/custompages.php:66
+#@ wpdance
+msgid "Page ID"
+msgstr ""
+
+#: framework/widgets/customrecent.php:17
+#: framework/widgets/multitab.php:18
+#@ wpdance
+msgid "Recent"
+msgstr ""
+
+#: framework/widgets/emads.php:10
+#@ wpdance
+msgid "Advertisment  Widget"
+msgstr ""
+
+#: framework/widgets/emads.php:12
+#@ wpdance
+msgid "WD - Ads"
+msgstr ""
+
+#: framework/widgets/emads.php:62
+#@ wpdance
+msgid "Image Url"
+msgstr ""
+
+#: framework/widgets/emads.php:64
+#@ wpdance
+msgid "Ads Url"
+msgstr ""
+
+#: framework/widgets/emads.php:66
+#@ wpdance
+msgid "Image title"
+msgstr ""
+
+#: framework/widgets/emads.php:68
+#@ wpdance
+msgid "Image Width"
+msgstr ""
+
+#: framework/widgets/emads.php:70
+#@ wpdance
+msgid "Image Height"
+msgstr ""
+
+#: framework/widgets/multitab.php:9
+#@ wpdance
+msgid "WD - Multi Tabs"
+msgstr ""
+
+#: framework/widgets/multitab.php:10
+#@ wpdance
+msgid "WD - MultiTab"
+msgstr ""
+
+#: comments.php:12
+#: framework/widgets/multitab.php:19
+#@ wpdance
+msgid "Comments"
+msgstr ""
+
+#: framework/widgets/multitab.php:161
+#@ wpdance
+msgid "in"
+msgstr ""
+
+#: framework/widgets/multitab.php:328
+#@ wpdance
+msgid "Title for latest tab"
+msgstr ""
+
+#: framework/widgets/multitab.php:331
+#@ wpdance
+msgid "Title for comment tab"
+msgstr ""
+
+#: framework/widgets/ew_social.php:9
+#@ wpdance
+msgid "Display Social Profiles"
+msgstr ""
+
+#: framework/widgets/ew_social.php:11
+#@ wpdance
+msgid "WD - Social Profiles"
+msgstr ""
+
+#: framework/widgets/ew_social.php:27
+#@ wpdance
+msgid "Become our fan"
+msgstr ""
+
+#: framework/widgets/ew_social.php:28
+#@ wpdance
+msgid "Follow us"
+msgstr ""
+
+#: framework/widgets/ew_social.php:29
+#@ wpdance
+msgid "See Us"
+msgstr ""
+
+#: framework/widgets/flickr.php:33
+#@ wpdance
+msgid "Flickr"
+msgstr ""
+
+#: framework/widgets/ew_social.php:30
+#: framework/widgets/ew_social.php:31
+#@ wpdance
+msgid "Get updates"
+msgstr ""
+
+#: framework/widgets/ew_social.php:64
+#: framework/widgets/ew_subscriptions.php:83
+#@ wpdance
+msgid "Enter your title"
+msgstr ""
+
+#: framework/widgets/ew_social.php:67
+#@ wpdance
+msgid "Enter your Rss"
+msgstr ""
+
+#: framework/widgets/ew_social.php:69
+#@ wpdance
+msgid "Enter your Twitter ID"
+msgstr ""
+
+#: framework/widgets/ew_social.php:71
+#@ wpdance
+msgid "Enter your Facebook ID"
+msgstr ""
+
+#: framework/widgets/ew_social.php:73
+#@ wpdance
+msgid "Enter your Pinterest ID"
+msgstr ""
+
+#: framework/widgets/ew_social.php:75
+#@ wpdance
+msgid "Enter your Google+ ID"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:9
+#@ wpdance
+msgid "Display Subscriptions Form"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:11
+#@ wpdance
+msgid "WD - Feedburner Subscriptions"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:86
+#@ wpdance
+msgid "Enter your Intro Text"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:88
+#@ wpdance
+msgid "Enter your Button"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:90
+#@ wpdance
+msgid "Enter your Feedburner ID"
+msgstr ""
+
+#: framework/widgets/flickr.php:11
+#@ wpdance
+msgid "WD - Flickr"
+msgstr ""
+
+#: framework/widgets/flickr.php:86
+#@ wpdance
+msgid "See more"
+msgstr ""
+
+#: framework/widgets/flickr.php:135
+#@ wpdance
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: framework/widgets/flickr.php:139
+#@ wpdance
+msgid "Number:"
+msgstr ""
+
+#: framework/widgets/flickr.php:147
+#@ wpdance
+msgid "Sorting:"
+msgstr ""
+
+#: framework/widgets/flickr.php:149
+#@ wpdance
+msgid "Latest"
+msgstr ""
+
+#: framework/widgets/flickr.php:150
+#@ wpdance
+msgid "Random"
+msgstr ""
+
+#: framework/widgets/flickr.php:154
+#@ wpdance
+msgid "Size:"
+msgstr ""
+
+#: framework/widgets/flickr.php:156
+#@ wpdance
+msgid "Square"
+msgstr ""
+
+#: framework/widgets/flickr.php:157
+#@ wpdance
+msgid "Medium"
+msgstr ""
+
+#: framework/widgets/flickr.php:158
+#@ wpdance
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/widgets/productaz.php:5
+#@ wpdance
+msgid "This widget show list a-z of your products"
+msgstr ""
+
+#: framework/widgets/productaz.php:9
+#@ wpdance
+msgid "WD - Product A to Z"
+msgstr ""
+
+#: framework/widgets/productaz.php:77
+#: framework/widgets/twitterupdate.php:157
+#@ wpdance
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/recent_comments_custom.php:5
+#@ wpdance
+msgid "The most recent comments"
+msgstr ""
+
+#: framework/widgets/recent_comments_custom.php:6
+#@ wpdance
+msgid "WD - Recent Comments"
+msgstr ""
+
+#: framework/widgets/recent_comments_custom.php:47
+#@ wpdance
+msgid "Recent Comments"
+msgstr ""
+
+#: framework/widgets/recent_comments_custom.php:69
+#@ wpdance
+msgid "comment by"
+msgstr ""
+
+#: framework/widgets/recent_comments_custom.php:106
+#@ wpdance
+msgid "Number of comments to show"
+msgstr ""
+
+#: framework/widgets/twitterupdate.php:10
+#@ wpdance
+msgid "Twitter Widget"
+msgstr ""
+
+#: framework/widgets/twitterupdate.php:11
+#@ wpdance
+msgid "WD - Twitter"
+msgstr ""
+
+#: framework/widgets/twitterupdate.php:22
+#@ wpdance
+msgid "Twitter Update"
+msgstr ""
+
+#: framework/widgets/twitterupdate.php:159
+#@ wpdance
+msgid "Username twitter:"
+msgstr ""
+
+#: framework/widgets/twitterupdate.php:161
+#@ wpdance
+msgid "Limit:"
+msgstr ""
+
+#: page-templates/archive-template.php:29
+#@ wpdance
+msgid "The Latest 30 Posts"
+msgstr ""
+
+#: page-templates/archive-template.php:39
+#: page-templates/sitemap-template.php:33
+#@ wpdance
+msgid "Categories"
+msgstr ""
+
+#: page-templates/archive-template.php:46
+#@ wpdance
+msgid "Monthly Archives"
+msgstr ""
+
+#: page-templates/sitemap-template.php:41
+#@ wpdance
+msgid "Posts per category"
+msgstr ""
+
+#: search.php:11
+#, php-format
+#@ wpdance
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-portfolio.php:138
+#, php-format
+#@ wpdance
+msgid "%2$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: single.php:139
+#@ wpdance
+msgid "Tags"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+#: woocommerce/cart/cart.php:141
+#@ wpdance
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:128
+#@ wpdance
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:88
+#, php-format
+#@ wpdance
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:91
+#, php-format
+#@ wpdance
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:25
+#@ wpdance
+msgid "Items"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+#@ wpdance
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#: woocommerce/checkout/form-pay.php:20
+#: woocommerce/checkout/review-order.php:18
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/my-orders.php:63
+#: woocommerce/order/order-details.php:22
+#@ wpdance
+msgid "Total"
+msgstr ""
+
+#: framework/functions/woo-hook.php:548
+#: framework/functions/woo-hook.php:561
+#: woocommerce/cart/cart.php:65
+#@ wpdance
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+#@ wpdance
+msgid "Discount code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:158
+#@ wpdance
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+#@ wpdance
+msgid "You may be interested in"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:55
+#@ wpdance
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:69
+#@ wpdance
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+#@ wpdance
+msgid "shipping & tax"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:25
+#@ wpdance
+msgid "Select a country"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:68
+#@ wpdance
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:78
+#@ wpdance
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:84
+#@ wpdance
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:18
+#@ wpdance
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:22
+#@ wpdance
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:123
+#: woocommerce/myaccount/form-edit-address.php:14
+#: woocommerce/myaccount/my-address.php:17
+#: woocommerce/myaccount/my-address.php:23
+#: woocommerce/order/order-details-customer.php:49
+#@ wpdance
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+#@ wpdance
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:39
+#@ wpdance
+msgid "Checkout Method"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:46
+#@ wpdance
+msgid "New Customer"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:49
+#@ wpdance
+msgid "Checkout as Guest"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+#@ wpdance
+msgid "Create an Account with Us"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+#@ wpdance
+msgid "Register with us for future convenience:"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:55
+#@ wpdance
+msgid "+ Fast and easy checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:56
+#@ wpdance
+msgid "+ Easy access to your dorder history and status."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:59
+#: woocommerce/checkout/form-checkout.php:114
+#: woocommerce/checkout/form-checkout.php:129
+#: woocommerce/checkout/form-checkout.php:144
+#@ wpdance
+msgid "Continue"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:81
+#@ wpdance
+msgid "Create an account"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:91
+#@ wpdance
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:100
+#@ wpdance
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:138
+#: woocommerce/myaccount/form-edit-address.php:14
+#: woocommerce/myaccount/my-address.php:18
+#: woocommerce/order/order-details-customer.php:60
+#@ wpdance
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:153
+#@ wpdance
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:21
+#@ wpdance
+msgid "Have A Coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+#@ wpdance
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:23
+#@ wpdance
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:62
+#@ wpdance
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:87
+#@ wpdance
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:97
+#@ wpdance
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:31
+#@ wpdance
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/global/form-login.php:22
+#@ wpdance
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:36
+#: woocommerce/myaccount/form-login.php:53
+#@ wpdance
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:37
+#@ wpdance
+msgid "Forgot your Password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:12
+#@ wpdance
+msgid "qty"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:13
+#@ wpdance
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:32
+#@ wpdance
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:24
+#: woocommerce/myaccount/form-lost-password.php:36
+#@ wpdance
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:17
+#@ wpdance
+msgid "edit account"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:22
+#@ wpdance
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:26
+#@ wpdance
+msgid "Last name"
+msgstr ""
+
+#: framework/functions/woo-account.php:148
+#: woocommerce/myaccount/form-edit-account.php:30
+#@ wpdance
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:49
+#@ wpdance
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:27
+#@ wpdance
+msgid "edit address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:39
+#@ wpdance
+msgid "Save Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:36
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:76
+#@ wpdance
+msgid "register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:80
+#@ wpdance
+msgid "username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:110
+#@ wpdance
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:21
+#@ wpdance
+msgid "lost password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:19
+#@ wpdance
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:29
+#@ wpdance
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:49
+#@ wpdance
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:15
+#@ wpdance
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:21
+#@ wpdance
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+#@ wpdance
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:63
+#@ wpdance
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:18
+#@ wpdance
+msgid "Available downloads"
+msgstr ""
+
+#: woocommerce/myaccount/my-downloads.php:27
+#, php-format
+#@ wpdance
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:26
+#@ wpdance
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+#@ wpdance
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:33
+#: woocommerce/myaccount/my-orders.php:57
+#@ wpdance
+msgid "Date"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1391
+#: woocommerce/myaccount/my-orders.php:34
+#: woocommerce/myaccount/my-orders.php:60
+#@ tgmpa
+#@ wpdance
+msgid "Status"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:64
+#, php-format
+#@ wpdance
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/checkout/thankyou.php:26
+#: woocommerce/myaccount/my-orders.php:73
+#@ wpdance
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:86
+#@ wpdance
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:18
+#, php-format
+#@ wpdance
+msgid "Order <mark class=\"order-number\">%s</mark> was placed on <mark class=\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</mark>."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:23
+#: woocommerce/order/tracking.php:23
+#@ wpdance
+msgid "Order Updates"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:29
+#: woocommerce/order/tracking.php:29
+#@ wpdance
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:18
+#@ wpdance
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:18
+#@ wpdance
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ wpdance
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ wpdance
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/order-details.php:17
+#@ wpdance
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:26
+#@ wpdance
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:33
+#@ wpdance
+msgid "Telephone:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:52
+#: woocommerce/order/order-details-customer.php:63
+#@ wpdance
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/tracking.php:12
+#, php-format
+#@ wpdance
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/order/tracking.php:12
+#@ wpdance
+msgid "ago"
+msgstr ""
+
+#: woocommerce/order/tracking.php:14
+#@ wpdance
+msgid "and was completed"
+msgstr ""
+
+#: woocommerce/order/tracking.php:14
+#@ wpdance
+msgid " ago"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:36
+#@ wpdance
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:25
+#@ wpdance
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:27
+#@ wpdance
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:36
+#@ wpdance
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/loop/rating.php:24
+#: woocommerce/single-product/rating.php:26
+#: woocommerce/single-product-reviews.php:28
+#, php-format
+#@ wpdance
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/loop/rating.php:26
+#: woocommerce/single-product/rating.php:28
+#: woocommerce/single-product/review.php:28
+#: woocommerce/single-product-reviews.php:28
+#@ wpdance
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:32
+#, php-format
+#@ wpdance
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/review.php:27
+#, php-format
+#@ wpdance
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:35
+#@ wpdance
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:44
+#@ wpdance
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:16
+#@ wpdance
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/single-product/short-description.php:18
+#@ wpdance
+msgid "Quick Overview"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+#@ wpdance
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:30
+#, php-format
+#@ wpdance
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:36
+#@ wpdance
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#@ wpdance
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+#@ wpdance
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+#@ wpdance
+msgid "Add a review"
+msgstr ""
+
+#: framework/functions/woo-hook.php:450
+#: woocommerce/single-product-reviews.php:86
+#@ wpdance
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+#@ wpdance
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:102
+#@ wpdance
+msgid "Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+#@ wpdance
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+#@ wpdance
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+#@ wpdance
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+#@ wpdance
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+#@ wpdance
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+#@ wpdance
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+#@ wpdance
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:121
+#@ wpdance
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: content.php:81
+#@ wpdance
+msgid "Read"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/code.php:26
+#@ wpdance
+msgid "Code"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:99
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:124
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:124
+#: framework/extension/extendvc/vc_generate/recent_product.php:99
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:120
+#: framework/extension/extendvc/vc_generate/sale_product.php:99
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:120
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:99
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:120
+#@ wpdance
+msgid "Show Product Image"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:113
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:138
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:138
+#: framework/extension/extendvc/vc_generate/recent_product.php:113
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:134
+#: framework/extension/extendvc/vc_generate/sale_product.php:113
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:134
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:113
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:134
+#@ wpdance
+msgid "Show Product Title"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:127
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:152
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:152
+#: framework/extension/extendvc/vc_generate/recent_product.php:127
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:148
+#: framework/extension/extendvc/vc_generate/sale_product.php:127
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:148
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:127
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:148
+#@ wpdance
+msgid "Show Product Sku"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:141
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:166
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:166
+#: framework/extension/extendvc/vc_generate/recent_product.php:141
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:162
+#: framework/extension/extendvc/vc_generate/sale_product.php:141
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:162
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:141
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:162
+#@ wpdance
+msgid "Show Product Price"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:155
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:180
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:180
+#: framework/extension/extendvc/vc_generate/recent_product.php:155
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:176
+#: framework/extension/extendvc/vc_generate/sale_product.php:155
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:176
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:155
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:176
+#@ wpdance
+msgid "Show Product Rating"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:181
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:206
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:206
+#: framework/extension/extendvc/vc_generate/recent_product.php:181
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:202
+#: framework/extension/extendvc/vc_generate/sale_product.php:181
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:202
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:181
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:202
+#@ wpdance
+msgid "Show Product Label"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:195
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:220
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:220
+#: framework/extension/extendvc/vc_generate/recent_product.php:195
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:216
+#: framework/extension/extendvc/vc_generate/sale_product.php:195
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:216
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:195
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:216
+#@ wpdance
+msgid "Show Categories of Product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:202
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:227
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:227
+#: framework/extension/extendvc/vc_generate/recent_product.php:202
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:223
+#: framework/extension/extendvc/vc_generate/sale_product.php:202
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:223
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:202
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:223
+#@ wpdance
+msgid "Show all categories of each product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:209
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:234
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:234
+#: framework/extension/extendvc/vc_generate/recent_product.php:209
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:230
+#: framework/extension/extendvc/vc_generate/sale_product.php:209
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:230
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:209
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:230
+#@ wpdance
+msgid "Show Short Content of Product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:216
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:241
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:241
+#: framework/extension/extendvc/vc_generate/recent_product.php:216
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:237
+#: framework/extension/extendvc/vc_generate/sale_product.php:216
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:237
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:216
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:237
+#@ wpdance
+msgid "Show short content of each product"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:87
+#: framework/extension/extendvc/vc_generate/recent_product.php:87
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:108
+#: framework/extension/extendvc/vc_generate/sale_product.php:87
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:108
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:87
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:108
+#@ wpdance
+msgid "Product Tags"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:91
+#: framework/extension/extendvc/vc_generate/recent_product.php:91
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:112
+#: framework/extension/extendvc/vc_generate/sale_product.php:91
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:112
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:91
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:112
+#@ wpdance
+msgid "Get all products have this tag"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/slide.php:44
+#@ wpdance
+msgid "Select Slider ID"
+msgstr ""
+
+#: framework/functions/header_function.php:260
+#@ wpdance
+msgid "Reset"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:43
+#@ wpdance
+msgid "Blog Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:64
+#: framework/functions/theme_sidebar.php:66
+#@ wpdance
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:74
+#@ wpdance
+msgid "Second Footer Widget Area 1"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:76
+#: framework/functions/theme_sidebar.php:85
+#: framework/functions/theme_sidebar.php:94
+#: framework/functions/theme_sidebar.php:103
+#@ wpdance
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:83
+#@ wpdance
+msgid "Second Footer Widget Area 2"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:92
+#@ wpdance
+msgid "Second Footer Widget Area 3"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:101
+#@ wpdance
+msgid "Second Footer Widget Area 4"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:26
+#@ wpdance
+msgid "Category "
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+#@ wpdance
+msgid "<span>Tag </span> "
+msgid_plural "<span>Tags </span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/functions/woo-hook.php:447
+#@ wpdance
+msgid "Write review"
+msgstr ""
+
+#: framework/widgets/ew_subscriptions.php:35
+#@ wpdance
+msgid "Put your email address here..."
+msgstr ""
+
+#: framework/widgets/multitab.php:17
+#@ wpdance
+msgid "Popular"
+msgstr ""
+
+#: framework/widgets/multitab.php:325
+#@ wpdance
+msgid "Title for popular tab"
+msgstr ""
+
+#: framework/widgets/multitab.php:334
+#@ wpdance
+msgid "The number of popular posts"
+msgstr ""
+
+#: framework/widgets/multitab.php:337
+#@ wpdance
+msgid "The number of latest posts"
+msgstr ""
+
+#: framework/widgets/multitab.php:340
+#@ wpdance
+msgid "The number of comments"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+#@ wpdance
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+#@ wpdance
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:42
+#@ wpdance
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/single-product/share.php:30
+#@ wpdance
+msgid "Print"
+msgstr ""
+
+#: 404.php:6
+#@ wpdance
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:15
+#@ wpdance
+msgid "Hit the \"Back\" button on your browser."
+msgstr ""
+
+#: 404.php:21
+#@ wpdance
+msgid "Or try to search something else"
+msgstr ""
+
+#: admin/functions/functions.options.php:875
+#@ wpdance
+msgid "Related products"
+msgstr ""
+
+#: content.php:71
+#@ wpdance
+msgid "&nbsp; &nbsp; &nbsp; "
+msgstr ""
+
+#: content.php:75
+#: single.php:118
+#, php-format
+#@ wpdance
+msgid "<span>Categories </span> %2$s"
+msgstr ""
+
+#: framework/abstract.php:113
+#@ wpdance
+msgid "Mobile Navigation"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:22
+#@ wpdance
+msgid "Sub title"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:31
+#@ wpdance
+msgid "Padding subtitle"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:58
+#@ wpdance
+msgid "Color text"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:67
+#: framework/extension/extendvc/vc_generate/video.php:90
+#@ wpdance
+msgid "Background image"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:85
+#@ wpdance
+msgid "Sep padding"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/banner.php:94
+#@ wpdance
+msgid "Style responsive"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product.php:168
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:193
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:193
+#: framework/extension/extendvc/vc_generate/recent_product.php:168
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:189
+#: framework/extension/extendvc/vc_generate/sale_product.php:168
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:189
+#: framework/extension/extendvc/vc_generate/top_rated_product.php:168
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:189
+#@ wpdance
+msgid "Show Add To Cart"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/best_selling_product_slider.php:278
+#: framework/extension/extendvc/vc_generate/feature-slider.php:115
+#: framework/extension/extendvc/vc_generate/feature_product_slider.php:277
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:166
+#: framework/extension/extendvc/vc_generate/recent_product_slider.php:275
+#: framework/extension/extendvc/vc_generate/sale_product_slider.php:275
+#: framework/extension/extendvc/vc_generate/top_rated_product_slider.php:275
+#: framework/extension/extendvc/vc_generate/video.php:99
+#@ wpdance
+msgid "Auto play"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:33
+#@ wpdance
+msgid "WPDance Elements"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:47
+#@ wpdance
+msgid "Icon Feature"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:51
+#@ wpdance
+msgid "Ex:fa fa-home (use font Awesome icon)"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:81
+#@ wpdance
+msgid "Show Icon"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_wpdance.php:18
+#@ wpdance
+msgid "Image"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_wpdance.php:48
+#@ wpdance
+msgid "Min height"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature_wpdance.php:66
+#@ wpdance
+msgid "Text more"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feedbuner.php:35
+#@ wpdance
+msgid "Button text"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feedbuner.php:42
+#@ wpdance
+msgid "Background button color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feedbuner.php:50
+#@ wpdance
+msgid "Text button color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/portfolio.php:61
+#@ wpdance
+msgid "Show Categories"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/pricing_table.php:91
+#@ wpdance
+msgid "Label active"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_blogs.php:94
+#: framework/extension/extendvc/vc_generate/recent_blogs_slider.php:94
+#@ wpdance
+msgid "Show Date Time"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_product.php:221
+#@ wpdance
+msgid "Show load more"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_product.php:228
+#@ wpdance
+msgid "Show loadmore button"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_product.php:233
+#@ wpdance
+msgid "Button load more text"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/recent_product.php:237
+#@ wpdance
+msgid "Ex: Load more"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:44
+#@ wpdance
+msgid "Except"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/team_member.php:47
+#@ wpdance
+msgid "Ex:50"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/testimonial.php:60
+#: framework/extension/extendvc/vc_generate/testimonial.php:103
+#@ wpdance
+msgid "Background"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/testimonial.php:112
+#@ wpdance
+msgid "Show navigation buttons"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/testimonial.php:124
+#@ wpdance
+msgid "Show pagination buttons"
+msgstr ""
+
+#: framework/extension/extendvc/vc_includes/vc_functions.php:294
+#@ wpdance
+msgid "Personal blog / website"
+msgstr ""
+
+#: framework/extension/extendvc/vc_includes/vc_functions.php:295
+#@ wpdance
+msgid "E-mail"
+msgstr ""
+
+#: framework/functions/filter_theme.php:37
+#@ wpdance
+msgid "Learn more"
+msgstr ""
+
+#: framework/functions/filter_theme.php:104
+#@ wpdance
+msgid "Commented by "
+msgstr ""
+
+#: framework/functions/filter_theme.php:137
+#@ wpdance
+msgid "1 min ago"
+msgstr ""
+
+#: framework/functions/filter_theme.php:140
+#@ wpdance
+msgid " min ago"
+msgstr ""
+
+#: framework/functions/filter_theme.php:143
+#@ wpdance
+msgid "1 hour ago"
+msgstr ""
+
+#: framework/functions/filter_theme.php:146
+#@ wpdance
+msgid " hours ago"
+msgstr ""
+
+#: framework/functions/filter_theme.php:149
+#@ wpdance
+msgid "yesterday"
+msgstr ""
+
+#: framework/functions/filter_theme.php:152
+#@ wpdance
+msgid " days ago"
+msgstr ""
+
+#: framework/functions/filter_theme.php:156
+#@ wpdance
+msgid "1 month ago"
+msgstr ""
+
+#: framework/functions/filter_theme.php:156
+#@ wpdance
+msgid " months ago"
+msgstr ""
+
+#: framework/functions/filter_theme.php:159
+#@ wpdance
+msgid "1 year ago"
+msgstr ""
+
+#: framework/functions/filter_theme.php:159
+#@ wpdance
+msgid " years ago"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:34
+#@ wpdance
+msgid "Easycart Widget Area"
+msgstr ""
+
+#: framework/functions/theme_sidebar.php:52
+#@ wpdance
+msgid "Top Content Widget Area"
+msgstr ""
+
+#: framework/functions/woo-hook.php:199
+#@ wpdance
+msgid "Hot"
+msgstr ""
+
+#: framework/functions/woo-hook.php:258
+#@ wpdance
+msgid "+Wishlist"
+msgstr ""
+
+#: framework/functions/woo-hook.php:268
+#@ wpdance
+msgid "Product added!"
+msgstr ""
+
+#: framework/functions/woo-hook.php:268
+#: framework/functions/woo-hook.php:269
+#@ wpdance
+msgid "Browse Wishlist"
+msgstr ""
+
+#: framework/functions/woo-hook.php:269
+#@ wpdance
+msgid "The product is already in the wishlist!"
+msgstr ""
+
+#: framework/functions/woo-hook.php:299
+#@ wpdance
+msgid "+Compare"
+msgstr ""
+
+#: framework/functions/woo-hook.php:423
+#@ wpdance
+msgid "No Tags for this product"
+msgstr ""
+
+#: framework/functions/woo-hook.php:526
+#: framework/functions/woo-hook.php:531
+#: framework/functions/woo-hook.php:551
+#: framework/functions/woo-hook.php:571
+#@ wpdance
+msgid "In stock"
+msgstr ""
+
+#: framework/functions/woo-hook.php:531
+#, php-format
+#@ wpdance
+msgid "Only %s left in stock"
+msgstr ""
+
+#: framework/functions/woo-hook.php:534
+#, php-format
+#@ wpdance
+msgid "%s in stock"
+msgstr ""
+
+#: framework/functions/woo-hook.php:542
+#@ wpdance
+msgid "(backorders allowed)"
+msgstr ""
+
+#: framework/functions/woo-hook.php:554
+#: framework/functions/woo-hook.php:564
+#: framework/functions/woo-hook.php:568
+#@ wpdance
+msgid "Out of stock"
+msgstr ""
+
+#: framework/functions/woo-hook.php:582
+#@ wpdance
+msgid "Availability:"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:92
+#@ wpdance
+msgid "Hide Top Content Widget Area"
+msgstr ""
+
+#: page-templates/archive-template.php:33
+#: page-templates/sitemap-template.php:52
+#@ wpdance
+msgid "comments"
+msgstr ""
+
+#: searchform.php:5
+#@ wpdance
+msgid "search something..."
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: single-portfolio.php:128
+#@ wpdance
+msgid "<span>Categories</span> "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: single.php:113
+#@ wpdance
+msgid "&nbsp; &nbsp; &nbsp;"
+msgstr ""
+
+#: single.php:141
+#, php-format
+#@ wpdance
+msgid "<span class=\"%s\"> </span> %s"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:16
+#@ wpdance
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:20
+#@ wpdance
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:20
+#, php-format
+#@ wpdance
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:22
+#: woocommerce/cart/cart-shipping.php:97
+#@ wpdance
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+#@ wpdance
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+#@ wpdance
+msgid "Please continue to the checkout and enter your full address to see if there are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+#@ wpdance
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:76
+#: woocommerce/cart/cart-shipping.php:82
+#@ wpdance
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:20
+#@ wpdance
+msgid "Order total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:73
+#: woocommerce/checkout/review-order.php:96
+#@ wpdance
+msgid "Grand total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+#@ wpdance
+msgid "&larr; Back To Shop"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:91
+#@ wpdance
+msgid "Calculate"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:17
+#@ wpdance
+msgid "Item"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:16
+#@ wpdance
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:20
+#@ wpdance
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+#@ wpdance
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:34
+#@ wpdance
+msgid "Your order has been received, thank you for your purchase!"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:37
+#@ wpdance
+msgid "order received"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:39
+#@ wpdance
+msgid "Your order number is :"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43
+#@ wpdance
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+#@ wpdance
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:52
+#@ wpdance
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:66
+#@ wpdance
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:92
+#@ wpdance
+msgid "Your email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:101
+#@ wpdance
+msgid "Your password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+#@ wpdance
+msgid "Enter your username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:20
+#, php-format
+#@ wpdance
+msgid "Welcome back, <span>%s</span> !"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:22
+#, php-format
+#@ wpdance
+msgid "</br><u><a class=\"bold\" href=\"%s\">Change password</a></u><br/>"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:14
+#@ wpdance
+msgid ""
+"To track your order please enter your Order ID in the box below and press enter. This was given to you on your receipt and in the \n"
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+#@ wpdance
+msgid "track order"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:22
+#@ wpdance
+msgid "Track order"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:19
+#@ wpdance
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/myaccount/my-account.php:23
+#@ wpdance
+msgid "Log out"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:52
+#@ wpdance
+msgid "Order Number"
+msgstr ""
+
+#: framework/abstract.php:662
+#: framework/lib/class-tgm-plugin-activation.php:161
+#@ wpdance
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/abstract.php:663
+#: framework/lib/class-tgm-plugin-activation.php:162
+#@ wpdance
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/abstract.php:664
+#: framework/lib/class-tgm-plugin-activation.php:163
+#, php-format
+#@ wpdance
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/abstract.php:665
+#@ wpdance
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/abstract.php:666
+#: framework/lib/class-tgm-plugin-activation.php:165
+#, php-format
+#@ wpdance
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:667
+#: framework/lib/class-tgm-plugin-activation.php:166
+#, php-format
+#@ wpdance
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:668
+#: framework/lib/class-tgm-plugin-activation.php:167
+#, php-format
+#@ wpdance
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:669
+#: framework/lib/class-tgm-plugin-activation.php:168
+#, php-format
+#@ wpdance
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:670
+#: framework/lib/class-tgm-plugin-activation.php:169
+#, php-format
+#@ wpdance
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:671
+#: framework/lib/class-tgm-plugin-activation.php:170
+#, php-format
+#@ wpdance
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:672
+#: framework/lib/class-tgm-plugin-activation.php:171
+#, php-format
+#@ wpdance
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:673
+#: framework/lib/class-tgm-plugin-activation.php:172
+#, php-format
+#@ wpdance
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:674
+#: framework/lib/class-tgm-plugin-activation.php:173
+#@ wpdance
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:675
+#@ wpdance
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/abstract.php:676
+#: framework/lib/class-tgm-plugin-activation.php:175
+#@ wpdance
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/abstract.php:677
+#: framework/lib/class-tgm-plugin-activation.php:177
+#: framework/lib/class-tgm-plugin-activation.php:1956
+#@ wpdance
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/abstract.php:678
+#, php-format
+#@ wpdance
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/importer/parsers.php:43
+#: framework/importer/parsers.php:74
+#: framework/importer/parsers.php:82
+#@ wordpress-importer
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: framework/importer/parsers.php:44
+#@ wordpress-importer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: framework/importer/parsers.php:86
+#: framework/importer/parsers.php:91
+#: framework/importer/parsers.php:282
+#: framework/importer/parsers.php:472
+#@ wordpress-importer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:134
+#: framework/importer/wordpress-importer.php:143
+#: framework/importer/wordpress-importer.php:194
+#: framework/importer/wordpress-importer.php:198
+#: framework/importer/wordpress-importer.php:207
+#@ wordpress-importer
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:135
+#@ wordpress-importer
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:178
+#@ wordpress-importer
+msgid "All done."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:178
+#@ wordpress-importer
+msgid "Have fun!"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:179
+#@ wordpress-importer
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:199
+#, php-format
+#@ wordpress-importer
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:215
+#, php-format
+#@ wordpress-importer
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:240
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:266
+#@ wordpress-importer
+msgid "Assign Authors"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:267
+#@ wordpress-importer
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:269
+#, php-format
+#@ wordpress-importer
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:279
+#@ wordpress-importer
+msgid "Import Attachments"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:282
+#@ wordpress-importer
+msgid "Download and import file attachments"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:299
+#@ wordpress-importer
+msgid "Import author:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:310
+#@ wordpress-importer
+msgid "or create new user with login name:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:313
+#@ wordpress-importer
+msgid "as a new user:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:321
+#@ wordpress-importer
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:323
+#@ wordpress-importer
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:324
+#@ wordpress-importer
+msgid "- Select -"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:374
+#, php-format
+#@ wordpress-importer
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:425
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import category %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:465
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:511
+#: framework/importer/wordpress-importer.php:652
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:537
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:559
+#, php-format
+#@ wordpress-importer
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:618
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:783
+#@ wordpress-importer
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:790
+#, php-format
+#@ wordpress-importer
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:853
+#@ wordpress-importer
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:866
+#@ wordpress-importer
+msgid "Invalid file type"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:910
+#@ wordpress-importer
+msgid "Remote server did not respond"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:916
+#, php-format
+#@ wordpress-importer
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:923
+#@ wordpress-importer
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:928
+#@ wordpress-importer
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:934
+#, php-format
+#@ wordpress-importer
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:1033
+#@ wordpress-importer
+msgid "Import WordPress"
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:1040
+#, php-format
+#@ wordpress-importer
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:1055
+#@ wordpress-importer
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: framework/importer/wordpress-importer.php:1056
+#@ wordpress-importer
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:164
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:174
+#@ wpdance
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:176
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:179
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:180
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:532
+#: framework/lib/class-tgm-plugin-activation.php:2173
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1167
+#: framework/lib/class-tgm-plugin-activation.php:1348
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1170
+#: framework/lib/class-tgm-plugin-activation.php:1351
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1175
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1178
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1178
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1181
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1183
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1388
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1389
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1288
+#: framework/lib/class-tgm-plugin-activation.php:1409
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1312
+#: framework/lib/class-tgm-plugin-activation.php:1410
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/lib/class-tgm-plugin-activation.php:1644
+#: framework/lib/class-tgm-plugin-activation.php:178
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1939
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1940
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1941
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1942
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1943
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1944
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1955
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2077
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2078
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2069
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2070
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2070
+#: framework/lib/class-tgm-plugin-activation.php:2079
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2070
+#: framework/lib/class-tgm-plugin-activation.php:2079
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2071
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2072
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2076
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2079
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2080
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:2081
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/lib/class-tgm-plugin-activation.php:1372
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:28
+#@ wpdance
+msgid "Please enter your email address and password to login, or <a title=\"register\" id=\"wd_login\" href=\"#\">click here</a> to register."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:30
+#@ wpdance
+msgid "Please enter your email address and password to login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:72
+#@ wpdance
+msgid "Please enter your email address and password to register, or <a id=\"wd_register\" title=\"login\" href=\"#\"> click here</a> to login."
+msgstr ""
+
+#: content-none.php:1
+#@ wpdance
+msgid "There are no posts to display"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:68
+#@ wpdance
+msgid "Icon Style"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:117
+#@ wpdance
+msgid "Icon color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:126
+#@ wpdance
+msgid "Icon hover color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:135
+#: framework/extension/extendvc/vc_generate/heading.php:47
+#@ wpdance
+msgid "Border color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/feature.php:144
+#@ wpdance
+msgid "Border hover color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/milestone.php:24
+#@ wpdance
+msgid "Number"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/milestone.php:33
+#@ wpdance
+msgid "Symbol"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/milestone.php:42
+#@ wpdance
+msgid "Subject"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/portfolio.php:118
+#@ wpdance
+msgid "Category IDs"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/video.php:24
+#@ wpdance
+msgid "MP4 Video"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/video.php:33
+#@ wpdance
+msgid "OGG Video"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/video.php:42
+#@ wpdance
+msgid "WEBM Video"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/video.php:51
+#@ wpdance
+msgid "Volumn"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/video.php:69
+#@ wpdance
+msgid "Background color opacity"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/video.php:78
+#@ wpdance
+msgid "Background color"
+msgstr ""
+
+#: framework/extension/extendvc/vc_generate/video.php:111
+#@ wpdance
+msgid "Loop"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:52
+#@ wpdance
+msgid "Header Layout"
+msgstr ""
+
+#: framework/includes/metaboxes/page_configuration.php:193
+#@ wpdance
+msgid "Page Logo"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:14
+#@ wpdance
+msgid "Customer Details"
+msgstr ""
+

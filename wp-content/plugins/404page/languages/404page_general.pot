@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 404page\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Like this Plugin?"
+msgstr ""
+
+msgid "Please rate the plugin"
+msgstr ""
+
+msgid "Plugin homepage"
+msgstr ""
+
+msgid "Author homepage"
+msgstr ""
+
+msgid "Authors Google+ Page"
+msgstr ""
+
+msgid "Authors facebook Page"
+msgstr ""
+
+msgid "Need help?"
+msgstr ""
+
+msgid "Take a look at the Plugin Doc"
+msgstr ""
+
+msgid "Take a look at the FAQ section"
+msgstr ""
+
+msgid "Take a look at the Support section"
+msgstr ""
+
+msgid "Feel free to contact the Author"
+msgstr ""

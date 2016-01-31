@@ -1,0 +1,2949 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items_setting>
+	<general_color>
+		<text>Primary Color All</text>
+		<items>
+			<item>
+				<name>Primary Color All</name>
+				<slug>primary_color</slug>
+				<std>#2a3584</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								/* BREADCRUMB */
+								#crumbs a:hover,
+								.bbp-breadcrumb a:hover,
+								.woocommerce-breadcrumb a:hover,
+								.woocommerce-breadcrumb a:hover,
+								/* Easy cart */
+								body .ec_product_details_page .ec_details_breadcrumbs a:hover,
+								a,
+								h3 > a:hover,
+								h4 > a:hover,
+								body footer#footer .primary-color *,
+								.primary-color,
+								.wd_product_categories,
+								.wd_tagged_as,
+								#options ul li.active i,
+								#options ul li:hover i,
+								a.bold:hover,
+								a.bold-upper-small:hover,
+								a.bold-upper-big:hover,
+								.bold-upper-big a:hover,
+								a.bold-upper-normal:hover,
+								.bold-upper-normal a:hover,
+								.nav-tabs > li a, 
+								.header-currency ul.currency_switcher li a:hover,
+								.widget-container > ul > li > a:hover,
+								.widget-container ul.product_list_widget li .product-meta > a:hover,
+								.widget-container.widget_recent_reviews ul.product_list_widget li .product-meta > a:hover,
+								.widget_nav_menu div > ul > li a:hover,
+								#header .wd_tini_cart_wrapper .remove:hover,
+								.woocommerce ul.cart_list li a:hover, 
+								.woocommerce-page ul.cart_list li a:hover,
+								.woocommerce.widget_recent_reviews ul.product_list_widget li a:hover,
+								.woocommerce-page .widget_recent_reviews ul.product_list_widget li a:hover,
+								.widget-container .menu-menu-shortcode-vs-container > ul > li a:hover,
+								.widget-container ul.product_list_widget > li .wd-categories > a,
+								.widget_tag_cloud a:hover,
+								.widget_product_tag_cloud a:hover,
+								.widget-container.widget_layered_nav ul li a:hover, 
+								.woocommerce .widget-container.widget_layered_nav ul li a:hover, 
+								.woocommerce-page .widget-container.widget_layered_nav ul li a:hover,
+								.woocommerce .widget_layered_nav ul li.chosen a, 
+								.woocommerce-page .widget_layered_nav ul li.chosen a,
+								#content div.product .social_icon > div a:hover i,
+								.pp_woocommerce div.product .social_icon > div a:hover i,
+								.woocommerce-page div.product .social_icon > div a:hover i,
+								.woocommerce-page div.product .social_icon > div a:hover i,
+								.pp_woocommerce div.product .availability span,
+								.woocommerce div.product .availability span,
+								.woocommerce-page div.product .availability span,
+								#content div.product .out-of-stock, 
+								.pp_woocommerce #content div.product .out-of-stock, 
+								body.woocommerce #content div.product .out-of-stock, 
+								.woocommerce div.product .out-of-stock, 
+								body.woocommerce-page #content div.product .out-of-stock, 
+								body.woocommerce-page div.product .out-of-stock,
+								.wd_shortcode_feature .feature_icon a:hover span,
+								table.shop_table.order_details .product-name a:hover,
+								/* Accordion */
+								.vc_tta-container .vc_tta.vc_tta-accordion .vc_tta-panel-heading a:after,
+								/* Breadcrumb */
+								.woocommerce nav.woocommerce-pagination ul li span.current,
+								.woocommerce-page nav.woocommerce-pagination ul li span.current,
+								.woocommerce #content nav.woocommerce-pagination ul li span.current,
+								.woocommerce-page #content nav.woocommerce-pagination ul li span.current,
+								.woocommerce nav.woocommerce-pagination ul li a:hover,
+								.woocommerce-page nav.woocommerce-pagination ul li a:hover,
+								.woocommerce #content nav.woocommerce-pagination ul li a:hover,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a:hover,
+								.woocommerce nav.woocommerce-pagination ul li a:focus,
+								.woocommerce-page nav.woocommerce-pagination ul li a:focus,
+								.woocommerce #content nav.woocommerce-pagination ul li a:focus,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a:focus,
+								.page_navi .nav-content span,
+								.page_navi .nav-content a:hover,
+								.page_navi .nav-content a:focus,
+								/* Cart */
+								table.cart .wd_product_meta a:hover,
+								#order_review table.shop_table .wd_product_meta a:hover,
+								/* Tags and Categories */
+								.tag-links a:hover,
+								.cat-links a:hover,
+								/* Author */
+								.author a:hover,
+								/* Sitemap - archive */
+								.sitemap-content a:hover,
+								.archive-content a:hover,
+								.sitemap-content .sitemap-archive > li > a:hover,
+								.archive-content .sitemap-archive > li > a:hover
+								.wd_meet_team h5 a:hover,
+								.woocommerce-ordering .orderby li a:hover,
+								ol.comment-list .comment-author a:hover,
+								.widget_flickr a.see-more:hover,
+								a.block-control:hover,
+								.woocommerce table.shop_table.wishlist_table .product-name a:hover,
+								.woocommerce-wishlist table.shop_table.wishlist_table .product-name a:hover,
+								.woocommerce-page table.shop_table.wishlist_table .product-name a:hover,
+								.wishlist_table tr td.product-stock-status span.wishlist-in-stock,
+								.container .vc_toggle_title h4:after, 
+								.container #content .vc_toggle_title h4:after,
+								.wd_portfolio_categories,
+								.container .wpb_accordion_section .ui-accordion-header-icon:after ,
+								div.product .summary .yith-wcwl-add-to-wishlist a:visited, 
+								div.product .summary a.compare:visited,
+								div.product .summary a.compare.added,
+								.group_table td.label a:hover,
+								#cboxClose:hover:before,
+								.mobile-menu li a:hover,
+								.mobile-menu li.current-menu-item > a,
+								.mobile-menu li.current_page_item > a,
+								.style-2 .item-portfolio .portfolio-grid-title a:hover,
+								.bbp-topic-title a:hover,
+								a.more:hover,
+								body .ec_product_details_page a,
+								body .ec_details_tab,
+								body .ec_categorywidget a b, 
+								body .ec_manufacturer_widget a b, 
+								body .ec_pricepoint_widget a b, 
+								body .ec_group_widget a b,
+								/* Link color */
+								a,
+								/* Menu sub text hover */
+								.nav > .main-menu > ul.menu > li.wd-fly-menu li:hover > a,
+								.nav > .main-menu > ul.menu > li.wd-mega-menu > ul.sub-menu li.widget_nav_menu li:hover > a,
+								.nav > .main-menu > ul.menu > li ul.sub-menu .list-menu li:hover > a,
+								/* Label hot product */
+								.wd_cart_buttons a.button.wd_update_button_visible,
+								.wd_milestone .fa,
+								.wd_video .bg_overlay .cover_button:hover:before,
+								.cus_contact_form .wpcf7-form input.wpcf7-submit:hover
+							</selector_normal>
+							<selector_important>
+								div.pp_woocommerce .pp_close:hover,
+								body .ec_product_quickview_close:hover:before,
+								body .ec_cartitem_delete:hover,
+								body .ec_cartitem_title:hover,
+								body .ec_product_title_type1:hover,
+								body .ec_product_quickview_close > input,
+								body .ec_product_quickview_content_title > a:hover,
+								body .ec_product_details_page .ec_details_breadcrumbs a:hover,
+								body .ec_product_page_sort .ec_product_page_perpage > a:hover, 
+								body .ec_product_page_sort .ec_product_page_perpage > a.ec_selected, 
+								body .ec_num_page_selected, 
+								body .ec_num_page_selected:hover, 
+								body .ec_num_page:hover,
+								body .ec_categorywidget a:hover, 
+								body .ec_manufacturer_widget a:hover, 
+								body .ec_pricepoint_widget a:hover, 
+								body .ec_group_widget a:hover,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_title:hover,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_title a:hover,
+								body .ec_product_widget_title a:hover,
+								
+								/* Menu sub text hover */
+								.nav > .main-menu > ul.menu > li li.current-menu-item > a
+							</selector_important>
+						</selector>
+					</f1>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+							<selector_normal>
+								body .primary-color,
+								#options ul li.active i,
+								#options ul li:hover i,
+								/* SHORTCODE TAB */
+								.container .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav a, 
+								.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a,
+								.vc_tta.vc_general .vc_tta-tabs-list .vc_tta-tab a,
+								.vc_tta.vc_general .vc_tta-tabs-list .vc_tta-tab a:hover,
+								.vc_tta.vc_general .vc_tta-tabs-list .vc_tta-tab.vc_active a,
+								.vc_tta.vc_general .vc_tta-tabs-container:before,
+								.vc_tta-container .vc_tta-tabs:not([class*="vc_tta-gap"]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-top .vc_tta-tab.vc_active > a,
+								html .vc_tta-tabs:not([class*="vc_tta-gap"]):not(.vc_tta-o-no-fill).vc_tta-tabs-position-right .vc_tta-tab.vc_active > a,
+								/* Breadcrumb */
+								.woocommerce nav.woocommerce-pagination ul li span.current,
+								.woocommerce-page nav.woocommerce-pagination ul li span.current,
+								.woocommerce #content nav.woocommerce-pagination ul li span.current,
+								.woocommerce-page #content nav.woocommerce-pagination ul li span.current,
+								.woocommerce nav.woocommerce-pagination ul li a:hover,
+								.woocommerce-page nav.woocommerce-pagination ul li a:hover,
+								.woocommerce #content nav.woocommerce-pagination ul li a:hover,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a:hover,
+								.woocommerce nav.woocommerce-pagination ul li a:focus,
+								.woocommerce-page nav.woocommerce-pagination ul li a:focus,
+								.woocommerce #content nav.woocommerce-pagination ul li a:focus,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a:focus,
+								.page_navi .nav-content span,
+								.page_navi .nav-content a:hover,
+								.page_navi .nav-content a:focus,
+								/* PORTFOLIO */
+								#portfolio-galleries .portfolio-filter li a,
+
+								.heading-title-block h1,
+								.heading-title-block h2,
+								.heading-title-block h3,
+								.heading-title-block h4,
+								.heading-title-block h5,
+								.heading-title-block h6,
+								.shortcode-title-wrapper h3,
+								.title-wrapper h3,
+
+								.nav-tabs > li a,
+								/* WOO TABLE */
+								.woocommerce table.shop_table th span:after, 
+								.woocommerce-page table.shop_table th span:after,
+								.woocommerce table.shop_table.my_account_orders th span:after, 
+								.woocommerce-page table.shop_table.my_account_orders th span:after,
+								form.wd_form_cart .wd_cart_buttons:before,
+								.sitemap-content .cat-title:before,
+								.heading-title-block:before,
+								.shortcode-title-wrapper:before,
+								.title-wrapper:before,
+								.container .wpb_content_element .wpb_tabs_nav:before,
+								.nav-tabs:before,
+								#portfolio-galleries .portfolio-filter:before,
+								.footer-col-3-products:before,
+								.footer-col-3-products:after,
+								.footer-col-3-products .row-boxed:before,
+								div.product .summary .yith-wcwl-add-to-wishlist a:after,
+								div.product .summary a.compare:after,
+								.list-counting li:before,
+								/* Easy cart */
+								body .ec_details_tabs:before,
+								/* Button secondary border */
+								.product-meta-wrapper .yith-wcwl-add-to-wishlist:after,
+								.product-meta-wrapper .wd_quickshop_handler:after,
+								.product-meta-wrapper .wd_compare_wrapper:after,
+								/* Label hot product */
+								.wd_cart_buttons a.button.wd_update_button_visible,
+								.cus_contact_form .wpcf7-form input.wpcf7-submit
+							</selector_normal>
+							<selector_important>
+								/* Easy cart */
+								body .ec_details_tab,
+								body .ec_cartitem_delete:hover,
+								body .ec_product_page_sort .ec_product_page_perpage > a:hover, 
+								body .ec_product_page_sort .ec_product_page_perpage > a.ec_selected, 
+								body .ec_num_page_selected, 
+								body .ec_num_page_selected:hover, 
+								body .ec_num_page:hover
+							</selector_important>
+						</selector>
+					</f1>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+							<selector_normal>
+								/* Header top background */
+								#header .header-top,
+								#header .header_search form input[type="text"],
+								.is-sticky #header.header-v2 .header-top,
+								/* Button secondary background */
+								.woocommerce-cart .cart_totals .wc-proceed-to-checkout .button,
+								.woocommerce .cart_totals .wc-proceed-to-checkout .button,
+								button.big,
+								.buttons a.big,
+								.btn.big,
+								.button.big,
+								.woocommerce .variations_button button.button,
+								.woocommerce-page .variations_button button.button,
+								.woocommerce #content input.button.big, 
+								.woocommerce #respond input#submit.big,
+								.pp_woocommerce a.button.big, 
+								.woocommerce a.button.big, 
+								.woocommerce button.button.big, 
+								.woocommerce input.button.big, 
+								.woocommerce-page #content input.button.big, 
+								.woocommerce-page #respond input#submit.big, 
+								.woocommerce-page a.button.big, 
+								.woocommerce-page button.button.big, 
+								.woocommerce-page input.button.big,
+								.woocommerce #content input.button.alt.big, 
+								.woocommerce #respond input#submit.alt.big, 
+								.woocommerce a.button.alt.big, 
+								.woocommerce button.button.alt.big, 
+								.woocommerce input.button.alt.big, 
+								.woocommerce-page #content input.button.alt.big, 
+								.woocommerce-page #respond input#submit.alt.big, 
+								.woocommerce-page a.button.alt.big, 
+								.woocommerce-page button.button.alt.big, 
+								.woocommerce-page input.button.alt.big,
+								.shortcode-product .wd-big-product a.button,
+								.woocommerce-page .shortcode-product .wd-big-product a.button,
+								.woocommerce .shortcode-product .wd-big-product a.button,
+								.woocommerce-page .place-order input[type="submit"],
+								.woocommerce .place-order input[type="submit"],
+								.wd_meet_team .social a:hover,
+								html .woocommerce.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a, 
+								html .woocommerce-page.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a, 
+								html .post-type-archive-product.woocommerce #wd-container .products.list .product-meta-wrapper .list_add_to_cart a,
+								.search-404 form input[type="submit"],
+								/* Label hot product */
+								div.product_label > span.featured ,
+								.woocommerce div.product_label > span.featured ,
+								.woocommerce-page div.product_label > span.featured,
+								.wd_cart_buttons a.button.wd_update_button_visible:hover,
+								/* Thumbnail background color hover */
+								.product-thumbnail-wrapper:after,
+								.item-portfolio .thumb-image-hover,
+								.vc_wp_categories .widget_categories > ul > li:before,
+								.vc_wp_meta .widget_meta > ul > li:before,
+								.vc_wp_recentcomments .widget_recent_comments ul li:before,
+								.vc_wp_pages .widget_pages > ul > li:before,
+								.shortcode-recent-blogs .date-time,
+								.cus_contact_form .wpcf7-form input.wpcf7-submit
+							</selector_normal>
+							<selector_important>
+								body .ec_product_quickview_content_add_to_cart a,
+								/* Easy cart */
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:last-child input[type='button'],
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > input, 
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > a,
+								body .ec_product_type1 .ec_product_quickview:hover,
+								body .ec_product_type1 .ec_product_quickview:hover:before,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_addtocart a
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</general_color>
+	<general>
+		<text>General</text>
+		<items>
+			<item>
+				<name>Secondary Color</name>
+				<slug>secondary_color</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								/* BREADCRUMB */
+								#crumbs a,
+								.bbp-breadcrumb a,
+								.woocommerce-breadcrumb a,
+								/* SHORTCODE TAB */
+								.container .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav .ui-tabs-active a,
+								.container .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav li:hover a,
+								.vc_tta.vc_general .vc_tta-tabs-container li:hover a,
+								.vc_tta.vc_general .vc_tta-tabs-container li.vc_active a,
+								/* SHORTCODE ACCORDION */
+								.vc_active .vc_tta-panel-title,
+								/* PORTFOLIO */
+								#portfolio-galleries .portfolio-filter li.active a,
+								#portfolio-galleries .portfolio-filter li:hover a,
+								/* SHORTCODE PROGRESS BAR */
+								.container .vc_progress_bar .vc_single_bar .vc_label,
+								h4 > a,
+								h3 > a,
+								table tr th,
+								.widget_flickr a.see-more,
+								.bold-upper-normal,
+								.bold-upper-small,
+								.list-counting li,
+								.bold-upper-normal a,
+								.bold-upper-big,
+								.bold-upper-big a,
+								.bold,
+								.bold-upper-small,
+								#options ul li i,
+								.woocommerce-ordering .orderby span.orderby-current,
+								.header-currency ul.currency_switcher li a,
+								.post-info-meta > span,
+								.widget-container > ul > li > a,
+								#header .wd_tini_cart_wrapper .remove,
+								.woocommerce ul.cart_list li a, 
+								.woocommerce-page ul.cart_list li a,
+								.widget-container .menu-menu-shortcode-vs-container > ul > li > a,
+								.nav-tabs > li.active a, 
+								.nav-tabs > li a:hover, 
+								.nav-tabs > li a:focus,
+								.widget_twitterupdate ul li a:first-child,
+								.widget-container .post-meta,
+								.woocommerce-ordering .orderby span.orderby-current, 
+								.woocommerce-ordering .orderby li a,
+								#content div.product .social_icon > div a i,
+								.pp_woocommerce div.product .social_icon > div a i,
+								.woocommerce-page div.product .social_icon > div a i,
+								.woocommerce-page div.product .social_icon > div a i,
+								.woocommerce #content .quantity .plus:focus, 
+								.woocommerce .quantity .plus:focus, 
+								.woocommerce-page #content .quantity .plus:focus, 
+								.woocommerce-page .quantity .plus:focus,
+								.woocommerce #content .quantity .minus:focus, 
+								.woocommerce .quantity .minus:focus, 
+								.woocommerce-page #content .quantity .minus:focus, 
+								.woocommerce-page .quantity .minus:focus,
+								.woocommerce #content .quantity .plus:hover, 
+								.woocommerce .quantity .plus:hover, 
+								.woocommerce-page #content .quantity .plus:hover, 
+								.woocommerce-page .quantity .plus:hover,
+								.woocommerce #content .quantity .minus:hover, 
+								.woocommerce .quantity .minus:hover, 
+								.woocommerce-page #content .quantity .minus:hover, 
+								.woocommerce-page .quantity .minus:hover,
+								/* Easy cart */
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_minus:hover, 
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_plus:hover,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_minus:focus, 
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_plus:focus,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_quantity:hover,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_quantity:focus,
+								input[type="color"]:hover, 
+								input[type="email"]:hover, 
+								input[type="number"]:hover, 
+								input[type="password"]:hover, 
+								input[type="tel"]:hover, 
+								input[type="text"]:hover, 
+								select:hover, 
+								textarea:hover, 
+								input.input-text:hover, 
+								input[type="color"]:focus, 
+								input[type="email"]:focus, 
+								input[type="number"]:focus, 
+								input[type="password"]:focus, 
+								input[type="tel"]:focus, 
+								input[type="text"]:focus, 
+								select:focus, 
+								textarea:focus, 
+								input.input-text:focus,
+								body .ec_account_page input[type='text']:hover, 
+								body .ec_account_page input[type='input']:hover, 
+								body .ec_account_page input[type='password']:hover, 
+								body .ec_account_page input[type='email']:hover, 
+								body .ec_account_page input[type='number']:hover, 
+								body .ec_account_page input[type='url']:hover, 
+								body .ec_account_page input[type='tel']:hover, 
+								body .ec_account_page input[type='search']:hover, 
+								body .ec_account_page textarea:hover, 
+								body .ec_account_page select:hover,
+								body .ec_account_page input[type='text']:focus, 
+								body .ec_account_page input[type='input']:focus, 
+								body .ec_account_page input[type='password']:focus, 
+								body .ec_account_page input[type='email']:focus, 
+								body .ec_account_page input[type='number']:focus, 
+								body .ec_account_page input[type='url']:focus, 
+								body .ec_account_page input[type='tel']:focus, 
+								body .ec_account_page input[type='search']:focus, 
+								body .ec_account_page textarea:focus, 
+								body .ec_account_page select:focus,
+								body .ec_product_details_page input[type='text']:hover, 
+								body .ec_product_details_page input[type='input']:hover, 
+								body .ec_product_details_page input[type='password']:hover, 
+								body .ec_product_details_page input[type='email']:hover, 
+								body .ec_product_details_page input[type='number']:hover, 
+								body .ec_product_details_page input[type='url']:hover, 
+								body .ec_product_details_page input[type='tel']:hover, 
+								body .ec_product_details_page input[type='search']:hover, 
+								body .ec_product_details_page textarea:hover, 
+								body .ec_product_details_page select:hover,
+								body .ec_product_page_sort select:hover,
+								body .ec_product_details_page input[type='text']:focus, 
+								body .ec_product_details_page input[type='input']:focus, 
+								body .ec_product_details_page input[type='password']:focus, 
+								body .ec_product_details_page input[type='email']:focus, 
+								body .ec_product_details_page input[type='number']:focus, 
+								body .ec_product_details_page input[type='url']:focus, 
+								body .ec_product_details_page input[type='tel']:focus, 
+								body .ec_product_details_page input[type='search']:focus, 
+								body .ec_product_details_page textarea:focus, 
+								body .ec_product_details_page select:focus,
+								body .ec_product_page_sort select:focus,
+								body .ec_product_quickview_content input[type='text']:hover, 
+								body .ec_product_quickview_content input[type='input']:hover, 
+								body .ec_product_quickview_content input[type='password']:hover, 
+								body .ec_product_quickview_content input[type='email']:hover, 
+								body .ec_product_quickview_content input[type='number']:hover, 
+								body .ec_product_quickview_content input[type='url']:hover, 
+								body .ec_product_quickview_content input[type='tel']:hover, 
+								body .ec_product_quickview_content input[type='search']:hover, 
+								body .ec_product_quickview_content textarea:hover, 
+								body .ec_product_quickview_content select:hover,
+								body .ec_product_quickview_content input[type='text']:focus, 
+								body .ec_product_quickview_content input[type='input']:focus, 
+								body .ec_product_quickview_content input[type='password']:focus, 
+								body .ec_product_quickview_content input[type='email']:focus, 
+								body .ec_product_quickview_content input[type='number']:focus, 
+								body .ec_product_quickview_content input[type='url']:focus, 
+								body .ec_product_quickview_content input[type='tel']:focus, 
+								body .ec_product_quickview_content input[type='search']:focus, 
+								body .ec_product_quickview_content textarea:focus, 
+								body .ec_product_quickview_content select:focus,
+								body .ec_cart_page input[type='text']:hover, 
+								body .ec_cart_page input[type='input']:hover, 
+								body .ec_cart_page input[type='password']:hover, 
+								body .ec_cart_page input[type='email']:hover, 
+								body .ec_cart_page input[type='number']:hover, 
+								body .ec_cart_page input[type='url']:hover, 
+								body .ec_cart_page input[type='tel']:hover, 
+								body .ec_cart_page input[type='search']:hover, 
+								body .ec_cart_page textarea:hover, 
+								body .ec_cart_page select:hover,
+								body .ec_cart_page input[type='text']:focus, 
+								body .ec_cart_page input[type='input']:focus, 
+								body .ec_cart_page input[type='password']:focus, 
+								body .ec_cart_page input[type='email']:focus, 
+								body .ec_cart_page input[type='number']:focus, 
+								body .ec_cart_page input[type='url']:focus, 
+								body .ec_cart_page input[type='tel']:focus, 
+								body .ec_cart_page input[type='search']:focus, 
+								body .ec_cart_page textarea:focus, 
+								body .ec_cart_page select:focus,
+								.testimonial-content,
+								.wpb_accordion_section .ui-accordion-header-icon:hover:after,
+								.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header:hover a, 
+								.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active a,
+								.container .wpb_accordion_section .ui-accordion-header-icon:hover:after,
+								/* Check out */
+								.woocommerce-checkout .woocommerce > p,
+								.woocommerce > p,
+								.woocommerce-checkout .woocommerce > h2,
+								.woocommerce > h2,
+								/* Cart */
+								table.cart .wd_product_meta a,
+								#order_review table.shop_table .wd_product_meta a,
+								/* Tags and Categories */
+								.tag-links a,
+								.cat-links a,
+								/* Author */
+								.author-inner .author-detail li.second,
+								.author a,
+								.author i:before,
+								.comments-count i:before,
+								.comments-count .number,
+								.sitemap-content .sitemap-archive > li > a,
+								.archive-content .sitemap-archive > li > a,
+								.sitemap-archive span.comment,
+								.wd_meet_team h5 a,
+								.is-countdown > span > span > span:first-child,
+								ol.comment-list .comment-author a,
+								a.block-control,
+								.woocommerce table.shop_table.wishlist_table .product-name a,
+								.woocommerce-wishlist table.shop_table.wishlist_table .product-name a,
+								.woocommerce-page table.shop_table.wishlist_table .product-name a,
+								.mobile-menu li a,
+								.bbp-topic-title a,
+								.bbp-header *,
+								a.more,
+								.button-black,
+								.woocommerce-page .tp-caption .button-black,
+								.woocommerce .tp-caption .button-black,
+								.tp-caption .button-black,
+								.woocommerce #wd-container .button.button-black,
+								.woocommerce-page #wd-container .button.button-black,
+								#wd-container .button.button-black,
+								.price_in_table > .period,
+								.price_in_table > .pricing,
+								.price_table_inner li.content ol li:after,
+								.page-template-comming-soon ul.social li:hover i,
+								.widget_woothemes_testimonials cite,
+								.widget_multitab .accordion-heading a,
+								.container .vc_toggle_active .vc_toggle_title h4,
+								.container#content .vc_toggle_active .vc_toggle_title h4,
+								.sidebar-content .nav-tabs > li a,
+								.widget_social ul li a,
+								.group_table td.label a,
+								/* Accordion */
+								.vc_tta-container .vc_tta.vc_tta-accordion .vc_tta-panel-heading a:hover:after,
+								/* Easy cart */
+								body .ec_cart_price_row_total,
+								body .ec_cart_breadcrumb,
+								body .ec_cart > thead > tr > th,
+								body .ec_product_page_sort .ec_product_page_perpage > span,
+								body .ec_product_page_sort select,
+								body .ec_product_details_page .ec_details_final_price,
+								body .ec_details_price > .ec_product_price,
+								body .ec_product_details_page a:hover,
+								body .ec_details_tab.ec_active,
+								body .ec_details_tab:hover,
+								body .ec_cart_widget_minicart_product_title a:hover,
+								body .ec_product_widget_title a
+							</selector_normal>
+							<selector_important>
+								body .ec_product_quickview_close:before,
+								div.pp_woocommerce .pp_close,
+								body .ec_product_quickview_close > input,
+								div.pp_woocommerce .pp_description,
+								body .ec_cartitem_delete,
+								body .ec_cartitem_title,
+								body .ec_product_title_type1,
+								body .ec_product_quickview_content_title > a,
+								body .ec_details_right > .ec_add_to_cart_form > .ec_details_title,
+								body .ec_details_customer_reviews_form > .ec_details_customer_reviews_form_holder > h3,
+								/* Easy cart */
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:first-child input[type='button']:hover,
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:first-child input[type='button']:focus,
+								body .ec_details_add_to_cart_area > .ec_details_quantity > .ec_minus:focus, 
+								body .ec_details_add_to_cart_area > .ec_details_quantity > .ec_plus:hover,
+								body .ec_details_add_to_cart_area > .ec_details_quantity > .ec_minus:hover, 
+								body .ec_details_add_to_cart_area > .ec_details_quantity > .ec_plus:focus,
+								body .ec_details_related_products_area > h3,
+								body .ec_cart_header,
+								body .ec_product_details_page .ec_details_breadcrumbs a,
+								body .ec_categorywidget a,
+								body .ec_group_widget a,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_title,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_title a
+							</selector_important>
+						</selector>
+					</f1>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+							<selector_normal>
+								.table_title h4:after,
+								#wd-container .products.list .product-meta-wrapper .product-title:after,
+								h1.heading-title.page-title:after,
+								.woocommerce .widget_price_filter .ui-slider-horizontal .ui-slider-range, 
+								.woocommerce-page .widget_price_filter .ui-slider-horizontal .ui-slider-range,
+								.woocommerce .widget_price_filter .ui-slider .ui-slider-handle:before, 
+								.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle:before,
+								#content div.product .product_title:after, 
+								.pp_woocommerce div.product .product_title:after, 
+								.woocommerce #content div.product .product_title:after, 
+								.woocommerce div.product .product_title:after, 
+								.woocommerce-page #content div.product .product_title:after, 
+								.woocommerce-page div.product .product_title:after,
+								.owl-dots .owl-dot,
+								.button-black,
+								.woocommerce-page .tp-caption .button-black:hover,
+								.woocommerce .tp-caption .button-black:hover,
+								.tp-caption .button-black:hover,
+								.woocommerce #wd-container .button.button-black:hover,
+								.woocommerce-page #wd-container .button.button-black:hover,
+								#wd-container .button.button-black:hover,
+								/* Easy cart */
+								body .ec_title_divider,
+								body .ec_product_quickview_content_divider
+							</selector_normal>
+							<selector_important>
+							</selector_important>
+						</selector>
+					</f1>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+							`<selector_normal>
+								.wd_price_table.active_price:before,
+								.sitemap-content .heading-title,
+								.archive-content .heading-title,
+								.wd_meet_team .info > h5:before,
+								.container .vc_toggle.vc_toggle_active:before, 
+								.container#content .vc_toggle.vc_toggle_active:before,
+								html .shortcode-product.list .product-image:before,
+								.widget_title_wrapper .widget-title,
+								.heading-title-box,
+								.widget_multitab .accordion-heading a,
+								.author-inner .author-detail:after,
+								#footer .nav-tabs > li.active a,
+								#footer .nav-tabs > li a:hover,
+								#footer .nav-tabs > li a:focus,
+								.sidebar-content .nav-tabs > li.active a,
+								.sidebar-content .nav-tabs > li a:hover,
+								.sidebar-content .nav-tabs > li a:focus,
+								.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header:hover a, 
+								.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-state-active a,
+								div.flickr_badge_image a:hover:before,
+								#wd-container .products.list .product-meta-wrapper .product-title:after,
+								.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_section.active:before,
+								.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_section:hover:before,
+								.vc_tta.vc_tta-accordion .vc_tta-panel.vc_active:before,
+								.vc_tta.vc_tta-accordion .vc_tta-panel:hover:before,
+								.wd_shortcode_feature_wpdance,
+								.feature_wpdance_wrapper > h3:after,
+								.button-black,
+								.woocommerce-page .tp-caption .button-black,
+								.woocommerce .tp-caption .button-black,
+								.tp-caption .button-black,
+								.woocommerce #wd-container .button.button-black,
+								.woocommerce-page #wd-container .button.button-black,
+								#wd-container .button.button-black,
+								.woocommerce ul.product_list_widget li img:hover,
+								.woocommerce .widget-container ul.product_list_widget li img:hover, 
+								.woocommerce-page .widget-container ul.product_list_widget li img:hover,
+								.widget_wd_pc_color_nav ul li a:hover span,
+								.widget_wd_pc_color_nav ul li.chosen a span,
+								/* Easy cart */
+								body .ec_details_related_products_area > h3,
+								body .ec_cart_header,
+								body .ec_product_page_sort .ec_product_page_perpage > span,
+								body .ec_product_page_sort select,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_title:after,
+							</selector_normal>
+							<selector_important>
+								body .ec_cartitem_delete
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Background Main Content</name>
+				<slug>background_main_content</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+							#main-module-container,
+							.header-currency ul.currency_switcher li a,
+							.header-account .drop_down_container:before,
+							#header .shopping-cart .cart_dropdown:before,
+							.header-currency .currency_dropdown:before,
+							.container .wpb_tabs .wpb_tabs_nav li,
+							.container .wpb_content_element .wpb_tabs_nav li.ui-tabs-active, 
+							.container .wpb_content_element .wpb_tabs_nav li:hover,
+							#portfolio-galleries .portfolio-filter li,
+							.woocommerce-ordering .orderby .dropdown,
+							.widget-container.widget_layered_nav ul li a, 
+							.woocommerce .widget-container.widget_layered_nav ul li a, 
+							.woocommerce-page .widget-container.widget_layered_nav ul li a,
+							.woocommerce .widget_layered_nav ul small.count, 
+							.woocommerce-page .widget_layered_nav ul small.count,
+							.heading-title-block h1,
+							.heading-title-block h2,
+							.heading-title-block h3,
+							.heading-title-block h4,
+							.heading-title-block h5,
+							.heading-title-block h6,
+							.shortcode-title-wrapper h3,
+							.title-wrapper h3,
+							.nav-tabs > li,
+							.nav-tabs > li a,
+							.nav-tabs > li.active a,
+							.nav-tabs > li a:hover,
+							.nav-tabs > li a:focus,
+							.wd_price_table.active_price,
+							.wd_meet_team,
+							.wd_meet_team .info_description,
+							.wd_meet_team .team_thumnail,
+							.wd_meet_team .info,
+							.product_thumbnails.loading:before,
+							.upsell_wrapper.loading:before,
+							.related_wrapper.loading:before,
+							.product-slider-inner.loading:before,
+							.wd_shortcode_feature_slider.loading:before,
+							.shortcode-recent-blogs.loading:before,
+							.shortcode_slider .fredsel_slider_wrapper_inner.loading:before,
+							.select2-drop,
+							body .ec_details_tab,
+							#crumbs, 
+							.woocommerce .woocommerce-breadcrumb, 
+							.woocommerce-page .woocommerce-breadcrumb, 
+							.bbp-breadcrumb,
+							.site-main > .top-page
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Text Color</name>
+				<slug>text_color</slug>
+				<std>#808080</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								<selector_normal>
+									body,
+									.wd_shortcode_feature .feature_icon a,
+									#content div.product .social_icon > div a,
+									.pp_woocommerce div.product .social_icon > div a,
+									.woocommerce-page div.product .social_icon > div a,
+									.woocommerce-page div.product .social_icon > div a,
+									.wd_product_categories span,
+									.wd_tagged_as span,
+									.pp_woocommerce div.product .availability span.wd_availability,
+									.woocommerce div.product .availability span.wd_availability,
+									.woocommerce-page div.product .availability span.wd_availability,
+									.container .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a,
+									.wpb_accordion_section .ui-accordion-header-icon:after,
+									#accordion-checkout-details .accordion-heading a h3,
+									#accordion-checkout-details .accordion-heading a.collapsed h3,
+									table.total-shipping th,
+									.woocommerce #payment label, 
+									.woocommerce-page #payment label,
+									.container .vc_toggle_title h4, 
+									.container#content .vc_toggle_title h4,
+									body .ec_cart_widget_minicart_wrap,
+									body .ec_cart_widget_minicart_product_title a
+								</selector_normal>
+								<selector_important>
+									/* Easy cart */
+									body .ec_details_description,
+									body .ec_product_details_page .ec_details_breadcrumbs,
+									body .ec_cart_breadcrumb.ec_inactive,
+									body .ec_manufacturer_widget a, 
+									body .ec_pricepoint_widget a
+								</selector_important>
+							</selector>
+							<attribute>border-color</attribute>
+							<selector>
+									.woocommerce-ordering .orderby .dropdown,
+									.woocommerce nav.woocommerce-pagination ul li a.next,
+									.woocommerce-page nav.woocommerce-pagination ul li a.next,
+									.woocommerce #content nav.woocommerce-pagination ul li a.next,
+									.woocommerce-page #content nav.woocommerce-pagination ul li a.next,
+									.page_navi .nav-content a.next,
+									.woocommerce nav.woocommerce-pagination ul li a.prev,
+									.woocommerce-page nav.woocommerce-pagination ul li a.prev,
+									.woocommerce #content nav.woocommerce-pagination ul li a.prev,
+									.woocommerce-page #content nav.woocommerce-pagination ul li a.prev,
+									.page_navi .nav-content a.prev
+							</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Text Color Strong</name>
+				<slug>text_color_strong</slug>
+				<std>#505050</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								#header .header-bottom-content a,
+								.widget-container > ul > li a,
+								.widget_nav_menu div > ul > li a,
+								.woocommerce.widget_recent_reviews ul.product_list_widget li a,
+								.woocommerce-page .widget_recent_reviews ul.product_list_widget li a,
+								.widget-container .menu-menu-shortcode-vs-container > ul > li a,
+								.widget-container.widget_layered_nav ul li a, 
+								.woocommerce .widget-container.widget_layered_nav ul li a, 
+								.woocommerce-page .widget-container.widget_layered_nav ul li a,
+								.widget_tag_cloud a,
+								.widget_product_tag_cloud a,
+								.woocommerce-ordering .orderby li a,
+								.text-strong,
+								html .shortcode-product.list .shortcode-title-wrapper h3,
+								.ts-easycart-title-list,
+								.woocommerce table.shop_table.my_account_orders td, 
+								.woocommerce-page table.shop_table.my_account_orders td,
+								.woocommerce table.shop_table td, 
+								.woocommerce-page table.shop_table td,
+								table.shop_table.order_details .product-name a,
+								table.shop_table.my_account_orders td.order-total .amount, 
+								table.shop_table.order_details .product-total .amount,
+								label,
+								.ec_cart_input_row label, 
+								.woocommerce form .form-row label, 
+								.woocommerce-page form .form-row label,
+								.cart_totals table th,
+								.woocommerce #payment div.payment_box, 
+								.woocommerce-page #payment div.payment_box,
+								.sitemap-content a,
+								.archive-content a,
+								.container .vc_toggle_content,
+								.container .vc_toggle_size_md.vc_toggle_default .vc_toggle_content,
+								.woocommerce #content .quantity .plus, 
+								.woocommerce .quantity .plus, 
+								.woocommerce-page #content .quantity .plus, 
+								.woocommerce-page .quantity .plus,
+								.woocommerce #content .quantity .minus, 
+								.woocommerce .quantity .minus, 
+								.woocommerce-page #content .quantity .minus, 
+								.woocommerce-page .quantity .minus,
+								/* Easy cart */
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_minus, 
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_plus,
+								.testimonial-item.style-2 blockquote,
+								body .ec_cart_price_row_label,
+								body .ec_cart_breadcrumb.ec_inactive,
+								body .ec_details_customer_reviews_row,
+								body .ec_cart_widget_minicart_title
+							</selector_normal>
+							<selector_important>
+								/* Easy cart */
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:first-child input[type='button'],
+								body .ec_details_model_number,
+								body .ec_details_add_to_cart_area > .ec_details_quantity > .ec_minus, 
+								body .ec_details_add_to_cart_area > .ec_details_quantity > .ec_plus
+							</selector_important>
+						</selector>
+					</f1>
+					<f2>
+						<attribute>border-color</attribute>
+						<selector>body</selector>
+					</f2>
+				</frontend>
+			</item>
+			<item>
+				<name>Heading Color (h1,h3,h4,h5,h6)</name>
+				<slug>heading_color</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							h1,h3,h4,h5,h6,
+							.h1,.h3,.h4,.h5,.h6,
+							.heading_color,
+							a.heading_color,
+							body .ec_cart_page .ec_cart_success_title,
+							.wd_milestone .number,
+							.wd_milestone .subject,
+							.price_in_table > .period,
+							.price_in_table > .pricing,
+							.price_table_inner li.content ol li:after,
+							.page-template-comming-soon ul.social li:hover i,
+							.widget_woothemes_testimonials cite,
+							.widget_multitab .accordion-heading a,
+							.container .vc_toggle_active .vc_toggle_title h4,
+							.container#content .vc_toggle_active .vc_toggle_title h4,
+							.sidebar-content .nav-tabs > li a,
+							.widget_social ul li a,
+							.group_table td.label a,
+							body .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title > a,
+							.wpb_content_element .widgettitle,
+							.vc_wp_categories ul li,
+							.vc_wp_categories ul li a,
+							.vc_wp_meta ul li,
+							.vc_wp_meta ul li a,
+							.vc_wp_recentcomments .widget_recent_comments ul li a,
+							.vc_wp_pages .widget_pages ul li a
+						</selector>
+					</f1>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+							.wd_milestone .subject:before
+						</selector>
+					</f1>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+							html .vc_tta.vc_tta-accordion.vc_general .vc_tta-panel-body
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Heading Color (h2)</name>
+				<slug>heading_color_2</slug>
+				<std>#2a3584</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								h2,.h2
+						</selector>
+					</f1>
+				</frontend>
+			</item>			
+			<item>
+				<name>Link Color</name>
+				<slug>link_color</slug>
+				<std>#2a3584</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							a,.vc_tta.vc_general .vc_tta-tabs-list .vc_tta-tab a,.vc_wp_categories ul li:hover a,.vc_wp_meta ul li:hover > a,.vc_wp_recentcomments .widget_recent_comments ul li a:hover,
+							.vc_wp_pages .widget_pages ul li:hover > a
+						</selector>
+					</f1>
+				</frontend>
+			</item>	
+			<item>
+				<name>Link Color hover</name>
+				<slug>link_color_hover</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>a:hover</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Border Color</name>
+				<slug>border_color</slug>
+				<std>#d5d5d5</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+							<selector_normal>
+								*,* :after,* :before,
+								#content div.product .quantity input.qty,
+								.pp_woocommerce div.product .quantity input.qty,
+								.woocommerce #content div.product .quantity input.qty, 
+								.woocommerce div.product.quantity input.qty, 
+								.woocommerce-page #content div.product .quantity input.qty, 
+								.woocommerce-page div.product .quantity input.qty,
+								#content div.product form.cart .variations tr, 
+								.pp_woocommerce div.product form.cart .variations tr, 
+								.woocommerce #content div.product form.cart .variations tr, 
+								.woocommerce div.product form.cart .variations tr, 
+								.woocommerce-page #content div.product form.cart .variations tr, 
+								.woocommerce-page div.product form.cart .variations tr,
+								#content div.product form.cart table, 
+								.pp_woocommerce div.product form.cart table, 
+								.woocommerce #content div.product form.cart table, 
+								.woocommerce div.product form.cart table, 
+								.woocommerce-page #content div.product form.cart table, 
+								.woocommerce-page div.product form.cart table,
+								#content .quantity input.qty, 
+								.pp_woocommerce .quantity input.qty, 
+								.woocommerce #content .quantity input.qty, 
+								.woocommerce .quantity input.qty, 
+								.woocommerce-page #content .quantity input.qty, 
+								.woocommerce-page .quantity input.qty,
+								.woocommerce #content div.product .quantity input.qty, 
+								.woocommerce div.product.quantity input.qty, 
+								.woocommerce-page #content div.product .quantity input.qty, 
+								.woocommerce-page div.product .quantity input.qty,
+								.container .wpb_accordion .wpb_accordion_section:before,
+								.woocommerce .cart-collaterals .cart_totals table th, 
+								.woocommerce-page .cart-collaterals .cart_totals table th,
+								.woocommerce .cart-collaterals .cart_totals table td, 
+								.woocommerce-page .cart-collaterals .cart_totals table td,
+								#accordion-checkout-details .accordion-heading a h3,
+								#accordion-checkout-details .accordion-heading a.collapsed h3,
+								.woocommerce .cart-collaterals .cart_totals table, 
+								.woocommerce-page .cart-collaterals .cart_totals table,
+								.select2-drop input,
+								/* Easy cart */
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_minus, 
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_plus,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_quantity,
+								body .ec_product_type1:hover,
+								body .ec_account_page input[type='text'], 
+								body .ec_account_page input[type='input'], 
+								body .ec_account_page input[type='password'], 
+								body .ec_account_page input[type='email'], 
+								body .ec_account_page input[type='number'], 
+								body .ec_account_page input[type='url'], 
+								body .ec_account_page input[type='tel'], 
+								body .ec_account_page input[type='search'], 
+								body .ec_account_page textarea, 
+								body .ec_account_page select,
+								body .ec_product_details_page input[type='text'], 
+								body .ec_product_details_page input[type='input'], 
+								body .ec_product_details_page input[type='password'], 
+								body .ec_product_details_page input[type='email'], 
+								body .ec_product_details_page input[type='number'], 
+								body .ec_product_details_page input[type='url'], 
+								body .ec_product_details_page input[type='tel'], 
+								body .ec_product_details_page input[type='search'], 
+								body .ec_product_details_page textarea, 
+								body .ec_product_details_page select,
+								body .ec_product_quickview_content input[type='text'], 
+								body .ec_product_quickview_content input[type='input'], 
+								body .ec_product_quickview_content input[type='password'], 
+								body .ec_product_quickview_content input[type='email'], 
+								body .ec_product_quickview_content input[type='number'], 
+								body .ec_product_quickview_content input[type='url'], 
+								body .ec_product_quickview_content input[type='tel'], 
+								body .ec_product_quickview_content input[type='search'], 
+								body .ec_product_quickview_content textarea, 
+								body .ec_product_quickview_content select,
+								body .ec_cart_page input[type='text'], 
+								body .ec_cart_page input[type='input'], 
+								body .ec_cart_page input[type='password'], 
+								body .ec_cart_page input[type='email'], 
+								body .ec_cart_page input[type='number'], 
+								body .ec_cart_page input[type='url'], 
+								body .ec_cart_page input[type='tel'], 
+								body .ec_cart_page input[type='search'], 
+								body .ec_cart_page textarea, 
+								body .ec_cart_page select,
+								body .ec_details_categories,
+								body .ec_details_customer_reviews_form > .ec_details_customer_reviews_form_holder,
+								body .ec_cart_widget_minicart_wrap,
+								body .ec_cart_widget_minicart_product_holder,
+								.vc_tta.vc_tta-accordion.vc_general .vc_tta-panel-body,
+								.vc_tta.vc_tta-accordion.vc_general .vc_active .vc_tta-panel-heading:hover a
+							</selector_normal>
+							<selector_important>
+								#content .quantity .plus, 
+								.pp_woocommerce .quantity .plus, 
+								.woocommerce #content .quantity .plus, 
+								.woocommerce .quantity .plus, 
+								.woocommerce-page #content .quantity .plus, 
+								.woocommerce-page .quantity .plus,
+								#content .quantity .minus, 
+								.pp_woocommerce .quantity .minus, 
+								.woocommerce #content .quantity .minus, 
+								.woocommerce .quantity .minus, 
+								.woocommerce-page #content .quantity .minus, 
+								.woocommerce-page .quantity .minus,
+								/* Easy cart */
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_minus, 
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_plus,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_quantity,
+								/* Easy cart */
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:first-child input[type='button'],
+								body .ec_details_add_to_cart_area > .ec_details_quantity > .ec_minus, 
+								body .ec_details_add_to_cart_area > .ec_details_quantity > .ec_plus
+							</selector_important>
+						</selector>
+					</f1>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							body .ec_product_details_star_off,
+							body .ec_product_star_off,
+							.vc_tta.vc_tta-accordion.vc_general .vc_tta-panel-title,
+							html .vc_tta.vc_tta-accordion.vc_general .vc_active .vc_tta-panel-title a
+						</selector>
+					</f1>
+					<f1>
+						<attribute>border-bottom-color</attribute>
+						<selector>
+							<selector_important>
+								body .ec_product_details_star_off,
+								body .ec_product_details_star_off:before,
+								body .ec_product_details_star_off:after,
+								body .ec_product_star_off,
+								body .ec_product_star_off:before,
+								body .ec_product_star_off:after
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Border Color Hover</name>
+				<slug>border_color_hover</slug>
+				<std>#bcbcbc</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+							input[type="color"]:hover,
+							input[type="email"]:hover,
+							input[type="password"]:hover,
+							input[type="tel"]:hover,
+							input[type="text"]:hover,
+							select:hover,
+							textarea:hover,
+							input.input-text:hover,
+							input[type="color"]:focus,
+							input[type="email"]:focus,
+							input[type="password"]:focus,
+							input[type="tel"]:focus,
+							input[type="text"]:focus,
+							select:focus,
+							textarea:focus,
+							input.input-text:focus,
+							body .ec_account_page input[type='text']:hover, 
+							body .ec_account_page input[type='input']:hover, 
+							body .ec_account_page input[type='password']:hover, 
+							body .ec_account_page input[type='email']:hover, 
+							body .ec_account_page input[type='url']:hover, 
+							body .ec_account_page input[type='tel']:hover, 
+							body .ec_account_page input[type='search']:hover, 
+							body .ec_account_page textarea:hover, 
+							body .ec_account_page select:hover,
+							body .ec_account_page input[type='text']:focus, 
+							body .ec_account_page input[type='input']:focus, 
+							body .ec_account_page input[type='password']:focus, 
+							body .ec_account_page input[type='email']:focus, 
+							body .ec_account_page input[type='url']:focus, 
+							body .ec_account_page input[type='tel']:focus, 
+							body .ec_account_page input[type='search']:focus, 
+							body .ec_account_page textarea:focus, 
+							body .ec_account_page select:focus,
+							body .ec_product_details_page input[type='text']:hover, 
+							body .ec_product_details_page input[type='input']:hover, 
+							body .ec_product_details_page input[type='password']:hover, 
+							body .ec_product_details_page input[type='email']:hover, 
+							body .ec_product_details_page input[type='url']:hover, 
+							body .ec_product_details_page input[type='tel']:hover, 
+							body .ec_product_details_page input[type='search']:hover, 
+							body .ec_product_details_page textarea:hover, 
+							body .ec_product_details_page select:hover,
+							body .ec_product_details_page input[type='text']:focus, 
+							body .ec_product_details_page input[type='input']:focus, 
+							body .ec_product_details_page input[type='password']:focus, 
+							body .ec_product_details_page input[type='email']:focus, 
+							body .ec_product_details_page input[type='url']:focus, 
+							body .ec_product_details_page input[type='tel']:focus, 
+							body .ec_product_details_page input[type='search']:focus, 
+							body .ec_product_details_page textarea:focus, 
+							body .ec_product_details_page select:focus,
+							body .ec_product_quickview_content input[type='text']:hover, 
+							body .ec_product_quickview_content input[type='input']:hover, 
+							body .ec_product_quickview_content input[type='password']:hover, 
+							body .ec_product_quickview_content input[type='email']:hover, 
+
+							body .ec_product_quickview_content input[type='url']:hover, 
+							body .ec_product_quickview_content input[type='tel']:hover, 
+							body .ec_product_quickview_content input[type='search']:hover, 
+							body .ec_product_quickview_content textarea:hover, 
+							body .ec_product_quickview_content select:hover,
+							body .ec_product_quickview_content input[type='text']:focus, 
+							body .ec_product_quickview_content input[type='input']:focus, 
+							body .ec_product_quickview_content input[type='password']:focus, 
+							body .ec_product_quickview_content input[type='email']:focus, 
+
+							body .ec_product_quickview_content input[type='url']:focus, 
+							body .ec_product_quickview_content input[type='tel']:focus, 
+							body .ec_product_quickview_content input[type='search']:focus, 
+							body .ec_product_quickview_content textarea:focus, 
+							body .ec_product_quickview_content select:focus
+
+							body .ec_cart_page input[type='text']:hover, 
+							body .ec_cart_page input[type='input']:hover, 
+							body .ec_cart_page input[type='password']:hover, 
+							body .ec_cart_page input[type='email']:hover, 
+							body .ec_cart_page input[type='number']:hover, 
+							body .ec_cart_page input[type='url']:hover, 
+							body .ec_cart_page input[type='tel']:hover, 
+							body .ec_cart_page input[type='search']:hover, 
+							body .ec_cart_page textarea:hover, 
+							body .ec_cart_page select:hover,
+							body .ec_cart_page input[type='text']:focus, 
+							body .ec_cart_page input[type='input']:focus, 
+							body .ec_cart_page input[type='password']:focus, 
+							body .ec_cart_page input[type='email']:focus, 
+							body .ec_cart_page input[type='number']:focus, 
+							body .ec_cart_page input[type='url']:focus, 
+							body .ec_cart_page input[type='tel']:focus, 
+							body .ec_cart_page input[type='search']:focus, 
+							body .ec_cart_page textarea:focus, 
+							body .ec_cart_page select:focus
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Border Color Hover</name>
+				<slug>border_color_hover</slug>
+				<std>#bcbcbc</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</general>	
+	<header>
+		<text>Page Header Color</text>
+		<items>
+			<item>
+				<name>Header Top Background Color</name>
+				<slug>header_top_background_color</slug>
+				<std>#2a3584</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								#header .header-top,
+								#header .header_search form input[type="text"],
+								.is-sticky #header.header-v2 .header-top,
+								#header.header-v2 .header-top:after
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Header Middle Background Color</name>
+				<slug>header_middle_background_color</slug>
+				<std>#ececec</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								#header .header-middle
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Header Middle Border Bottom Color</name>
+				<slug>header_middle_border_bottom_color</slug>
+				<std>#d5d5d5</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+								#header .header_woo_content:before,
+								#header .header-middle
+						</selector>
+						<attribute>background-color</attribute>
+						<selector>
+								#header .header_woo_content:before
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Header Cart Background Color</name>
+				<slug>header_cart_background_color</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								.header_woo_content
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Header Cart Border Color</name>
+				<slug>header_cart_border_color</slug>
+				<std>#d5d5d5</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+								#header .header_woo_content
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Header Cart Icon Color</name>
+				<slug>header_cart_icon_color</slug>
+				<std>#505050</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+								#header .shopping-cart .wd_tini_cart_control .cart_size > a:before,
+								#header .shopping-cart .wd_tini_cart_control .cart_size > a:after
+						</selector>
+						<attribute>color</attribute>
+						<selector>
+								#header .shopping-cart .wd_tini_cart_control .cart_size .number
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Header Cart Text Color</name>
+				<slug>header_cart_text_color</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								#header .cart_size_value_head .amount
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</header>
+	<menu>
+		<text>Menu Color</text>
+		<items>
+			<item>
+				<name>Menu Text Color</name>
+				<slug>menu_text_color</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								.nav .main-menu > ul > li > a,
+								#header .header-account .wd_tini_account_control > a,
+								.header-language #lang_sel > ul > li > a,
+								.header-currency .currency_control > a,
+								#lang_sel a.lang_sel_sel:hover,
+								.nav .main-menu > ul > li > a,
+								#header .header_search > form > div:after,
+								#header .header_search form input[type="text"],
+								.wd_mobile_menu_wrapper .menu-icon,
+								.menu-drop-icon
+						</selector>
+						<attribute>border-color</attribute>
+						<selector>
+								#header .header_search > form > div:before
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Menu Text Color Hover</name>
+				<slug>menu_text_color_hover</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								.nav .main-menu > ul > li > a,
+								#header .header-account .wd_tini_account_control > a:hover,
+								.header-language #lang_sel > ul > li > a:hover,
+								.header-currency .currency_control > a:hover,
+								#lang_sel a.lang_sel_sel:hover,
+								.nav .main-menu > ul > li > a:hover
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Menu Background Color Hover</name>
+				<slug>menu_background_color_hover</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								.nav .main-menu > ul > li:after
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</menu>	
+	<menu2>
+	<text>Menu Sub Color</text>
+	<items>
+			<item>
+				<name>Menu Sub Background Color</name>
+				<slug>menu_sub_background_color</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								.nav > .main-menu > ul.menu > li ul.sub-menu:before
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Menu Sub Text Color</name>
+				<slug>menu_sub_text_color</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								.nav > .main-menu > ul.menu > li.wd-fly-menu li a,
+								.nav > .main-menu > ul.menu > li.wd-mega-menu > ul.sub-menu li.widget_nav_menu a,
+								.nav > .main-menu > ul.menu > li ul.sub-menu .list-menu li a,
+								.nav > .main-menu > ul.menu > li.wd-mega-menu > ul.sub-menu li .widgettitle,
+								ul.sub-menu .menu-drop-icon
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Menu Sub Text Color Hover</name>
+				<slug>menu_sub_text_color_hover</slug>
+				<std>#2a3584</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								.nav > .main-menu > ul.menu > li.wd-fly-menu li:hover > a,
+								.nav > .main-menu > ul.menu > li.wd-mega-menu > ul.sub-menu li.widget_nav_menu li:hover > a,
+								.nav > .main-menu > ul.menu > li ul.sub-menu .list-menu li:hover > a
+							</selector_normal>
+							<selector_important>
+								.nav > .main-menu > ul.menu > li li.current-menu-item > a
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Menu Sub Background Color Hover</name>
+				<slug>menu_sub_background_color_hover</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								.nav > .main-menu > ul.menu > li li a:after
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Menu Sub Border Color</name>
+				<slug>menu_sub_border_color</slug>
+				<std>#ececec</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+								.nav > .main-menu > ul.menu > li > ul.sub-menu:before,
+								.nav > .main-menu > ul.menu > li li a:before,
+								.nav > .main-menu > ul.menu > li > ul.sub-menu li.sidebar-menu li.widget_nav_menu:before,
+								.mega-list-menu-col-3:before
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</menu2>
+	<footer>
+		<text>Page Footer Color</text>
+		<items>
+			<item>
+				<name>Footer Background Color</name>
+				<slug>footer_background_color</slug>
+				<std>#2a3584</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+						#footer
+						</selector>
+						<attribute>color</attribute>
+						<selector>
+								#footer a.button:hover, 
+								#footer button.button:hover, 
+								#footer input.button:hover, 
+								.woocommerce #footer  input.button:hover, 
+								.woocommerce #footer  input#submit:hover, 
+								#footer .woocommerce a.button:hover, 
+								#footer .woocommerce button.button:hover, 
+								#footer .woocommerce input.button:hover, 
+								.woocommerce-page #footer input.button:hover, 
+								.woocommerce-page #footer input#submit:hover, 
+								.woocommerce-page #footer a.button:hover, 
+								.woocommerce-page #footer button.button:hover, 
+								.woocommerce-page #footer input.button:hover,
+								.woocommerce #footer input.button.alt:hover, 
+								.woocommerce #footer input#submit.alt:hover, 
+								#footer .woocommerce a.button.alt:hover, 
+								#footer .woocommerce button.button.alt:hover, 
+								#footer .woocommerce input.button.alt:hover, 
+								.woocommerce-page #footer input.button.alt:hover, 
+								.woocommerce-page #footer input#submit.alt:hover, 
+								.woocommerce-page #footer a.button.alt:hover, 
+								.woocommerce-page #footer button.button.alt:hover, 
+								.woocommerce-page #footer input.button.alt:hover,
+								#footer .widget_social ul li:hover a
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Footer Text Color</name>
+				<slug>footer_text_color</slug>
+				<std>#fff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+						footer#footer *
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Footer Heading Color</name>
+				<slug>footer_heading_color</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								footer#footer .company-contact *,
+								footer#footer * > a,
+								footer#footer .social-icons li > a,
+								#footer a.button, 
+								#footer button.button, 
+								#footer input.button, 
+								.woocommerce #footer  input.button, 
+								.woocommerce #footer  input#submit, 
+								#footer .woocommerce a.button, 
+								#footer .woocommerce button.button, 
+								#footer .woocommerce input.button, 
+								.woocommerce-page #footer input.button, 
+								.woocommerce-page #footer input#submit, 
+								.woocommerce-page #footer a.button, 
+								.woocommerce-page #footer button.button, 
+								.woocommerce-page #footer input.button,
+								.woocommerce #footer input.button.alt, 
+								.woocommerce #footer input#submit.alt, 
+								#footer .woocommerce a.button.alt, 
+								#footer .woocommerce button.button.alt, 
+								#footer .woocommerce input.button.alt, 
+								.woocommerce-page #footer input.button.alt, 
+								.woocommerce-page #footer input#submit.alt, 
+								.woocommerce-page #footer a.button.alt, 
+								.woocommerce-page #footer button.button.alt, 
+								.woocommerce-page #footer input.button.alt
+						</selector>
+						<attribute>border-color</attribute>
+						<selector>
+								#footer a.button, 
+								#footer button.button, 
+								#footer input.button, 
+								.woocommerce #footer  input.button, 
+								.woocommerce #footer  input#submit, 
+								#footer .woocommerce a.button, 
+								#footer .woocommerce button.button, 
+								#footer .woocommerce input.button, 
+								.woocommerce-page #footer input.button, 
+								.woocommerce-page #footer input#submit, 
+								.woocommerce-page #footer a.button, 
+								.woocommerce-page #footer button.button, 
+								.woocommerce-page #footer input.button,
+								.woocommerce #footer input.button.alt, 
+								.woocommerce #footer input#submit.alt, 
+								#footer .woocommerce a.button.alt, 
+								#footer .woocommerce button.button.alt, 
+								#footer .woocommerce input.button.alt, 
+								.woocommerce-page #footer input.button.alt, 
+								.woocommerce-page #footer input#submit.alt, 
+								.woocommerce-page #footer a.button.alt, 
+								.woocommerce-page #footer button.button.alt, 
+								.woocommerce-page #footer input.button.alt
+						</selector>
+						<attribute>background-color</attribute>
+						<selector>
+								#footer a.button:hover, 
+								#footer button.button:hover, 
+								#footer input.button:hover, 
+								.woocommerce #footer  input.button:hover, 
+								.woocommerce #footer  input#submit:hover, 
+								#footer .woocommerce a.button:hover, 
+								#footer .woocommerce button.button:hover, 
+								#footer .woocommerce input.button:hover, 
+								.woocommerce-page #footer input.button:hover, 
+								.woocommerce-page #footer input#submit:hover, 
+								.woocommerce-page #footer a.button:hover, 
+								.woocommerce-page #footer button.button:hover, 
+								.woocommerce-page #footer input.button:hover,
+								.woocommerce #footer input.button.alt:hover, 
+								.woocommerce #footer input#submit.alt:hover, 
+								#footer .woocommerce a.button.alt:hover, 
+								#footer .woocommerce button.button.alt:hover, 
+								#footer .woocommerce input.button.alt:hover, 
+								.woocommerce-page #footer input.button.alt:hover, 
+								.woocommerce-page #footer input#submit.alt:hover, 
+								.woocommerce-page #footer a.button.alt:hover, 
+								.woocommerce-page #footer button.button.alt:hover, 
+								.woocommerce-page #footer input.button.alt:hover,
+								#footer .widget_social ul li:hover:after
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</footer>
+	<button>
+		<text>Button Primary Color</text>
+		<items>
+			<item>
+				<name>Button Text Color</name>
+				<slug>button_text_color</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								button,
+								.buttons a,
+								.btn,
+								.button,
+								input[type^="submit"],
+								.woocommerce #content input.button, 
+								.woocommerce #respond input#submit, 
+								.woocommerce a.button, 
+								.woocommerce button.button, 
+								.woocommerce input.button, 
+								.woocommerce-page #content input.button, 
+								.woocommerce-page #respond input#submit, 
+								.woocommerce-page a.button, 
+								.woocommerce-page button.button, 
+								.woocommerce-page input.button,
+								.woocommerce #content input.button.alt, 
+								.woocommerce #respond input#submit.alt, 
+								.woocommerce a.button.alt, 
+								.woocommerce button.button.alt, 
+								.woocommerce input.button.alt, 
+								.woocommerce-page #content input.button.alt, 
+								.woocommerce-page #respond input#submit.alt, 
+								.woocommerce-page a.button.alt, 
+								.woocommerce-page button.button.alt, 
+								.woocommerce-page input.button.alt,
+								ul.list-posts li.post .read-more a,
+								ul.currency_switcher li a ,
+								.woocommerce #content table.cart a.button, 
+								.woocommerce table.cart a.button, 
+								.woocommerce-page #content table.cart a.button, 
+								.woocommerce-page table.cart a.button,
+								/* Navi Blog */
+								.single-content .navi > div > a,
+								/* Comment */
+								ol.comment-list .reply a,
+								/* Button product */
+								html .woocommerce .product-meta-wrapper .list_add_to_cart a, 
+								html .woocommerce-page .product-meta-wrapper .list_add_to_cart a,
+								html body table.compare-list tr.add-to-cart td a,
+								/* Easy cart */
+								body .ec_product_type1 .ec_product_addtocart,
+								body .ec_product_admin_reorder_button,
+								body .ec_search_widget input[type="submit"], 
+								body .ec_newsletter_widget input[type="submit"],
+								body .ec_cart_widget_minicart_checkout_button,
+								/* PAGER */
+								.woocommerce #content nav.woocommerce-pagination ul li a, 
+								.woocommerce #content nav.woocommerce-pagination ul li span, 
+								.woocommerce nav.woocommerce-pagination ul li a, 
+								.woocommerce nav.woocommerce-pagination ul li span, 
+								.woocommerce-page #content nav.woocommerce-pagination ul li a, 
+								.woocommerce-page #content nav.woocommerce-pagination ul li span, 
+								.woocommerce-page nav.woocommerce-pagination ul li a, 
+								.woocommerce-page nav.woocommerce-pagination ul li span,
+								.page_navi .nav-content a,
+								.page_navi .nav-content span
+							</selector_normal>
+							<selector_important>
+								.woocommerce #content table.cart a.button, 
+								.woocommerce table.cart a.button, 
+								.woocommerce-page #content table.cart a.button, 
+								.woocommerce-page table.cart a.button,
+								/* Easy cart */
+								body .ec_cart_button_row > .ec_cart_button,
+								body .ec_cart_button_row a:hover,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_cartitem_update_button,
+								body .ec_details_customer_reviews_row > input[type="button"],
+								body #ec_account_billing_information a.ec_account_billing_information_link input:hover,
+								body #ec_account_shipping_information a.ec_account_shipping_information_link input:hover,
+								body #ec_account_personal_information a.ec_account_personal_information_link input:hover,
+								body #ec_account_password a.ec_account_password_link input:hover,
+								body .ec_product_type1 .ec_product_addtocart a,
+								body .ec_product_page_sort .ec_product_page_perpage > a,
+								body .ec_num_page
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button Border Color</name>
+				<slug>button_border_color</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+							<selector_normal>
+								button,
+								.buttons a,
+								.btn,
+								.button,
+								input[type^="submit"],
+								.woocommerce #content input.button, 
+								.woocommerce #respond input#submit, 
+								.woocommerce a.button, 
+								.woocommerce button.button, 
+								.woocommerce input.button, 
+								.woocommerce-page #content input.button, 
+								.woocommerce-page #respond input#submit, 
+								.woocommerce-page a.button, 
+								.woocommerce-page button.button, 
+								.woocommerce-page input.button,
+								.woocommerce #content input.button.alt, 
+								.woocommerce #respond input#submit.alt, 
+								.woocommerce a.button.alt, 
+								.woocommerce button.button.alt, 
+								.woocommerce input.button.alt, 
+								.woocommerce-page #content input.button.alt, 
+								.woocommerce-page #respond input#submit.alt, 
+								.woocommerce-page a.button.alt, 
+								.woocommerce-page button.button.alt, 
+								.woocommerce-page input.button.alt,
+								ul.list-posts li.post .read-more a,
+								ul.currency_switcher li a ,
+								.woocommerce #content table.cart a.button, 
+								.woocommerce table.cart a.button, 
+								.woocommerce-page #content table.cart a.button, 
+								.woocommerce-page table.cart a.button,
+								/* Navi Blog */
+								.single-content .navi > div > a,
+								/* Comment */
+								ol.comment-list .reply a,
+								/* Button product */
+								html .woocommerce .product-meta-wrapper .list_add_to_cart a, 
+								html .woocommerce-page .product-meta-wrapper .list_add_to_cart a,
+								html body table.compare-list tr.add-to-cart td a,
+								/* Easy cart */
+								body .ec_product_type1 .ec_product_addtocart,
+								body .ec_product_admin_reorder_button,
+								body .ec_search_widget input[type="submit"], 
+								body .ec_newsletter_widget input[type="submit"],
+								body .ec_cart_widget_minicart_checkout_button
+							</selector_normal>
+							<selector_important>
+								.woocommerce #content table.cart a.button, 
+								.woocommerce table.cart a.button, 
+								.woocommerce-page #content table.cart a.button, 
+								.woocommerce-page table.cart a.button,
+								body .ec_cart_button_row > .ec_cart_button,
+								body .ec_cart_button_row a:hover,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_cartitem_update_button,
+								body .ec_details_customer_reviews_row > input[type="button"],
+								body #ec_account_billing_information a.ec_account_billing_information_link input:hover,
+								body #ec_account_shipping_information a.ec_account_shipping_information_link input:hover,
+								body #ec_account_personal_information a.ec_account_personal_information_link input:hover,
+								body #ec_account_password a.ec_account_password_link input:hover
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button Text Color Hover</name>
+				<slug>button_text_color_hover</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								button:hover,
+								.buttons a:hover,
+								.button:hover,
+								.btn:hover,
+								input[type^="submit"]:hover,
+								.woocommerce #content input.button:hover,
+								.woocommerce #respond input#submit:hover, 
+								.woocommerce a.button:hover,
+								.woocommerce button.button:hover, 
+								.woocommerce input.button:hover,
+								.woocommerce-page #content input.button:hover, 
+								.woocommerce-page #respond input#submit:hover,
+								.woocommerce-page a.button:hover, 
+								.woocommerce-page button.button:hover,
+								.woocommerce-page input.button:hover,
+								.woocommerce #content input.button.alt:hover,
+								.woocommerce #respond input#submit.alt:hover, 
+								.woocommerce a.button.alt:hover,
+								.woocommerce button.button.alt:hover,
+								.woocommerce input.button.alt:hover, 
+								.woocommerce-page #content input.button.alt:hover,
+								.woocommerce-page #respond input#submit.alt:hover, 
+								.woocommerce-page a.button.alt:hover,
+								.woocommerce-page button.button.alt:hover, 
+								.woocommerce-page input.button.alt:hover,
+								ul.list-posts li.post .read-more a:hover,
+								.sidebar-content ul.currency_switcher li a.active, 
+								.sidebar-content ul.currency_switcher li a:hover,
+								.woocommerce #content table.cart a.button:hover, 
+								.woocommerce table.cart a.button:hover, 
+								.woocommerce-page #content table.cart a.button:hover, 
+								.woocommerce-page table.cart a.button:hover,
+								#accordion-checkout-details .accordion-heading a:hover h3,
+								#accordion-checkout-details .accordion-heading a h3,
+								.woocommerce nav.woocommerce-pagination ul li a.next:hover,
+								.woocommerce-page nav.woocommerce-pagination ul li a.next:hover,
+								.woocommerce #content nav.woocommerce-pagination ul li a.next:hover,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a.next:hover,
+								.page_navi .nav-content a.next:hover,
+								.woocommerce nav.woocommerce-pagination ul li a.prev:hover,
+								.woocommerce-page nav.woocommerce-pagination ul li a.prev:hover,
+								.woocommerce #content nav.woocommerce-pagination ul li a.prev:hover,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a.prev:hover,
+								.page_navi .nav-content a.prev:hover,
+								form.woocommerce-ordering:hover ul.orderby,
+								form.woocommerce-ordering:hover ul.orderby > li span.orderby-current,
+								/* Navi Blog */
+								.single-content .navi > div > a:hover,
+								/* Comment */
+								ol.comment-list .reply a:hover,
+								/* Button product */
+								html .woocommerce .product-meta-wrapper .list_add_to_cart a:hover, 
+								html .woocommerce-page .product-meta-wrapper .list_add_to_cart a:hover,
+								html body table.compare-list tr.add-to-cart td a:hover,
+								.woocommerce #wd-container .button.button-white:hover,
+								.woocommerce-page #wd-container .button.button-white:hover,
+								#wd-container .button.button-white:hover,
+								/* Easy cart */
+								body .ec_product_type1 .ec_product_addtocart:hover,
+								body .ec_product_admin_reorder_button:hover,
+								body .ec_search_widget input[type="submit"]:hover, 
+								body .ec_newsletter_widget input[type="submit"]:hover,
+								body .ec_cart_widget_minicart_checkout_button:hover,
+								/*==================*/
+								.woocommerce-cart .cart_totals .wc-proceed-to-checkout .button:hover,
+								.woocommerce .cart_totals .wc-proceed-to-checkout .button:hover,
+								button.big:hover,
+								.buttons a.big:hover,
+								.button.big:hover,
+								.btn.big:hover,
+								.woocommerce .variations_button button.button:hover,
+								.woocommerce-page .variations_button button.button:hover,
+								.woocommerce #respond input#submit.alt.big.disabled,
+								.woocommerce #respond input#submit.alt.big.disabled:hover,
+								.woocommerce #respond input#submit.alt.big:disabled,
+								.woocommerce #respond input#submit.alt.big:disabled:hover,
+								.woocommerce #respond input#submit.alt.big:disabled[disabled],
+								.woocommerce #respond input#submit.alt.big:disabled[disabled]:hover,
+								.woocommerce a.button.alt.big.disabled,
+								.woocommerce a.button.alt.big.disabled:hover,
+								.woocommerce a.button.alt.big:disabled,
+								.woocommerce a.button.alt.big:disabled:hover,
+								.woocommerce a.button.alt.big:disabled[disabled],
+								.woocommerce a.button.alt.big:disabled[disabled]:hover,
+								.woocommerce button.button.alt.big.disabled,
+								.woocommerce button.button.alt.big.disabled:hover,
+								.woocommerce button.button.alt.big:disabled,
+								.woocommerce button.button.alt.big:disabled:hover,
+								.woocommerce button.button.alt.big:disabled[disabled],
+								.woocommerce button.button.alt.big:disabled[disabled]:hover,
+								.woocommerce input.button.alt.big.disabled,
+								.woocommerce input.button.alt.big.disabled:hover,
+								.woocommerce input.button.alt.big:disabled,
+								.woocommerce input.button.alt.big:disabled:hover,
+								.woocommerce input.button.alt.big:disabled[disabled],
+								.woocommerce input.button.alt.big:disabled[disabled]:hover,
+								.woocommerce #content input.button.big:hover,
+								.woocommerce #respond input#submit.big:hover, 
+								.pp_woocommerce a.button.big:hover,
+								.woocommerce a.button.big:hover,
+								.woocommerce button.button.big:hover, 
+								.woocommerce input.button.big:hover,
+								.woocommerce-page #content input.button.big:hover, 
+								.woocommerce-page #respond input#submit.big:hover,
+								.woocommerce-page a.button.big:hover, 
+								.woocommerce-page button.button.big:hover,
+								.woocommerce-page input.button.big:hover,
+								.woocommerce #content input.button.alt.big:hover,
+								.woocommerce #respond input#submit.alt.big:hover, 
+								.woocommerce a.button.alt.big:hover,
+								.woocommerce button.button.alt.big:hover,
+								.woocommerce input.button.alt.big:hover, 
+								.woocommerce-page #content input.button.alt.big:hover,
+								.woocommerce-page #respond input#submit.alt.big:hover, 
+								.woocommerce-page a.button.alt.big:hover,
+								.woocommerce-page button.button.alt.big:hover, 
+								.woocommerce-page input.button.alt.big:hover,
+								.shortcode-product .wd-big-product a.button:hover,
+								.woocommerce-page .shortcode-product .wd-big-product a.button:hover,
+								.woocommerce .shortcode-product .wd-big-product a.button:hover,
+								.woocommerce-page .place-order input[type="submit"]:hover,
+								.woocommerce .place-order input[type="submit"]:hover,
+								.wd_meet_team .social a,
+								html .woocommerce.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a:hover, 
+								html .woocommerce-page.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a:hover, 
+								html .post-type-archive-product.woocommerce #wd-container .products.list .product-meta-wrapper .list_add_to_cart a:hover,
+								.product-meta-wrapper .yith-wcwl-add-to-wishlist:hover a,
+								.product-meta-wrapper .wd_quickshop_handler:hover,
+								.product-meta-wrapper .wd_compare_wrapper:hover .compare,
+								.product-meta-wrapper .yith-wcwl-add-to-wishlist:hover,
+								.search-404 form input[type="submit"]:hover,
+								div.product .summary .yith-wcwl-add-to-wishlist a:hover,
+								div.product .summary a.compare:hover
+							</selector_normal>
+							<selector_important>
+								.wd-parallax a.button:hover,
+								.woocommerce table.cart a.button:hover, 
+								.woocommerce-page #content table.cart a.button:hover, 
+								.woocommerce-page table.cart a.button:hover,
+								body .ec_cart_button_row > .ec_cart_button:hover,
+								body .ec_cart_button_row a,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_cartitem_update_button:hover,
+								/* Easy cart */
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:last-child input[type='button']:hover,
+								body .ec_details_customer_reviews_row > input[type="button"]:hover,
+								body #ec_account_billing_information a.ec_account_billing_information_link input,
+								body #ec_account_shipping_information a.ec_account_shipping_information_link input,
+								body #ec_account_personal_information a.ec_account_personal_information_link input,
+								body #ec_account_password a.ec_account_password_link input,
+								body .ec_product_type1 .ec_product_addtocart:hover a,
+								/*=================*/
+								body .ec_product_quickview_content_add_to_cart a:hover,
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > input:hover, 
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > a:hover,
+								body .ec_product_type1 .ec_product_quickview,
+								body .ec_product_type1 .ec_product_quickview:before,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_addtocart:hover a
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button Background Color Hover</name>
+				<slug>button_background_color_hover</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+							<selector_normal>
+								button:hover,
+								.buttons a:hover,
+								.button:hover,
+								.btn:hover,
+								input[type^="submit"]:hover,
+								.woocommerce #content input.button:hover,
+								.woocommerce #respond input#submit:hover, 
+								.woocommerce a.button:hover,
+								.woocommerce button.button:hover, 
+								.woocommerce input.button:hover,
+								.woocommerce-page #content input.button:hover, 
+								.woocommerce-page #respond input#submit:hover,
+								.woocommerce-page a.button:hover, 
+								.woocommerce-page button.button:hover,
+								.woocommerce-page input.button:hover,
+								.woocommerce #content input.button.alt:hover,
+								.woocommerce #respond input#submit.alt:hover, 
+								.woocommerce a.button.alt:hover,
+								.woocommerce button.button.alt:hover,
+								.woocommerce input.button.alt:hover, 
+								.woocommerce-page #content input.button.alt:hover,
+								.woocommerce-page #respond input#submit.alt:hover, 
+								.woocommerce-page a.button.alt:hover,
+								.woocommerce-page button.button.alt:hover, 
+								.woocommerce-page input.button.alt:hover,
+								ul.list-posts li.post .read-more a:hover,
+								.sidebar-content ul.currency_switcher li a.active, 
+								.sidebar-content ul.currency_switcher li a:hover,
+								.woocommerce #content table.cart a.button:hover, 
+								.woocommerce table.cart a.button:hover, 
+								.woocommerce-page #content table.cart a.button:hover, 
+								.woocommerce-page table.cart a.button:hover,
+								#accordion-checkout-details .accordion-heading a:hover h3,
+								#accordion-checkout-details .accordion-heading a h3,
+								.woocommerce nav.woocommerce-pagination ul li a.next:hover,
+								.woocommerce-page nav.woocommerce-pagination ul li a.next:hover,
+								.woocommerce #content nav.woocommerce-pagination ul li a.next:hover,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a.next:hover,
+								.page_navi .nav-content a.next:hover,
+								.woocommerce nav.woocommerce-pagination ul li a.prev:hover,
+								.woocommerce-page nav.woocommerce-pagination ul li a.prev:hover,
+								.woocommerce #content nav.woocommerce-pagination ul li a.prev:hover,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a.prev:hover,
+								.page_navi .nav-content a.prev:hover,
+								form.woocommerce-ordering:hover ul.orderby,
+								form.woocommerce-ordering:hover ul.orderby > li span.orderby-current,
+								/* Navi Blog */
+								.single-content .navi > div > a:hover,
+								/* Comment */
+								ol.comment-list .reply a:hover,
+								/* Button product */
+								html .woocommerce .product-meta-wrapper .list_add_to_cart a:hover, 
+								html .woocommerce-page .product-meta-wrapper .list_add_to_cart a:hover,
+								html body table.compare-list tr.add-to-cart td a:hover,
+								.woocommerce #wd-container .button.button-white:hover,
+								.woocommerce-page #wd-container .button.button-white:hover,
+								#wd-container .button.button-white:hover,
+								/* Easy cart */
+								body .ec_product_type1 .ec_product_addtocart:hover,
+								body .ec_product_admin_reorder_button:hover,
+								body .ec_search_widget input[type="submit"]:hover, 
+								body .ec_newsletter_widget input[type="submit"]:hover,
+								body .ec_cart_widget_minicart_checkout_button:hover,
+								/*==================*/
+								.woocommerce-cart .cart_totals .wc-proceed-to-checkout .button:hover,
+								.woocommerce .cart_totals .wc-proceed-to-checkout .button:hover,
+								button.big:hover,
+								.buttons a.big:hover,
+								.button.big:hover,
+								.btn.big:hover,
+								.woocommerce .variations_button button.button:hover,
+								.woocommerce-page .variations_button button.button:hover,
+								.woocommerce #respond input#submit.alt.big.disabled,
+								.woocommerce #respond input#submit.alt.big.disabled:hover,
+								.woocommerce #respond input#submit.alt.big:disabled,
+								.woocommerce #respond input#submit.alt.big:disabled:hover,
+								.woocommerce #respond input#submit.alt.big:disabled[disabled],
+								.woocommerce #respond input#submit.alt.big:disabled[disabled]:hover,
+								.woocommerce a.button.alt.big.disabled,
+								.woocommerce a.button.alt.big.disabled:hover,
+								.woocommerce a.button.alt.big:disabled,
+								.woocommerce a.button.alt.big:disabled:hover,
+								.woocommerce a.button.alt.big:disabled[disabled],
+								.woocommerce a.button.alt.big:disabled[disabled]:hover,
+								.woocommerce button.button.alt.big.disabled,
+								.woocommerce button.button.alt.big.disabled:hover,
+								.woocommerce button.button.alt.big:disabled,
+								.woocommerce button.button.alt.big:disabled:hover,
+								.woocommerce button.button.alt.big:disabled[disabled],
+								.woocommerce button.button.alt.big:disabled[disabled]:hover,
+								.woocommerce input.button.alt.big.disabled,
+								.woocommerce input.button.alt.big.disabled:hover,
+								.woocommerce input.button.alt.big:disabled,
+								.woocommerce input.button.alt.big:disabled:hover,
+								.woocommerce input.button.alt.big:disabled[disabled],
+								.woocommerce input.button.alt.big:disabled[disabled]:hover,
+								.woocommerce #content input.button.big:hover,
+								.woocommerce #respond input#submit.big:hover, 
+								.pp_woocommerce a.button.big:hover,
+								.woocommerce a.button.big:hover,
+								.woocommerce button.button.big:hover, 
+								.woocommerce input.button.big:hover,
+								.woocommerce-page #content input.button.big:hover, 
+								.woocommerce-page #respond input#submit.big:hover,
+								.woocommerce-page a.button.big:hover, 
+								.woocommerce-page button.button.big:hover,
+								.woocommerce-page input.button.big:hover,
+								.woocommerce #content input.button.alt.big:hover,
+								.woocommerce #respond input#submit.alt.big:hover, 
+								.woocommerce a.button.alt.big:hover,
+								.woocommerce button.button.alt.big:hover,
+								.woocommerce input.button.alt.big:hover, 
+								.woocommerce-page #content input.button.alt.big:hover,
+								.woocommerce-page #respond input#submit.alt.big:hover, 
+								.woocommerce-page a.button.alt.big:hover,
+								.woocommerce-page button.button.alt.big:hover, 
+								.woocommerce-page input.button.alt.big:hover,
+								.shortcode-product .wd-big-product a.button:hover,
+								.woocommerce-page .shortcode-product .wd-big-product a.button:hover,
+								.woocommerce .shortcode-product .wd-big-product a.button:hover,
+								.woocommerce-page .place-order input[type="submit"]:hover,
+								.woocommerce .place-order input[type="submit"]:hover,
+								.wd_meet_team .social a,
+								html .woocommerce.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a:hover, 
+								html .woocommerce-page.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a:hover, 
+								html .post-type-archive-product.woocommerce #wd-container .products.list .product-meta-wrapper .list_add_to_cart a:hover,
+								.product-meta-wrapper .yith-wcwl-add-to-wishlist:hover a,
+								.product-meta-wrapper .wd_quickshop_handler:hover,
+								.product-meta-wrapper .wd_compare_wrapper:hover .compare,
+								.product-meta-wrapper .yith-wcwl-add-to-wishlist:hover,
+								.search-404 form input[type="submit"]:hover,
+								div.product .summary .yith-wcwl-add-to-wishlist a:hover,
+								div.product .summary a.compare:hover
+							</selector_normal>
+							<selector_important>
+								.wd-parallax a.button:hover,
+								.woocommerce table.cart a.button:hover, 
+								.woocommerce-page #content table.cart a.button:hover, 
+								.woocommerce-page table.cart a.button:hover,
+								body .ec_cart_button_row > .ec_cart_button:hover,
+								body .ec_cart_button_row a,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_cartitem_update_button:hover,
+								/* Easy cart */
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:last-child input[type='button']:hover,
+								body .ec_details_customer_reviews_row > input[type="button"]:hover,
+								body #ec_account_billing_information a.ec_account_billing_information_link input,
+								body #ec_account_shipping_information a.ec_account_shipping_information_link input,
+								body #ec_account_personal_information a.ec_account_personal_information_link input,
+								body #ec_account_password a.ec_account_password_link input,
+								/*================*/
+								body .ec_product_quickview_content_add_to_cart a:hover,
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > input:hover, 
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > a:hover,
+								body .ec_product_type1 .ec_product_quickview,
+								body .ec_product_type1 .ec_product_quickview:before,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_addtocart:hover a
+							</selector_important>
+						</selector>
+					</f1>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+							<selector_normal>
+								button:hover,
+								.buttons a:hover,
+								.button:hover,
+								.btn:hover,
+								input[type^="submit"]:hover,
+								.woocommerce #content input.button:hover,
+								.woocommerce #respond input#submit:hover, 
+								.woocommerce a.button:hover,
+								.woocommerce button.button:hover, 
+								.woocommerce input.button:hover,
+								.woocommerce-page #content input.button:hover, 
+								.woocommerce-page #respond input#submit:hover,
+								.woocommerce-page a.button:hover, 
+								.woocommerce-page button.button:hover,
+								.woocommerce-page input.button:hover,
+								.woocommerce #content input.button.alt:hover,
+								.woocommerce #respond input#submit.alt:hover, 
+								.woocommerce a.button.alt:hover,
+								.woocommerce button.button.alt:hover,
+								.woocommerce input.button.alt:hover, 
+								.woocommerce-page #content input.button.alt:hover,
+								.woocommerce-page #respond input#submit.alt:hover, 
+								.woocommerce-page a.button.alt:hover,
+								.woocommerce-page button.button.alt:hover, 
+								.woocommerce-page input.button.alt:hover,
+								ul.list-posts li.post .read-more a:hover,
+								.sidebar-content ul.currency_switcher li a.active, 
+								.sidebar-content ul.currency_switcher li a:hover,
+								.woocommerce #content table.cart a.button:hover, 
+								.woocommerce table.cart a.button:hover, 
+								.woocommerce-page #content table.cart a.button:hover, 
+								.woocommerce-page table.cart a.button:hover,
+								#accordion-checkout-details .accordion-heading a:hover h3,
+								#accordion-checkout-details .accordion-heading a h3,
+								.woocommerce nav.woocommerce-pagination ul li a.next:hover,
+								.woocommerce-page nav.woocommerce-pagination ul li a.next:hover,
+								.woocommerce #content nav.woocommerce-pagination ul li a.next:hover,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a.next:hover,
+								.page_navi .nav-content a.next:hover,
+								.woocommerce nav.woocommerce-pagination ul li a.prev:hover,
+								.woocommerce-page nav.woocommerce-pagination ul li a.prev:hover,
+								.woocommerce #content nav.woocommerce-pagination ul li a.prev:hover,
+								.woocommerce-page #content nav.woocommerce-pagination ul li a.prev:hover,
+								.page_navi .nav-content a.prev:hover,
+								form.woocommerce-ordering:hover ul.orderby,
+								form.woocommerce-ordering:hover ul.orderby > li span.orderby-current,
+								/* Navi Blog */
+								.single-content .navi > div > a:hover,
+								/* Comment */
+								ol.comment-list .reply a:hover,
+								/* Button product */
+								html .woocommerce .product-meta-wrapper .list_add_to_cart a:hover, 
+								html .woocommerce-page .product-meta-wrapper .list_add_to_cart a:hover,
+								html body table.compare-list tr.add-to-cart td a:hover,
+								.woocommerce #wd-container .button.button-white:hover,
+								.woocommerce-page #wd-container .button.button-white:hover,
+								#wd-container .button.button-white:hover,
+								/* Easy cart */
+								body .ec_product_type1 .ec_product_addtocart:hover,
+								body .ec_product_admin_reorder_button:hover,
+								body .ec_search_widget input[type="submit"]:hover, 
+								body .ec_newsletter_widget input[type="submit"]:hover,
+								body .ec_cart_widget_minicart_checkout_button:hover
+							</selector_normal>
+							<selector_important>
+								.wd-parallax a.button:hover,
+								.woocommerce table.cart a.button:hover, 
+								.woocommerce-page #content table.cart a.button:hover, 
+								.woocommerce-page table.cart a.button:hover,
+								body .ec_cart_button_row > .ec_cart_button:hover,
+								body .ec_cart_button_row a,
+								body .ec_cartitem_quantity_table > tbody > tr > td > .ec_cartitem_update_button:hover,
+								/* Easy cart */
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:last-child input[type='button']:hover,
+								body .ec_details_customer_reviews_row > input[type="button"]:hover,
+								body #ec_account_billing_information a.ec_account_billing_information_link input,
+								body #ec_account_shipping_information a.ec_account_shipping_information_link input,
+								body #ec_account_personal_information a.ec_account_personal_information_link input,
+								body #ec_account_password a.ec_account_password_link input
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</button>
+	<button2>
+		<text>Button Secondary Color</text>
+		<items>
+			<item>
+				<name>Button Text Color</name>
+				<slug>button_secondary_text_color</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								.woocommerce-cart .cart_totals .wc-proceed-to-checkout .button,
+								.woocommerce .cart_totals .wc-proceed-to-checkout .button,
+								button.big,
+								.buttons a.big,
+								.btn.big,
+								.button.big,
+								.woocommerce .variations_button button.button,
+								.woocommerce-page .variations_button button.button,
+								.woocommerce .variations_button button.button,
+								.woocommerce-page .variations_button button.button,
+								.woocommerce #content input.button.big, 
+								.woocommerce #respond input#submit.big,
+								.pp_woocommerce a.button.big, 
+								.woocommerce a.button.big, 
+								.woocommerce button.button.big, 
+								.woocommerce input.button.big, 
+								.woocommerce-page #content input.button.big, 
+								.woocommerce-page #respond input#submit.big, 
+								.woocommerce-page a.button.big, 
+								.woocommerce-page button.button.big, 
+								.woocommerce-page input.button.big,
+								.woocommerce #content input.button.alt.big, 
+								.woocommerce #respond input#submit.alt.big, 
+								.woocommerce a.button.alt.big, 
+								.woocommerce button.button.alt.big, 
+								.woocommerce input.button.alt.big, 
+								.woocommerce-page #content input.button.alt.big, 
+								.woocommerce-page #respond input#submit.alt.big, 
+								.woocommerce-page a.button.alt.big, 
+								.woocommerce-page button.button.alt.big, 
+								.woocommerce-page input.button.alt.big,
+								.shortcode-product .wd-big-product a.button,
+								.woocommerce-page .shortcode-product .wd-big-product a.button,
+								.woocommerce .shortcode-product .wd-big-product a.button,
+								.woocommerce-page .place-order input[type="submit"],
+								.woocommerce .place-order input[type="submit"],
+								.wd_meet_team .social a:hover,
+								html .woocommerce.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a, 
+								html .woocommerce-page.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a, 
+								html .post-type-archive-product.woocommerce #wd-container .products.list .product-meta-wrapper .list_add_to_cart a,
+								.search-404 form input[type="submit"]
+							</selector_normal>
+							<selector_important>
+								body .ec_product_quickview_content_add_to_cart a,
+								/* Easy cart */
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:last-child input[type='button'],
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > input, 
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > a,
+								body .ec_product_type1 .ec_product_quickview:hover,
+								body .ec_product_type1 .ec_product_quickview:hover:before,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_addtocart a
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button Background Color</name>
+				<slug>button_secondary_background_color</slug>
+				<std>#2a3584</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+							<selector_normal>
+								.woocommerce-cart .cart_totals .wc-proceed-to-checkout .button,
+								.woocommerce .cart_totals .wc-proceed-to-checkout .button,
+								button.big,
+								.buttons a.big,
+								.btn.big,
+								.button.big,
+								.woocommerce .variations_button button.button,
+								.woocommerce-page .variations_button button.button,
+								.woocommerce #content input.button.big, 
+								.woocommerce #respond input#submit.big,
+								.pp_woocommerce a.button.big, 
+								.woocommerce a.button.big, 
+								.woocommerce button.button.big, 
+								.woocommerce input.button.big, 
+								.woocommerce-page #content input.button.big, 
+								.woocommerce-page #respond input#submit.big, 
+								.woocommerce-page a.button.big, 
+								.woocommerce-page button.button.big, 
+								.woocommerce-page input.button.big,
+								.woocommerce #content input.button.alt.big, 
+								.woocommerce #respond input#submit.alt.big, 
+								.woocommerce a.button.alt.big, 
+								.woocommerce button.button.alt.big, 
+								.woocommerce input.button.alt.big, 
+								.woocommerce-page #content input.button.alt.big, 
+								.woocommerce-page #respond input#submit.alt.big, 
+								.woocommerce-page a.button.alt.big, 
+								.woocommerce-page button.button.alt.big, 
+								.woocommerce-page input.button.alt.big,
+								.shortcode-product .wd-big-product a.button,
+								.woocommerce-page .shortcode-product .wd-big-product a.button,
+								.woocommerce .shortcode-product .wd-big-product a.button,
+								.woocommerce-page .place-order input[type="submit"],
+								.woocommerce .place-order input[type="submit"],
+								.wd_meet_team .social a:hover,
+								html .woocommerce.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a, 
+								html .woocommerce-page.tax-product_cat #wd-container .products.list .product-meta-wrapper .list_add_to_cart a, 
+								html .post-type-archive-product.woocommerce #wd-container .products.list .product-meta-wrapper .list_add_to_cart a,
+								.search-404 form input[type="submit"]	
+							</selector_normal>
+							<selector_important>
+								body .ec_product_quickview_content_add_to_cart a,
+								/* Easy cart */
+								body .ec_product_quickview_content .ec_product_quickview_content_quantity tbody tr:last-child input[type='button'],
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > input, 
+								body .ec_details_add_to_cart_area > .ec_details_add_to_cart > a,
+								body .ec_product_type1 .ec_product_quickview:hover,
+								body .ec_product_type1 .ec_product_quickview:hover:before,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_product_addtocart a
+							</selector_important>
+						</selector>
+						
+						<attribute>border-color</attribute>
+						<selector>
+								.product-meta-wrapper .yith-wcwl-add-to-wishlist:after,
+								.product-meta-wrapper .wd_quickshop_handler:after,
+								.product-meta-wrapper .wd_compare_wrapper:after
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</button2>
+	<button3>
+		<text>Button Third Color</text>
+		<items>
+			<item>
+				<name>Button Text Color</name>
+				<slug>button_third_text_color</slug>
+				<std>#505050</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								.button.button-body,
+								.buttons .button-body,
+								.woocommerce #content .button-body,
+								.woocommerce-page #content .button-body,
+								.woocommerce .button-body,
+								.button.button-body.big,
+								.buttons .button-body.big,
+								.woocommerce #content .button-body.big,
+								.woocommerce-page #content .button-body.big,
+								.woocommerce .button-body.big	
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button Border Color</name>
+				<slug>button_third_border_color</slug>
+				<std>#505050</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+								.button.button-body,
+								.buttons .button-body,
+								.woocommerce #content .button-body,
+								.woocommerce-page #content .button-body,
+								.woocommerce .button-body,
+								.button.button-body.big,
+								.buttons .button-body.big,
+								.woocommerce #content .button-body.big,
+								.woocommerce-page #content .button-body.big,
+								.woocommerce .button-body.big
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button Text Color Hover</name>
+				<slug>button_text_color_hover</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								.button.button-body:hover,
+								.button-body:hover,
+								.buttons .button-body:hover,
+								.woocommerce #content .button-body:hover,
+								.woocommerce-page #content .button-body:hover,
+								.woocommerce .button-body:hover,
+								.button.button-body.big:hover,
+								.button-body.big:hover,
+								.buttons .button-body.big:hover,
+								.woocommerce #content .button-body.big:hover,
+								.woocommerce-page #content .button-body.big:hover,
+								.woocommerce .button-body.big:hover
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button Background Color Hover</name>
+				<slug>button_background_color_hover</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								.button.button-body:hover,
+								.button-body:hover,
+								.buttons .button-body:hover,
+								.woocommerce #content .button-body:hover,
+								.woocommerce-page #content .button-body:hover,
+								.woocommerce .button-body:hover,
+								.button.button-body.big:hover,
+								.button-body.big:hover,
+								.buttons .button-body.big:hover,
+								.woocommerce #content .button-body.big:hover,
+								.woocommerce-page #content .button-body.big:hover,
+								.woocommerce .button-body.big:hover
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</button3>
+	<product>
+		<text>Product Color</text>
+		<items>
+			<item>
+				<name>Rating Color</name>
+				<slug>rating_color</slug>
+				<std>#588e90</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								html .woocommerce .product-meta-wrapper .star-rating,
+								html .woocommerce-page .product-meta-wrapper .star-rating,
+								html .product-meta-wrapper .stars,
+								html .woocommerce .product-meta-wrapper .star-rating span,
+								html .woocommerce-page .product-meta-wrapper .star-rating span,
+								html .product-meta-wrapper .stars span,
+								html .woocommerce .product-meta-wrapper .star-rating span:before,
+								html .woocommerce-page .product-meta-wrapper .star-rating span:before,
+								html .product-meta-wrapper .stars span:before,
+								.woocommerce .star-rating:before, 
+								.woocommerce-page .star-rating:before,
+								.star-rating:before,
+								.star-rating span:before,
+								html .woocommerce .star-rating span:before,
+								html .woocommerce-page .star-rating span:before,
+								body .ec_product_details_star_on,
+								body .ec_product_star_on
+						</selector>
+						<attribute>border-bottom-color</attribute>
+						<selector>
+							<selector_important>
+								body .ec_product_details_star_on:before,
+								body .ec_product_details_star_on:after,
+								body .ec_product_star_on:before,
+								body .ec_product_star_on:after
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Label Onsale Background Color</name>
+				<slug>label_onsale_background_color</slug>
+				<std>#cb1f1f</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								div.product_label span,
+								span.onsale,
+								.woocommerce span.onsale, 
+								.woocommerce-page span.onsale,
+								.wd_price_table > .label_active
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Label Onsale Text Color</name>
+				<slug>label_onsale_text_color</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								div.product_label span,
+								span.onsale,
+								.woocommerce span.onsale, 
+								.woocommerce-page span.onsale,
+								.wd_price_table > .label_active
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Label Feature Background Color</name>
+				<slug>label_feature_background_color</slug>
+				<std>#2a3584</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								div.product_label > span.featured ,
+								.woocommerce div.product_label > span.featured ,
+								.woocommerce-page div.product_label > span.featured,
+								.wd_cart_buttons a.button.wd_update_button_visible:hover
+						</selector>
+						<attribute>border-color</attribute>
+						<selector>
+								.wd_cart_buttons a.button.wd_update_button_visible
+						</selector>
+						<attribute>color</attribute>
+						<selector>
+								.wd_cart_buttons a.button.wd_update_button_visible
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Label Feature Text Color</name>
+				<slug>label_feature_text_color</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								div.product_label > span.featured ,
+								.woocommerce div.product_label > span.featured ,
+								.woocommerce-page div.product_label > span.featured,
+								.wd_cart_buttons a.button.wd_update_button_visible:hover
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Thumbnail Background Color Hover (Group button in thumbnail image of product)</name>
+				<slug>thumbnail_background_color_hover</slug>
+				<std>#2a3584</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+								.product-thumbnail-wrapper:after,
+								.item-portfolio .thumb-image-hover,
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button Thumbnail Icon Color</name>
+				<slug>button_thumbnail_icon_color</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								html .product-thumbnail-wrapper .wd_quickshop_handler,
+								html .woocommerce .product-thumbnail-wrapper .list_add_to_cart a,
+								html .woocommerce-page .product-thumbnail-wrapper .list_add_to_cart a,
+								.product-thumbnail-wrapper .yith-wcwl-add-to-wishlist .show a,
+								.product-thumbnail-wrapper .wd_compare_wrapper .compare,
+								.product .wd_tooltip,
+								.outofstock .product-thumbnail-wrapper.active-quickshop .list_add_to_cart .wd_tooltip,
+								.thumb-image-hover .icons a
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button Thumbnail Icon Color Hover</name>
+				<slug>button_thumbnail_icon_color_hover</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								html .wd_quickshop_handler:hover,
+								html .woocommerce .list_add_to_cart a:hover,
+								html .woocommerce-page .list_add_to_cart a:hover,
+								.product-thumbnail-wrapper .yith-wcwl-add-to-wishlist .show a:hover,
+								.product-thumbnail-wrapper .wd_compare_wrapper .compare:hover,
+								.product .wd_tooltip:after,
+								.thumb-image-hover .icons a:hover
+						</selector>
+						<attribute>background-color</attribute>
+						<selector>
+								.product .wd_tooltip
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Button OutStock Icon Color</name>
+				<slug>button_outstock_icon_color</slug>
+				<std>#cb1f1f</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+								.wishlist_table tr td.product-stock-status span.wishlist-out-of-stock,
+								.outofstock .product-thumbnail-wrapper .list_add_to_cart .wd_tooltip:after
+						</selector>
+						<attribute>background-color</attribute>
+						<selector>
+								.outofstock .product-thumbnail-wrapper .list_add_to_cart .wd_tooltip
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Price Color</name>
+				<slug>price_color</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								.del,
+								.amount,
+								.quantity,
+								.price,
+								.woocommerce #content div.product p.price, 
+								.woocommerce #content div.product span.price, 
+								.woocommerce div.product p.price, 
+								.woocommerce div.product span.price, 
+								.woocommerce-page #content div.product p.price, 
+								.woocommerce-page #content div.product span.price, 
+								.woocommerce-page div.product p.price, 
+								.woocommerce-page div.product span.price,
+								html body table.compare-list .amount,
+								body .ec_price_container_type1 > span:first-child,
+								body .ec_product_quickview_content_price > span:first-child,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_price,
+								body .ec_product_type6 .ec_product_meta_type6 .ec_list_price,
+								body .ec_product_widget_pricing > .ec_product_old_price
+							</selector_normal>
+							<selector_important>
+								body .ec_details_price > .ec_product_old_price,
+								body .ec_details_right > .ec_add_to_cart_form > .ec_details_price > .ec_product_price
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Price Sale Color</name>
+				<slug>price_sale_color</slug>
+				<std>#cb1f1f</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								ins,
+								ins .amount,
+								html body table.compare-list ins .amount,
+								body .ec_price_container_type1 .ec_price_type1,
+								body .ec_product_quickview_content_price .ec_price,
+								body .ec_product_widget_pricing > .ec_product_sale_price, 
+								body .ec_product_widget_pricing > .ec_product_price
+							</selector_normal>
+							<selector_important>
+								body .ec_details_right > .ec_add_to_cart_form > .ec_details_price > .ec_product_sale_price
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</product>
+	<slider>
+		<text>Slider Color</text>
+		<items>
+			<item>
+				<name>Slider Icon Color</name>
+				<slug>slider_icon_color</slug>
+				<std>#505050</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								.tp-leftarrow.default,
+								.tp-rightarrow.default,
+								.owl-prev,
+								.owl-next,
+								.slider_control_brand .next,
+								.slider_control_brand .prev
+							</selector_normal>
+							<selector_important>
+								body .ec_flipbook_right,
+								body .ec_flipbook_left
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Slider Background Color</name>
+				<slug>slider_background_color</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+							<selector_normal>
+								.tp-leftarrow.default,
+								.tp-rightarrow.default,
+								.owl-prev,
+								.owl-next,
+								.slider_control_brand .next,
+								.slider_control_brand .prev
+							</selector_normal>
+							<selector_important>
+								body .ec_flipbook_right,
+								body .ec_flipbook_left
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Slider Icon Color Hover</name>
+				<slug>slider_icon_color_hover</slug>
+				<std>#828282</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_normal>
+								.tp-leftarrow.default:hover,
+								.tp-rightarrow.default:hover,
+								.owl-prev:hover,
+								.owl-next:hover,
+								.slider_control_brand .next:hover,
+								.slider_control_brand .prev:hover,
+								.list .owl-prev:hover,
+								.list .owl-next:hover
+							</selector_normal>
+							<selector_important>
+								body .ec_flipbook_right:hover,
+								body .ec_flipbook_left:hover
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Slider Icon Background Color Hover</name>
+				<slug>slider_icon_background_color_hover</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+							<selector_normal>
+								.tp-leftarrow.default:hover,
+								.tp-rightarrow.default:hover,
+								.owl-prev:hover,
+								.owl-next:hover,
+								.slider_control_brand .next:hover,
+								.slider_control_brand .prev:hover,
+								.list .owl-prev:hover,
+								.list .owl-next:hover
+							</selector_normal>
+							<selector_important>
+								body .ec_flipbook_right:hover,
+								body .ec_flipbook_left:hover
+							</selector_important>
+						</selector>
+						<attribute>border-color</attribute>
+						<selector>
+								.list .owl-prev:hover,
+								.list .owl-next:hover
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</slider>
+	<revolution>
+		<text>Revoluion button</text>
+		<items>
+			<item>
+				<name>Revo Button Text Color</name>
+				<slug>revo_button_text_color</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_important>
+								.tp-caption .button-body,
+								.woocommerce-page .tp-caption .button-body,
+								.woocommerce .tp-caption .button-body
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Revo Button Border Color</name>
+				<slug>revo_button_border_color</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+							<selector_important>
+								.tp-caption .button-body,
+								.woocommerce-page .tp-caption .button-body,
+								.woocommerce .tp-caption .button-body
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Revo Button Text Color Hover</name>
+				<slug>revo_button_text_color_hover</slug>
+				<std>#ffffff</std>
+				<frontend>
+					<f1>
+						<attribute>color</attribute>
+						<selector>
+							<selector_important>
+								.tp-caption .button-body:hover,
+								.woocommerce .tp-caption .button-body:hover,
+								.woocommerce-page .tp-caption .button-body:hover,
+								.tp-caption .button-white:hover,
+								.woocommerce-page .tp-caption .button-white:hover,
+								.woocommerce.tp-caption .button-white:hover
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Revo Button Background Color Hover</name>
+				<slug>revo_button_background_color_hover</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>background-color</attribute>
+						<selector>
+							<selector_important>
+								.tp-caption .button-body:hover,
+								.woocommerce .tp-caption .button-body:hover,
+								.woocommerce-page .tp-caption .button-body:hover,
+								.tp-caption .button-white:hover,
+								.woocommerce-page .tp-caption .button-white:hover,
+								.woocommerce.tp-caption .button-white:hover
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+			<item>
+				<name>Revo Button Border Color Hover</name>
+				<slug>revo_button_border_color_hover</slug>
+				<std>#202020</std>
+				<frontend>
+					<f1>
+						<attribute>border-color</attribute>
+						<selector>
+							<selector_important>
+								.tp-caption .button-body:hover,
+								.woocommerce .tp-caption .button-body:hover,
+								.woocommerce-page .tp-caption .button-body:hover,
+								.tp-caption .button-white:hover,
+								.woocommerce-page .tp-caption .button-white:hover,
+								.woocommerce.tp-caption .button-white:hover
+							</selector_important>
+						</selector>
+					</f1>
+				</frontend>
+			</item>
+		</items>
+	</revolution>
+</items_setting>

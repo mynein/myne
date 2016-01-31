@@ -1,0 +1,17 @@
+								<div class="wrap ">
+									<div class="fix"></div>
+																											<div class="flickr_badge_image start"><a href="http://www.flickr.com/photos/130820568@N08/16295957711/"><img src="http://farm9.staticflickr.com/8642/16295957711_c5e6b4b0e4_t.jpg" alt="A photo on Flickr" title="flickr9" height="92" width="92"></a></div>
+																											<div class="flickr_badge_image"><a href="http://www.flickr.com/photos/130820568@N08/16110207328/"><img src="http://farm8.staticflickr.com/7530/16110207328_34216104b0_t.jpg" alt="A photo on Flickr" title="flickr8" height="92" width="92"></a></div>
+																											<div class="flickr_badge_image end"><a href="http://www.flickr.com/photos/130820568@N08/16110207338/"><img src="http://farm8.staticflickr.com/7504/16110207338_08de44722b_t.jpg" alt="A photo on Flickr" title="flickr7" height="92" width="92"></a></div>
+																											<div class="flickr_badge_image start"><a href="http://www.flickr.com/photos/130820568@N08/16110207348/"><img src="http://farm8.staticflickr.com/7482/16110207348_b6bf1157bd_t.jpg" alt="A photo on Flickr" title="flickr6" height="92" width="92"></a></div>
+																											<div class="flickr_badge_image"><a href="http://www.flickr.com/photos/130820568@N08/15677872093/"><img src="http://farm8.staticflickr.com/7563/15677872093_75cb06530d_t.jpg" alt="A photo on Flickr" title="flickr5" height="92" width="92"></a></div>
+																											<div class="flickr_badge_image end"><a href="http://www.flickr.com/photos/130820568@N08/15675336034/"><img src="http://farm8.staticflickr.com/7538/15675336034_e493eb4d6b_t.jpg" alt="A photo on Flickr" title="flickr4" height="92" width="92"></a></div>
+																											<div class="flickr_badge_image start"><a href="http://www.flickr.com/photos/130820568@N08/16297750585/"><img src="http://farm8.staticflickr.com/7559/16297750585_71692b05a3_t.jpg" alt="A photo on Flickr" title="flickr3" height="92" width="92"></a></div>
+																											<div class="flickr_badge_image"><a href="http://www.flickr.com/photos/130820568@N08/15675336054/"><img src="http://farm8.staticflickr.com/7471/15675336054_3691426301_t.jpg" alt="A photo on Flickr" title="flickr2" height="92" width="92"></a></div>
+																											<div class="flickr_badge_image end"><a href="http://www.flickr.com/photos/130820568@N08/16110380930/"><img src="http://farm8.staticflickr.com/7484/16110380930_60f4a34776_t.jpg" alt="A photo on Flickr" title="flickr1" height="92" width="92"></a></div>
+										
+									<div class="fix"></div>
+									<a class="see-more" href="http://www.flickr.com/photos/130820568@N08">See more</a>
+								</div>
+
+								

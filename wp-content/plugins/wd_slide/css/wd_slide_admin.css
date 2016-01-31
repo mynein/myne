@@ -1,0 +1,43 @@
+.uploader #_unique_name_button { width:64px; *width:40px;background-color: #21759B;background-image: linear-gradient(to bottom, #2A95C5, #21759B);background-image: -webkit-linear-gradient(top,#2e9fd2,#21759b);background-image: -o-linear-gradient(top, #2A95C5, #21759B);border-color: #21759B #21759B #1E6A8D;box-shadow: 0 1px 0 rgba(120, 200, 230, 0.5) inset;color: #FFFFFF;text-decoration: none;text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1)}
+.uploader .sortable-wrapper {display:block;overflow:hidden;border:1px solid #DFDFDF;box-shadow:0 0 5px #DFDFDF;margin-top:10px;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;-o-border-radius:3px;}
+.uploader .sortable-wrapper:hover {border-color:#54b8e5;box-shadow:0 0 5px #54b8e5}
+.uploader .sortable-wrapper #sortable {overflow:hidden;display:block;margin-bottom:1%;}
+.uploader .sortable-wrapper #sortable li {overflow:hidden;display:inline-block;margin:1% 0 0 1%;float:left;height:120px;width:15.5%;*height:15.5%;}
+.uploader .sortable-wrapper #sortable li:hover {cursor:move;}
+.uploader .sortable-wrapper #sortable li img {display:block;width:100%;height:auto;}
+.uploader .sortable-wrapper .image-wrappper {position:relative;margin:0!important;display:inline-block;float:left;}
+.uploader .sortable-wrapper .image-wrappper a.preview-img-remove {right:5px;background:rgba(255,255,255,0.6) url(../images/i_delete.png) no-repeat 50% 50%;background:#fff url(../images/i_delete.png) no-repeat 50% 50%\9}
+.uploader .sortable-wrapper .image-wrappper a.preview-img-edit {right:20px;background:rgba(255, 255, 255, 0.6) url(../images/i_edit.png) no-repeat 50% 50%;background:#fff url(../images/i_edit.png) no-repeat 50% 50%\9;}
+.uploader .sortable-wrapper .image-wrappper a.preview-img-remove,.uploader .image-wrappper a.preview-img-edit {position:absolute;top:5px;font-size:0;line-height:0;text-indent:9999px;width:14px;height:14px;}
+.uploader .sortable-wrapper .image-wrappper a.preview-img-remove:hover,.uploader .image-wrappper a.preview-img-edit:hover {color:red;text-decoration:underline;}
+.fancybox-overlay-fixed {z-index:10000000000000!important;}
+.fancybox-overlay .fancybox-wrap span.label {width:15%;line-height:18px;margin-top:3px}
+.fancybox-overlay .fancybox-wrap input, .fancybox-overlay .fancybox-wrap textarea {min-width:84%;}
+.fancybox-overlay .fancybox-wrap .lightbox-image img{display:block;clear:both;margin-bottom:10px;}
+.fancybox-overlay .fancybox-wrap .save-slide {text-align:center;background-color: #21759B;background-image: linear-gradient(to bottom, #2A95C5, #21759B);background-image: -webkit-linear-gradient(top,#2e9fd2,#21759b);background-image: -o-linear-gradient(top, #2A95C5, #21759B);border-color: #21759B #21759B #1E6A8D;box-shadow: 0 1px 0 rgba(120, 200, 230, 0.5) inset;color: #FFFFFF;text-decoration: none;text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1)}
+.btn.fancy-button-wrapper {text-align:center;}
+.fancybox-inner > .lightbox-image > img {margin-left:auto;margin-right:auto;}
+
+
+#normal-sortables .shortcode-config {border:1px solid #dfdfdf;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;-o-border-radius:3px;box-shadow:0 0 5px #DFDFDF;-moz-box-shadow:0 0 5px #DFDFDF;-webkit-box-shadow:0 0 5px #DFDFDF;-o-box-shadow:0 0 5px #DFDFDF;padding:10px;}
+#normal-sortables .shortcode-config:hover{border-color:#54B8E5;box-shadow:0 0 5px #54B8E5;-moz-box-shadow:0 0 5px #54B8E5;-webkit-box-shadow:0 0 5px #54B8E5;-o-box-shadow:0 0 5px #54B8E5}
+#normal-sortables .shortcode-config label {width:160px;display:inline-block;}
+#normal-sortables .show-shortcode {padding:10px 10px 0;}
+
+#normal-sortables .shortcode-config .responsive_option_wrapper > label {padding: 10px 0px;}
+#normal-sortables .shortcode-config .responsive_option_wrapper .option_list label{width: 100px;}
+@media only screen and (min-width: 767px){
+	#normal-sortables .shortcode-config .responsive_option_wrapper .option_list{
+		padding-left: 160px;
+		margin-top: -30px;
+	}
+	#normal-sortables .shortcode-config .responsive_option_wrapper .option_list ul li label:nth-child(4){
+		text-align: right;
+		padding-right: 10px;
+	}
+}
+@media only screen and (min-width: 360px){
+	#normal-sortables .shortcode-config .responsive_option_wrapper .option_list ul li label:nth-child(4){
+		text-align: right;
+	}
+}

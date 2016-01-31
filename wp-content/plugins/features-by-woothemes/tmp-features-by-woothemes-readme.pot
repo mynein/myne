@@ -1,0 +1,424 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Features by WooThemes"
+msgstr ""
+
+#. Short description.
+msgid "Show off what features your company, product or service offers, using our shortcode, widget or template tag."
+msgstr ""
+
+#. Screenshot description.
+msgid "The features management screen within the WordPress admin."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "\"Features by WooThemes\" is a clean and easy-to-use features showcase management system for WordPress. Load in the features your product, company or services offers, and display them via a shortcode, widget or template tag on your website."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Looking for a helping hand? <a href=\"http://wordpress.org/extend/plugins/features-by-woothemes/other_notes/\">View plugin documentation</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Looking to contribute code to this plugin? <a href=\"http://github.com/woothemes/features/\">Fork the repository over at GitHub</a>.\n"
+"(submit pull requests to the \"develop\" branch)"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin via WordPress.org."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the ZIP file through the \"Plugins &gt; Add New &gt; Upload\" screen in your WordPress dashboard."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Place <code>&lt;?php do_action( 'woothemes_features' ); ?&gt;</code> in your templates, or use the provided widget or shortcode."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Installing \"Features by WooThemes\" can be done either by searching for \"Features by WooThemes\" via the \"Plugins &gt; Add New\" screen in your WordPress dashboard, or by using the following steps:"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015.11.20"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update - add argument to features widget for pixel size or image thumbnail name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Adds basic front-end layout styling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2015.07.06"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Action hook typo (props helgatheviking)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removes deprecated constructor call for WP_Widget"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014.08.18"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Made post type args filterable (props lkraav)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014-02-03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Link title options in the widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014-01-30"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New - Filter to set feature links to open in a new window."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Widget image size option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Better WPML integration."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2014-01-17"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UI tweaks for WordPress 3.8."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Default args are now filterable via woothemes_features_default_args."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds the ability to link only features with a custom URL set."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds a new %%PERMALINK%% tag to the templating engine."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adjusts the 'id' parameter to cater for multipe ID values."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-08-01."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds \"woothemes_features_single_slug\" as a filter for the single feature URL slug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds \"woothemes_features_archive_slug\" as a filter for the features archive URL slug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds a flush_rewrite_rules() call on plugin activation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-04-30."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds \"woothemes_features_content\" filter for modifying the content of features when outputting the features list."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds default filters to the \"woothemes_features_content\" hook, enabling shortcodes in the content or excerpt fields."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds \"feature-category\" taxonomy and necessary logic for displaying features from a specified category."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds \"columns-X\" class to the \".features\" DIV tag, for easier styling, using the \"per_row\" attribute."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2013-01-03"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix the \"order\" direction options to be in capitals."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhance the \"woothemes_features_html\" filter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Make sure to use the_content() if there is no custom excerpt."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add support for ordering by \"rand\" to the widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Allow the \"size\" parameter to receive an array of dimensions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-11-29"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Makes sure the ending wrapping markup for the widget is declared in the appropriate location, before calling the woothemes_features() function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-11-27"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds basic WPML support to the get_features() method."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moves the \"title\" outside of the \".features\" DIV tag."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds \"before\" and \"after\" arguments for filtering the HTML for the container. Integrate the $before_widget and $after widget variables to use these parameters with the widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If the \"link title\" option is enabled, link the image as well."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds \"before_title\" and \"after_title\" arguments, for filtering the title's wrapping HTML. Integrate the $before_title and $after_title widget variables to use these parameters with the widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds support for the excerpt."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-11-08"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds \"link_title\" option to the shortcode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Adds \"URL\" custom field, to use in place of linking to the permalink, if it is specified."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-11-06"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - first / last classes applied regardless"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "2012-10-23"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release. Woo!"
+msgstr ""
+
+#. Found in faq header.
+msgid "The plugin looks unstyled when I activate it. Why is this?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I contribute?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I make feature links open in a new window / tab?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "\"Features by WooThemes\" is a lean plugin that aims to keep it's purpose as clean and clear as possible. Thus, we don't load any preset CSS styling, to allow full control over the styling within your theme or child theme."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "We encourage everyone to contribute their ideas, thoughts and code snippets. This can be done by forking the <a href=\"http://github.com/woothemes/features/\">repository over at GitHub</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You sure can, just use the following snippet:"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Usage"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Usage Examples"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'limit' =&gt; 5 (the maximum number of items to display)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'orderby' =&gt; 'menu_order' (how to order the items - accepts all default WordPress ordering options)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'order' =&gt; 'DESC' (the order direction)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'id' =&gt; 0 (display a specific item)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'echo' =&gt; true (whether to display or return the data - useful with the template tag)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'size' =&gt; 50 (the pixel dimensions of the image)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'per_row' =&gt; 3 (when creating rows, how many items display in a single row?)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'link_title' =&gt; true (link the feature's title to it's permalink)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'custom_links_only' =&gt; true (link the feature's title only if a custom URL is set)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'title' =&gt; '' (an optional title)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'before' =&gt; '&lt;div class=\"widget widget_woothemes_features\"&gt;' (the starting HTML, wrapping the features)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'after' =&gt; '&lt;/div&gt;' (the ending HTML, wrapping the features)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'before_title' =&gt; '&lt;h2&gt;' (the starting HTML, wrapping the title)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'after_title' =&gt; '&lt;/h2&gt;' (the ending HTML, wrapping the title)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'category' =&gt; 0 (the ID/slug of the category to filter by)"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'none'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'ID'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'author'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'title'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'date'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'modified'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'parent'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'rand'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'comment_count'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'menu_order'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'meta_value'"
+msgstr ""
+
+#. Found in remaining content list item.
+msgid "'meta_value_num'"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "To display your features via a theme or a custom plugin, please use the following code:"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "To add arguments to this, please use any of the following arguments, using the syntax provided below:"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The various options for the \"orderby\" parameter are:"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The same arguments apply to the shortcode which is <code>[woothemes_features]</code> and the template tag, which is <code>&lt;?php woothemes_features(); ?&gt;</code>."
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "Adjusting the limit and image dimension, using the arguments in the three possible methods:"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "do_action() call:"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "woothemes_features() template tag:"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "[woothemes_features] shortcode:"
+msgstr ""
